@@ -1,0 +1,31 @@
+{
+  "category": "siyer",
+  "questions": [
+    {
+      "text": "Peygamber Efendimiz'e (s.a.v.) ilk vahiy hangi mağarada gelmiştir?",
+      "choices": [
+        "Sevr",
+        "Hira",
+        "Uhud",
+        "Kuba"
+      ],
+      "correct": 1,
+      "explanation": "İlk vahiy Nur Dağı'ndaki Hira Mağarası'nda gelmiştir.",
+      "source": "Alak Suresi 1-5; Buhârî, Bed'ü'l-vahy 3",
+      "difficulty": 1
+    },
+    {
+      "text": "Hicret hangi şehre doğru yapılmıştır?",
+      "choices": [
+        "Taif",
+        "Medine",
+        "Şam",
+        "Kudüs"
+      ],
+      "correct": 1,
+      "explanation": "Hicret Mekke'den Medine'ye yapılmıştır.",
+      "source": "İbn Hişam, Siyer",
+      "difficulty": 1
+    }
+  ]
+}

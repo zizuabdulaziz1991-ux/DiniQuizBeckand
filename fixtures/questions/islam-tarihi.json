@@ -1,0 +1,31 @@
+{
+  "category": "islam-tarihi",
+  "questions": [
+    {
+      "text": "Hz. Muhammed'den (s.a.v.) sonra gelen ilk halife kimdir?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ebû Bekir",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 1,
+      "explanation": "İlk halife Hz. Ebû Bekir'dir.",
+      "source": "Taberî, Târîh",
+      "difficulty": 1
+    },
+    {
+      "text": "Dört büyük halife (Hulefâ-yi Râşidîn) kaç kişidir?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "Ebû Bekir, Ömer, Osman ve Ali.",
+      "source": "Genel kaynaklar",
+      "difficulty": 1
+    }
+  ]
+}

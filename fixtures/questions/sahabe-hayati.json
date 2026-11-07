@@ -1,0 +1,31 @@
+{
+  "category": "sahabe-hayati",
+  "questions": [
+    {
+      "text": "Cennetle müjdelenen on sahabeye ne ad verilir?",
+      "choices": [
+        "Aşere-i Mübeşşere",
+        "Ashab-ı Suffe",
+        "Ensar",
+        "Muhacirun"
+      ],
+      "correct": 0,
+      "explanation": "Aşere-i Mübeşşere, hayatlarında cennetle müjdelenen on sahabedir.",
+      "source": "Tirmizî, Menâkıb",
+      "difficulty": 1
+    },
+    {
+      "text": "İslam'ın ilk müezzini kimdir?",
+      "choices": [
+        "Hz. Bilal",
+        "Hz. Ammar",
+        "Hz. Zeyd",
+        "Hz. Hamza"
+      ],
+      "correct": 0,
+      "explanation": "İlk müezzin Hz. Bilal-i Habeşî'dir.",
+      "source": "İbn Sa'd, Tabakât",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+databases:
+  - name: diniquiz-db
+    plan: free
+    databaseName: diniquiz
+    user: diniquiz
+
+services:
+  - type: web
+    name: diniquiz-backend
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/v1/health/
+    envVars:
+      - key: DJANGO_SETTINGS_MODULE
+        value: config.settings.prod
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: diniquiz-db
+          property: connectionString
+      - key: ALLOWED_HOSTS
+        value: .onrender.com
+      # Frontend yayınlandıktan sonra gerçek adresle güncelleyin
+      - key: CORS_ALLOWED_ORIGINS
+        value: https://diniquiz-frontend.onrender.com
+      - key: LOAD_QUESTIONS_ON_START
+        value: "false"

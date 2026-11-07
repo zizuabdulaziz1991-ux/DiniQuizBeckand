@@ -1,0 +1,31 @@
+{
+  "category": "kuran",
+  "questions": [
+    {
+      "text": "Kur'an-ı Kerim'de kaç sure vardır?",
+      "choices": [
+        "99",
+        "110",
+        "114",
+        "120"
+      ],
+      "correct": 2,
+      "explanation": "Kur'an-ı Kerim 114 sureden oluşur.",
+      "source": "Mushaf",
+      "difficulty": 1
+    },
+    {
+      "text": "Kur'an'ın ilk suresi hangisidir?",
+      "choices": [
+        "Bakara",
+        "Fâtiha",
+        "İhlâs",
+        "Nâs"
+      ],
+      "correct": 1,
+      "explanation": "Mushafın ilk suresi Fâtiha'dır.",
+      "source": "Mushaf",
+      "difficulty": 1
+    }
+  ]
+}

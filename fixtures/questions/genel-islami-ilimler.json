@@ -1,0 +1,44 @@
+{
+  "category": "genel-islami-ilimler",
+  "questions": [
+    {
+      "text": "İslam'ın şartları kaç tanedir?",
+      "choices": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "explanation": "İslam'ın şartları beştir: kelime-i şehadet, namaz, oruç, zekât ve hac.",
+      "source": "Buhârî, İman 1",
+      "difficulty": 1
+    },
+    {
+      "text": "İman esasları kaç tanedir?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "İman esasları altıdır.",
+      "source": "Müslim, İman 1",
+      "difficulty": 1
+    },
+    {
+      "text": "Günlük farz namaz sayısı kaçtır?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Günde beş vakit farz namaz vardır.",
+      "source": "Buhârî, Mevâkît",
+      "difficulty": 1
+    }
+  ]
+}
