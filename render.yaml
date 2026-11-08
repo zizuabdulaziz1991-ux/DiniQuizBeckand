@@ -25,4 +25,4 @@ services:
       - key: CORS_ALLOWED_ORIGINS
         value: https://diniquiz-frontend.onrender.com
       - key: LOAD_QUESTIONS_ON_START
-        value: "false"
+        value: "true"
