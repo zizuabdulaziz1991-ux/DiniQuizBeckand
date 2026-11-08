@@ -26,3 +26,6 @@ services:
         value: https://diniquiz-frontend-c7to.onrender.com
       - key: LOAD_QUESTIONS_ON_START
         value: "true"
+      # Soru başına süre (saniye)
+      - key: QUIZ_TIME_LIMIT_SECONDS
+        value: "30"

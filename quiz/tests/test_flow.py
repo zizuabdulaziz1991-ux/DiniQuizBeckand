@@ -41,7 +41,7 @@ def correct_id(question_id):
 
 @pytest.mark.parametrize(
     "elapsed_ms,correct,expected",
-    [(0, True, 150), (7500, True, 125), (15000, True, 100), (16500, True, 100), (0, False, 0)],
+    [(0, True, 150), (15000, True, 125), (30000, True, 100), (33000, True, 100), (0, False, 0)],
 )
 def test_scoring(elapsed_ms, correct, expected):
     assert calculate_points(elapsed_ms, correct) == expected
@@ -53,7 +53,7 @@ def test_start_and_current_hides_correct(client, questions):
     body = current(client, s).json()
     assert "is_correct" not in str(body)
     assert len(body["question"]["choices"]) == 4
-    assert body["remaining_ms"] <= 15000
+    assert body["remaining_ms"] <= 30000
 
 
 def test_invalid_token_403(client, questions):
@@ -68,7 +68,7 @@ def test_refresh_does_not_reset_timer(client, questions):
         current(client, s)
         t.tick(timedelta(seconds=5))
         body = current(client, s).json()
-    assert 9000 <= body["remaining_ms"] <= 10000
+    assert 24000 <= body["remaining_ms"] <= 25000
 
 
 def test_full_flow_and_leaderboard(client, questions):
@@ -107,7 +107,7 @@ def test_timeout_counts_as_empty(client, questions):
     s = start(client)
     with freeze_time("2026-01-01 10:00:00") as t:
         q = current(client, s).json()["question"]
-        t.tick(timedelta(seconds=17))
+        t.tick(timedelta(seconds=35))
         r = answer(client, s, q["id"], correct_id(q["id"])).json()
     assert r["is_correct"] is False and r["points"] == 0
     assert QuizSession.objects.get(pk=s["session_id"]).empty_count == 1
