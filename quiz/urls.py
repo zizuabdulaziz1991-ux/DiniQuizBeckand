@@ -4,6 +4,7 @@ from quiz import views
 
 urlpatterns = [
     path("health/", views.HealthView.as_view(), name="health"),
+    path("languages/", views.LanguageListView.as_view(), name="languages"),
     path("categories/", views.CategoryListView.as_view(), name="categories"),
     path("sessions/", views.SessionCreateView.as_view(), name="session-create"),
     path(

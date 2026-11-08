@@ -12,7 +12,19 @@
       "correct": 2,
       "explanation": "Kur'an-ı Kerim 114 sureden oluşur.",
       "source": "Mushaf",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karimda nechta sura bor?",
+          "choices": [
+            "99",
+            "110",
+            "114",
+            "120"
+          ],
+          "explanation": "Qur'oni karim 114 ta suradan iborat."
+        }
+      }
     },
     {
       "text": "Kur'an'ın ilk suresi hangisidir?",

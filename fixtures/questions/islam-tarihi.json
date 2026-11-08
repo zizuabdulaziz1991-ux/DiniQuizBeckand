@@ -12,7 +12,19 @@
       "correct": 1,
       "explanation": "İlk halife Hz. Ebû Bekir'dir.",
       "source": "Taberî, Târîh",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Muhammaddan (s.a.v.) keyin birinchi bo'lib kim xalifa bo'lgan?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Birinchi xalifa Hazrati Abu Bakr bo'lgan."
+        }
+      }
     },
     {
       "text": "Dört büyük halife (Hulefâ-yi Râşidîn) kaç kişidir?",

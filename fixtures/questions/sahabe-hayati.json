@@ -12,7 +12,19 @@
       "correct": 0,
       "explanation": "Aşere-i Mübeşşere, hayatlarında cennetle müjdelenen on sahabedir.",
       "source": "Tirmizî, Menâkıb",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Jannat bilan xushxabar berilgan o'n sahobaga qanday nom beriladi?",
+          "choices": [
+            "Ashara-i Mubashshara",
+            "Ahli Suffa",
+            "Ansor",
+            "Muhojirun"
+          ],
+          "explanation": "Ashara-i Mubashshara hayotlik chog'larida jannat bilan xushxabar berilgan o'n sahobadir."
+        }
+      }
     },
     {
       "text": "İslam'ın ilk müezzini kimdir?",

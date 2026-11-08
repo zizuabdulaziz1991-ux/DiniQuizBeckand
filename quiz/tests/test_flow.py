@@ -197,3 +197,53 @@ def test_admin_player_scores_page(client, questions, django_user_model):
     html = r.content.decode()
     assert "Zizu" in html or "zizu" in html
     assert "<td>2</td>" in html  # oyun sayısı
+
+
+def test_uzbek_translation_and_fallback(client, questions):
+    from quiz.models import Category, CategoryTranslation, Choice, QuestionTranslation
+
+    q0 = questions[0]
+    ids = list(Choice.objects.filter(question=q0).order_by("id").values_list("id", flat=True))
+    QuestionTranslation.objects.create(
+        question=q0, language="uz", text="O'zbekcha savol", explanation="izoh",
+        choice_1="A-uz", choice_2="B-uz", choice_3="", choice_4="D-uz",
+    )
+    CategoryTranslation.objects.create(
+        category=Category.objects.get(slug="siyer"), language="uz", name="Siyrat", description="x"
+    )
+
+    # Kategori: lang parametresi ve Accept-Language
+    assert client.get(f"{BASE}/categories/?lang=uz").json()[0]["name"] == "Siyrat"
+    r = client.get(f"{BASE}/categories/", HTTP_ACCEPT_LANGUAGE="uz-UZ,uz;q=0.9,ru;q=0.8")
+    assert r.json()[0]["name"] == "Siyrat"
+    assert client.get(f"{BASE}/categories/").json()[0]["name"] == "Siyer"  # varsayılan Türkçe
+    assert client.get(f"{BASE}/categories/?lang=xx").json()[0]["name"] == "Siyer"  # desteklenmeyen
+
+    langs = client.get(f"{BASE}/languages/", HTTP_ACCEPT_LANGUAGE="uz").json()
+    assert langs["detected"] == "uz" and [l["code"] for l in langs["languages"]] == ["tr", "uz"]
+
+    # Oturum dili: Özbekçe oturumda çevrilmiş soru, çevrilmemişler Türkçe
+    r = client.post(f"{BASE}/sessions/", {"category": "siyer", "language": "uz"}, format="json")
+    s = r.json()
+    assert s["language"] == "uz"
+    seen_uz = False
+    for _ in range(5):
+        cur = current(client, s).json()
+        assert cur["language"] == "uz"
+        q = cur["question"]
+        if q["id"] == q0.id:
+            seen_uz = True
+            assert q["text"] == "O'zbekcha savol"
+            by_id = {c["id"]: c["text"] for c in q["choices"]}
+            assert by_id[ids[0]] == "A-uz" and by_id[ids[3]] == "D-uz"
+            assert by_id[ids[2]] == "Şık 2"  # boş çeviri Türkçe'ye düşer
+            res = answer(client, s, q["id"], correct_id(q["id"])).json()
+            assert res["explanation"] == "izoh"
+        else:
+            assert q["text"].startswith("Soru ")  # çevirisi yok → Türkçe
+            answer(client, s, q["id"], None)
+    assert seen_uz
+
+    # Dil belirtilmezse Türkçe
+    s2 = client.post(f"{BASE}/sessions/", {"category": "siyer"}, format="json").json()
+    assert s2["language"] == "tr"

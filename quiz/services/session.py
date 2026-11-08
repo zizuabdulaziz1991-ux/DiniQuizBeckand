@@ -8,6 +8,7 @@ from django.db.models.functions import Lower
 from django.utils import timezone
 
 from quiz.models import Category, Choice, Question, QuizSession, SessionAnswer
+from quiz.services.i18n import translated_question
 from quiz.services.scoring import calculate_points, max_score
 
 
@@ -21,7 +22,7 @@ class QuizError(Exception):
         self.extra = extra or {}
 
 
-def start_session(category_slug: str, platform: str) -> QuizSession:
+def start_session(category_slug: str, platform: str, language: str = "tr") -> QuizSession:
     try:
         category = Category.objects.get(slug=category_slug, is_active=True)
     except Category.DoesNotExist:
@@ -35,7 +36,7 @@ def start_session(category_slug: str, platform: str) -> QuizSession:
     count = min(settings.QUIZ_QUESTION_COUNT, len(ids))
     order = random.sample(ids, count)
     return QuizSession.objects.create(
-        category=category, question_order=order, client_platform=platform
+        category=category, question_order=order, client_platform=platform, language=language
     )
 
 
@@ -76,15 +77,18 @@ def get_current(session: QuizSession) -> dict:
         elapsed_ms = int((now - session.current_served_at).total_seconds() * 1000)
         remaining_ms = max(0, _time_limit_ms() - elapsed_ms)
         question = Question.objects.get(pk=session.question_order[session.current_index])
+        tq = translated_question(question, session.language)
         return {
+            "language": session.language,
             "index": session.current_index,
             "total": len(session.question_order),
             "question": {
                 "id": question.id,
-                "text": question.text,
+                "text": tq["text"],
                 "arabic_text": question.arabic_text or None,
                 "choices": [
-                    {"id": c.id, "text": c.text} for c in _shuffled_choices(session, question)
+                    {"id": c.id, "text": tq["choices"][c.id]}
+                    for c in _shuffled_choices(session, question)
                 ],
             },
             "remaining_ms": remaining_ms,
@@ -157,7 +161,7 @@ def submit_answer(session: QuizSession, question_id: int, choice_id: int | None)
             "correct_choice_id": correct_choice.id if correct_choice else None,
             "points": points,
             "total_score": session.score,
-            "explanation": question.explanation,
+            "explanation": translated_question(question, session.language)["explanation"],
             "is_last": is_last,
         }
 

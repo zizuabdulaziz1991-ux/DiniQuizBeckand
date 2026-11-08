@@ -12,7 +12,19 @@
       "correct": 1,
       "explanation": "İlk vahiy Nur Dağı'ndaki Hira Mağarası'nda gelmiştir.",
       "source": "Alak Suresi 1-5; Buhârî, Bed'ü'l-vahy 3",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizga (s.a.v.) birinchi vahiy qaysi g'orda nozil bo'lgan?",
+          "choices": [
+            "Savr",
+            "Hiro",
+            "Uhud",
+            "Quba"
+          ],
+          "explanation": "Birinchi vahiy Nur tog'idagi Hiro g'oridan nozil bo'lgan."
+        }
+      }
     },
     {
       "text": "Hicret hangi şehre doğru yapılmıştır?",

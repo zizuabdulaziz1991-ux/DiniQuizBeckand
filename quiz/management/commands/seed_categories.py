@@ -1,6 +1,6 @@
 from django.core.management.base import BaseCommand
 
-from quiz.models import Category
+from quiz.models import Category, CategoryTranslation
 
 CATEGORIES = [
     ("Genel İslami İlimler", "genel-islami-ilimler", "İman, ibadet, fıkıh ve hadis temelleri", "#6C5CE7", "book-open"),
@@ -11,12 +11,22 @@ CATEGORIES = [
 ]
 
 
+# Özbekçe kategori çevirileri (yayından önce ana dili Özbekçe olan biri kontrol etmeli)
+UZ = {
+    "genel-islami-ilimler": ("Umumiy islomiy ilmlar", "Iymon, ibodat, fiqh va hadis asoslari"),
+    "siyer": ("Siyrat", "Payg'ambarimiz (s.a.v.) hayoti"),
+    "islam-tarihi": ("Islom tarixi", "To'rt xalifadan Usmonlilargacha"),
+    "sahabe-hayati": ("Sahobalar hayoti", "Sahobai kiromlar hayoti"),
+    "kuran": ("Qur'on", "Suralar, oyatlar va qissalar"),
+}
+
+
 class Command(BaseCommand):
     help = "5 varsayılan kategoriyi oluşturur (idempotent)."
 
     def handle(self, *args, **opts):
         for order, (name, slug, desc, color, icon) in enumerate(CATEGORIES, start=1):
-            Category.objects.update_or_create(
+            category, _ = Category.objects.update_or_create(
                 slug=slug,
                 defaults={
                     "name": name,
@@ -26,5 +36,11 @@ class Command(BaseCommand):
                     "order": order,
                     "is_active": True,
                 },
+            )
+            name_uz, desc_uz = UZ[slug]
+            CategoryTranslation.objects.update_or_create(
+                category=category,
+                language="uz",
+                defaults={"name": name_uz, "description": desc_uz},
             )
         self.stdout.write(self.style.SUCCESS(f"{len(CATEGORIES)} kategori hazır"))

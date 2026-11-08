@@ -4,6 +4,8 @@ import uuid
 from django.core.exceptions import ValidationError
 from django.db import models
 
+from quiz.validators import validate_language
+
 
 def generate_token():
     return secrets.token_urlsafe(32)
@@ -86,6 +88,7 @@ class QuizSession(models.Model):
     started_at = models.DateTimeField(auto_now_add=True)
     finished_at = models.DateTimeField(null=True, blank=True)
     client_platform = models.CharField(max_length=20, choices=Platform.choices, default=Platform.WEB)
+    language = models.CharField(max_length=5, default="tr")
 
     class Meta:
         ordering = ["-started_at"]
@@ -124,3 +127,41 @@ class PlayerScore(QuizSession):
         proxy = True
         verbose_name = "Oyuncu skoru"
         verbose_name_plural = "Oyuncu skorları (toplam)"
+
+
+class CategoryTranslation(models.Model):
+    category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name="translations")
+    language = models.CharField(max_length=5, validators=[validate_language])
+    name = models.CharField(max_length=100)
+    description = models.TextField(blank=True)
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=["category", "language"], name="uniq_category_language")
+        ]
+        verbose_name = "Kategori çevirisi"
+        verbose_name_plural = "Kategori çevirileri"
+
+
+class QuestionTranslation(models.Model):
+    """Şıklar, Türkçe şıkların id sırasıyla (1. 2. 3. 4.) eşleşir. Boş bırakılan alan Türkçe'ye düşer."""
+
+    question = models.ForeignKey(Question, on_delete=models.CASCADE, related_name="translations")
+    language = models.CharField(max_length=5, validators=[validate_language])
+    text = models.TextField()
+    explanation = models.TextField(blank=True)
+    choice_1 = models.CharField(max_length=255, blank=True)
+    choice_2 = models.CharField(max_length=255, blank=True)
+    choice_3 = models.CharField(max_length=255, blank=True)
+    choice_4 = models.CharField(max_length=255, blank=True)
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=["question", "language"], name="uniq_question_language")
+        ]
+        verbose_name = "Soru çevirisi"
+        verbose_name_plural = "Soru çevirileri"
+
+    @property
+    def choice_texts(self):
+        return [self.choice_1, self.choice_2, self.choice_3, self.choice_4]

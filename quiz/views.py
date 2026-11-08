@@ -15,6 +15,7 @@ from quiz.serializers import (
     NameSerializer,
     StartSessionSerializer,
 )
+from quiz.services import i18n
 from quiz.services import session as svc
 from quiz.throttles import AnswerThrottle, NameThrottle, SessionCreateThrottle
 
@@ -37,13 +38,38 @@ class HealthView(APIView):
         return Response({"status": "ok"})
 
 
+class LanguageListView(APIView):
+    @extend_schema(responses=dict)
+    def get(self, request):
+        detected = i18n.resolve_language(
+            request.query_params.get("lang"), request.headers.get("Accept-Language")
+        )
+        return Response(
+            {
+                "default": settings.QUIZ_DEFAULT_LANGUAGE,
+                "detected": detected,
+                "languages": [
+                    {"code": code, "name": name} for code, name in settings.QUIZ_LANGUAGES.items()
+                ],
+            }
+        )
+
+
 class CategoryListView(APIView):
     @extend_schema(responses=CategorySerializer(many=True))
     def get(self, request):
         categories = Category.objects.filter(is_active=True).annotate(
             question_count=Count("questions", filter=Q(questions__is_approved=True))
         )
-        return Response(CategorySerializer(categories, many=True).data)
+        language = i18n.resolve_language(
+            request.query_params.get("lang"), request.headers.get("Accept-Language")
+        )
+        translated = i18n.category_texts(categories, language)
+        data = CategorySerializer(categories, many=True).data
+        for row in data:
+            if row["id"] in translated:
+                row["name"], row["description"] = translated[row["id"]]
+        return Response(data)
 
 
 class SessionCreateView(QuizErrorMixin, APIView):
@@ -53,14 +79,18 @@ class SessionCreateView(QuizErrorMixin, APIView):
     def post(self, request):
         data = StartSessionSerializer(data=request.data)
         data.is_valid(raise_exception=True)
+        language = i18n.resolve_language(
+            data.validated_data.get("language"), request.headers.get("Accept-Language")
+        )
         session = svc.start_session(
-            data.validated_data["category"], data.validated_data["platform"]
+            data.validated_data["category"], data.validated_data["platform"], language
         )
         return Response(
             {
                 "session_id": str(session.id),
                 "token": session.token,
                 "category": session.category.slug,
+                "language": session.language,
                 "total_questions": len(session.question_order),
                 "time_limit_seconds": settings.QUIZ_TIME_LIMIT_SECONDS,
             },

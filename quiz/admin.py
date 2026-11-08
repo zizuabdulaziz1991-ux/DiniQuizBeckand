@@ -8,9 +8,11 @@ from django.template.response import TemplateResponse
 
 from quiz.models import (
     Category,
+    CategoryTranslation,
     Choice,
     PlayerScore,
     Question,
+    QuestionTranslation,
     QuizSession,
     SessionAnswer,
 )
@@ -37,9 +39,21 @@ class ChoiceInline(admin.TabularInline):
     max_num = 4
 
 
+class CategoryTranslationInline(admin.StackedInline):
+    model = CategoryTranslation
+    extra = 0
+
+
+class QuestionTranslationInline(admin.StackedInline):
+    model = QuestionTranslation
+    extra = 0
+    verbose_name = "Soru çevirisi (şıklar Türkçe şıkların sırasıyla eşleşir)"
+
+
 @admin.register(Category)
 class CategoryAdmin(admin.ModelAdmin):
     list_display = ("name", "slug", "order", "is_active")
+    inlines = [CategoryTranslationInline]
     prepopulated_fields = {"slug": ("name",)}
 
 
@@ -53,7 +67,7 @@ class QuestionAdmin(admin.ModelAdmin):
     list_display = ("text", "category", "difficulty", "is_approved")
     list_filter = ("category", "is_approved", "difficulty")
     search_fields = ("text", "source")
-    inlines = [ChoiceInline]
+    inlines = [ChoiceInline, QuestionTranslationInline]
     actions = [approve_questions]
 
 

@@ -21,3 +21,12 @@ def validate_player_name(value: str) -> str:
         if w in tokens or (len(w) > 3 and w in lowered):
             raise ValidationError("Bu isim kullanılamaz.")
     return name
+
+
+def validate_language(value: str) -> None:
+    from django.conf import settings
+
+    if value not in settings.QUIZ_LANGUAGES:
+        raise ValidationError(
+            f"Desteklenmeyen dil. Geçerli diller: {', '.join(settings.QUIZ_LANGUAGES)}"
+        )

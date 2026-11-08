@@ -12,7 +12,19 @@
       "correct": 1,
       "explanation": "İslam'ın şartları beştir: kelime-i şehadet, namaz, oruç, zekât ve hac.",
       "source": "Buhârî, İman 1",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Islomning shartlari nechta?",
+          "choices": [
+            "3",
+            "5",
+            "6",
+            "7"
+          ],
+          "explanation": "Islomning shartlari beshta: shahodat kalimasi, namoz, ro'za, zakot va haj."
+        }
+      }
     },
     {
       "text": "İman esasları kaç tanedir?",

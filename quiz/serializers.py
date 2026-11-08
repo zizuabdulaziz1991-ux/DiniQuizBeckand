@@ -16,6 +16,7 @@ class CategorySerializer(serializers.ModelSerializer):
 class StartSessionSerializer(serializers.Serializer):
     category = serializers.SlugField()
     platform = serializers.ChoiceField(choices=QuizSession.Platform.choices, default="web")
+    language = serializers.CharField(max_length=10, required=False, allow_blank=True)
 
 
 class AnswerSerializer(serializers.Serializer):

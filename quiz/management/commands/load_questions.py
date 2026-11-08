@@ -4,7 +4,9 @@ from pathlib import Path
 from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 
-from quiz.models import Category, Choice, Question
+from django.conf import settings
+
+from quiz.models import Category, Choice, Question, QuestionTranslation
 
 
 class Command(BaseCommand):
@@ -77,8 +79,33 @@ class Command(BaseCommand):
                 Choice(question=question, text=t, is_correct=(i == correct))
                 for i, t in enumerate(choices)
             )
+            errors += self._load_translations(question, q.get("translations", {}), where)
             if was_created:
                 created += 1
             else:
                 updated += 1
         return created, updated, errors
+
+    def _load_translations(self, question, translations, where):
+        errors = []
+        for lang, t in translations.items():
+            if lang not in settings.QUIZ_LANGUAGES:
+                errors.append(f"{where}: desteklenmeyen dil '{lang}'")
+                continue
+            choices = t.get("choices", [])
+            if len(choices) != 4 or not t.get("text"):
+                errors.append(f"{where} [{lang}]: çeviride metin ve 4 şık olmalı")
+                continue
+            QuestionTranslation.objects.update_or_create(
+                question=question,
+                language=lang,
+                defaults={
+                    "text": t["text"],
+                    "explanation": t.get("explanation", ""),
+                    "choice_1": choices[0],
+                    "choice_2": choices[1],
+                    "choice_3": choices[2],
+                    "choice_4": choices[3],
+                },
+            )
+        return errors

@@ -118,3 +118,7 @@ QUIZ_GRACE_MS = env.int("QUIZ_GRACE_MS", default=1000)
 QUIZ_SESSION_TTL_MINUTES = env.int("QUIZ_SESSION_TTL_MINUTES", default=60)
 QUIZ_BASE_POINTS = 100
 QUIZ_MAX_SPEED_BONUS = 50
+
+# Diller (kod: görünen ad). Yeni dil eklemek için buraya eklemek ve çevirileri girmek yeterli.
+QUIZ_LANGUAGES = {"tr": "Türkçe", "uz": "Oʻzbekcha"}
+QUIZ_DEFAULT_LANGUAGE = "tr"
