@@ -3,7 +3,8 @@ from datetime import timedelta
 
 from django.conf import settings
 from django.db import IntegrityError, transaction
-from django.db.models import Q
+from django.db.models import Count, Max, Q, Sum, Value
+from django.db.models.functions import Lower
 from django.utils import timezone
 
 from quiz.models import Category, Choice, Question, QuizSession, SessionAnswer
@@ -168,18 +169,53 @@ def leaderboard_qs(category: Category | None = None):
     return qs
 
 
-def rank_of(session: QuizSession) -> int:
-    """Kategori skor tablosunda bu oturumun sırası (eşitlikte erken bitiren önde)."""
-    ahead = (
-        leaderboard_qs(session.category)
-        .exclude(pk=session.pk)
+def leaderboard_players(category: Category | None = None):
+    """Oyuncu (isim, büyük/küçük harf duyarsız) bazında toplanmış skor satırları.
+
+    Aynı isimle oynanan tüm biten oyunlar tek satırda birleşir:
+    total_score (toplam), best_score (en iyi oyun), games_played (oyun sayısı).
+    Sıralama: toplam puan azalan, eşitlikte son oyununu daha önce bitiren önde.
+    """
+    return (
+        leaderboard_qs(category)
+        .annotate(pname=Lower("player_name"))
+        .values("pname")
+        .annotate(
+            display_name=Max("player_name"),
+            total_score=Sum("score"),
+            best_score=Max("score"),
+            games_played=Count("id"),
+            last_finished=Max("finished_at"),
+        )
+        .order_by("-total_score", "last_finished")
+    )
+
+
+def _players_ahead(category, total, last_finished) -> int:
+    return (
+        leaderboard_players(category)
         .filter(
-            Q(score__gt=session.score)
-            | Q(score=session.score, finished_at__lt=session.finished_at)
+            Q(total_score__gt=total) | Q(total_score=total, last_finished__lt=last_finished)
         )
         .count()
     )
-    return ahead + 1
+
+
+def rank_of(session: QuizSession) -> int:
+    """Kategori skor tablosunda oyuncunun (toplam puana göre) sırası."""
+    me = (
+        leaderboard_players(session.category)
+        .filter(pname=Lower(Value(session.player_name)))
+        .first()
+    )
+    if me is None:
+        return rank_preview(session)
+    return _players_ahead(session.category, me["total_score"], me["last_finished"]) + 1
+
+
+def rank_preview(session: QuizSession) -> int:
+    """Henüz isim yazılmamış oyunun puanıyla yeni bir oyuncu olarak alacağı sıra."""
+    return _players_ahead(session.category, session.score, session.finished_at) + 1
 
 
 def get_result(session: QuizSession) -> dict:
@@ -192,7 +228,7 @@ def get_result(session: QuizSession) -> dict:
         "wrong_count": session.wrong_count,
         "empty_count": session.empty_count,
         "max_score": max_score(len(session.question_order)),
-        "rank_preview": rank_of(session),
+        "rank_preview": rank_preview(session),
     }
 
 

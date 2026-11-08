@@ -153,3 +153,31 @@ def test_unapproved_questions_excluded(client, category):
 def test_health_and_categories(client, questions):
     assert client.get(f"{BASE}/health/").json() == {"status": "ok"}
     assert client.get(f"{BASE}/categories/").json()[0]["question_count"] == 5
+
+
+def _play_and_name(client, name):
+    s = start(client)
+    for _ in range(5):
+        q = current(client, s).json()["question"]
+        answer(client, s, q["id"], correct_id(q["id"]))
+    r = client.post(
+        f"{BASE}/sessions/{s['session_id']}/name/", {"player_name": name}, format="json", **hdr(s)
+    )
+    assert r.status_code == 200
+    return s
+
+
+def test_leaderboard_sums_same_player(client, questions):
+    _play_and_name(client, "Zizu")
+    _play_and_name(client, "zizu")  # büyük/küçük harf aynı oyuncu
+    _play_and_name(client, "Ali")
+
+    entries = client.get(f"{BASE}/leaderboard/").json()["entries"]
+    assert len(entries) == 2
+    top = entries[0]
+    assert top["games_played"] == 2
+    assert top["total_score"] == top["score"] >= 2 * top["best_score"] - 5
+    assert top["rank"] == 1 and entries[1]["rank"] == 2
+
+    best = client.get(f"{BASE}/leaderboard/?mode=best").json()["entries"]
+    assert len(best) == 3

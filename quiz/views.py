@@ -124,14 +124,34 @@ class LeaderboardView(APIView):
             limit = max(1, min(10, int(request.query_params.get("limit", 10))))
         except ValueError:
             limit = 10
-        rows = svc.leaderboard_qs(category).order_by("-score", "finished_at")[:limit]
-        entries = [
-            {
-                "rank": i,
-                "player_name": s.player_name,
-                "score": s.score,
-                "finished_at": s.finished_at,
-            }
-            for i, s in enumerate(rows, start=1)
-        ]
-        return Response({"category": slug or None, "entries": entries})
+        mode = request.query_params.get("mode", "total")
+        if mode == "best":
+            # Eski davranış: her oyun ayrı satır
+            rows = svc.leaderboard_qs(category).order_by("-score", "finished_at")[:limit]
+            entries = [
+                {
+                    "rank": i,
+                    "player_name": s.player_name,
+                    "score": s.score,
+                    "total_score": s.score,
+                    "best_score": s.score,
+                    "games_played": 1,
+                    "finished_at": s.finished_at,
+                }
+                for i, s in enumerate(rows, start=1)
+            ]
+        else:
+            rows = svc.leaderboard_players(category)[:limit]
+            entries = [
+                {
+                    "rank": i,
+                    "player_name": r["display_name"],
+                    "score": r["total_score"],  # geriye dönük uyumluluk: toplam puan
+                    "total_score": r["total_score"],
+                    "best_score": r["best_score"],
+                    "games_played": r["games_played"],
+                    "finished_at": r["last_finished"],
+                }
+                for i, r in enumerate(rows, start=1)
+            ]
+        return Response({"category": slug or None, "mode": mode, "entries": entries})
