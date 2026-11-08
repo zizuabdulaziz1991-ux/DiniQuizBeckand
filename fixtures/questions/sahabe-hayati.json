@@ -37,7 +37,19 @@
       "correct": 0,
       "explanation": "İlk müezzin Hz. Bilal-i Habeşî'dir.",
       "source": "İbn Sa'd, Tabakât",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Islomning birinchi muazzini kim?",
+          "choices": [
+            "Hazrati Bilol",
+            "Hazrati Ammor",
+            "Hazrati Zayd",
+            "Hazrati Hamza"
+          ],
+          "explanation": "Birinchi muazzin Hazrati Bilol Habashiydir."
+        }
+      }
     },
     {
       "text": "İslam'ı ilk kabul eden kadın kimdir?",
@@ -50,7 +62,19 @@
       "correct": 1,
       "explanation": "Hz. Hatice, ilk iman eden kişidir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Islomni birinchi qabul qilgan ayol kim?",
+          "choices": [
+            "Hazrati Oisha",
+            "Hazrati Xadicha",
+            "Hazrati Fotima",
+            "Hazrati Sumayya"
+          ],
+          "explanation": "Hazrati Xadicha birinchi iymon keltirgan zotdir."
+        }
+      }
     },
     {
       "text": "Yetişkin erkeklerden ilk Müslüman olan sahabi kimdir?",
@@ -63,7 +87,19 @@
       "correct": 0,
       "explanation": "Yetişkin erkeklerden ilk iman eden Hz. Ebû Bekir'dir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Voyaga yetgan erkaklardan birinchi musulmon bo'lgan sahoba kim?",
+          "choices": [
+            "Hazrati Abu Bakr",
+            "Hazrati Umar",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Voyaga yetgan erkaklardan birinchi iymon keltirgan Hazrati Abu Bakrdir."
+        }
+      }
     },
     {
       "text": "Çocuk yaştakiler arasında İslam'ı ilk kabul eden sahabi kimdir?",
@@ -76,7 +112,19 @@
       "correct": 3,
       "explanation": "Hz. Ali, çocuk yaştayken İslam'ı kabul etmiştir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Bolalar orasida Islomni birinchi qabul qilgan sahoba kim?",
+          "choices": [
+            "Hazrati Talha",
+            "Hazrati Zubayr",
+            "Hazrati Sa'd",
+            "Hazrati Ali"
+          ],
+          "explanation": "Hazrati Ali bolaligida Islomni qabul qilgan."
+        }
+      }
     },
     {
       "text": "'Hak ile batılı ayıran' anlamındaki 'el-Fârûk' lakabıyla anılan sahabi kimdir?",
@@ -89,7 +137,19 @@
       "correct": 2,
       "explanation": "Hz. Ömer'in lakabı el-Fârûk'tur.",
       "source": "İbn Sa'd, Tabakât",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "'Haqni botildan ajratuvchi' ma'nosidagi 'al-Foruq' laqabi bilan ataladigan sahoba kim?",
+          "choices": [
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon",
+            "Hazrati Umar",
+            "Hazrati Ali"
+          ],
+          "explanation": "Hazrati Umarning laqabi al-Foruqdir."
+        }
+      }
     },
     {
       "text": "'İki nur sahibi' anlamındaki 'Zinnûreyn' lakabıyla anılan halife kimdir?",
@@ -102,7 +162,19 @@
       "correct": 1,
       "explanation": "Peygamberimiz'in iki kızıyla evlendiği için bu lakapla anılmıştır.",
       "source": "İbn Sa'd, Tabakât",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "'Ikki nur sohibi' ma'nosidagi 'Zunnurayn' laqabi bilan ataladigan xalifa kim?",
+          "choices": [
+            "Hazrati Ali",
+            "Hazrati Usmon",
+            "Hazrati Umar",
+            "Hazrati Abu Bakr"
+          ],
+          "explanation": "Payg'ambarimizning ikki qiziga uylangani uchun shu laqab bilan atalgan."
+        }
+      }
     },
     {
       "text": "Hz. Ali, Peygamberimiz'in hangi kızıyla evlenmiştir?",
@@ -115,7 +187,19 @@
       "correct": 0,
       "explanation": "Hz. Ali, Hz. Fâtıma ile evlenmiştir.",
       "source": "İbn Sa'd, Tabakât",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ali Payg'ambarimizning qaysi qiziga uylangan?",
+          "choices": [
+            "Hazrati Fotima",
+            "Hazrati Zaynab",
+            "Hazrati Ruqayya",
+            "Hazrati Ummu Kulsum"
+          ],
+          "explanation": "Hazrati Ali Hazrati Fotimaga uylangan."
+        }
+      }
     },
     {
       "text": "Aşağıdakilerden hangisi cennetle müjdelenen on sahabeden biridir?",
@@ -128,7 +212,19 @@
       "correct": 3,
       "explanation": "Abdurrahman b. Avf, Aşere-i Mübeşşere'dendir.",
       "source": "Tirmizî, Menâkıb",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Quyidagilardan qaysi biri jannat bilan xushxabar berilgan o'n sahobadan biri?",
+          "choices": [
+            "Abu Hurayra",
+            "Anas ibn Molik",
+            "Xolid ibn Valid",
+            "Abdurahmon ibn Avf"
+          ],
+          "explanation": "Abdurahmon ibn Avf Ashara-i Mubashsharadandir."
+        }
+      }
     },
     {
       "text": "'Seyfullah' (Allah'ın kılıcı) lakabıyla anılan sahabi kimdir?",
@@ -141,7 +237,19 @@
       "correct": 2,
       "explanation": "Peygamberimiz Halid b. Velid'e bu lakabı vermiştir.",
       "source": "İbn Sa'd, Tabakât",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "'Sayfulloh' (Allohning qilichi) laqabi bilan ataladigan sahoba kim?",
+          "choices": [
+            "Hazrati Hamza",
+            "Sa'd ibn Abu Vaqqos",
+            "Xolid ibn Valid",
+            "Amr ibn Os"
+          ],
+          "explanation": "Payg'ambarimiz Xolid ibn Validga bu laqabni bergan."
+        }
+      }
     },
     {
       "text": "En çok hadis rivayet eden sahabi kimdir?",
@@ -154,7 +262,19 @@
       "correct": 1,
       "explanation": "Ebû Hüreyre en çok hadis rivayet eden sahabidir.",
       "source": "Genel hadis tarihi kaynakları",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Eng ko'p hadis rivoyat qilgan sahoba kim?",
+          "choices": [
+            "Hazrati Umar",
+            "Abu Hurayra",
+            "Anas ibn Molik",
+            "Abdulloh ibn Mas'ud"
+          ],
+          "explanation": "Abu Hurayra eng ko'p hadis rivoyat qilgan sahobadir."
+        }
+      }
     },
     {
       "text": "Uhud Savaşı'nda şehit olan Peygamberimiz'in amcası kimdir?",
@@ -167,7 +287,19 @@
       "correct": 0,
       "explanation": "Hz. Hamza, Uhud'da şehit olmuştur.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Uhud jangida shahid bo'lgan Payg'ambarimizning amakisi kim?",
+          "choices": [
+            "Hazrati Hamza",
+            "Abu Tolib",
+            "Hazrati Abbos",
+            "Abu Lahab"
+          ],
+          "explanation": "Hazrati Hamza Uhudda shahid bo'lgan."
+        }
+      }
     },
     {
       "text": "Habeşistan'a hicret eden Müslümanların başkanı olan sahabi kimdir?",
@@ -180,7 +312,19 @@
       "correct": 3,
       "explanation": "Cafer b. Ebû Tâlib, Habeşistan muhacirlerinin sözcüsü ve başkanıdır.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Habashistonga hijrat qilgan musulmonlarning boshlig'i bo'lgan sahoba kim?",
+          "choices": [
+            "Ammor ibn Yosir",
+            "Mus'ab ibn Umayr",
+            "Abu Zarr",
+            "Ja'far ibn Abu Tolib"
+          ],
+          "explanation": "Ja'far ibn Abu Tolib Habashiston muhojirlarining vakili va boshlig'idir."
+        }
+      }
     },
     {
       "text": "Hicret eden Müslümanlara yardım eden Medineli Müslümanlara ne ad verilir?",
@@ -193,7 +337,19 @@
       "correct": 2,
       "explanation": "Medineli yardımcılara Ensâr denir.",
       "source": "Tevbe, 100",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hijrat qilgan musulmonlarga yordam bergan Madinalik musulmonlarga nima deyiladi?",
+          "choices": [
+            "Muhojirun",
+            "Ahli Suffa",
+            "Ansor",
+            "Tobe'in"
+          ],
+          "explanation": "Madinalik yordamchilarga Ansor deyiladi."
+        }
+      }
     },
     {
       "text": "Hz. Âişe'nin babası kimdir?",
@@ -206,7 +362,19 @@
       "correct": 1,
       "explanation": "Hz. Âişe, Hz. Ebû Bekir'in kızıdır.",
       "source": "İbn Sa'd, Tabakât",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Oishaning otasi kim?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Hazrati Oisha Hazrati Abu Bakrning qizidir."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'in hanımlarına verilen unvan hangisidir?",
@@ -219,7 +387,19 @@
       "correct": 0,
       "explanation": "Peygamberimiz'in hanımları 'müminlerin anneleri' olarak anılır.",
       "source": "Ahzâb, 6",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning ayollariga berilgan unvon qaysi?",
+          "choices": [
+            "Ummahotul mu'minin (mo'minlarning onalari)",
+            "Ahli Suffa",
+            "Ansor",
+            "Muhojirun"
+          ],
+          "explanation": "Payg'ambarimizning ayollari 'mo'minlarning onalari' deb ataladi."
+        }
+      }
     },
     {
       "text": "Hendek Savaşı'nda hendek kazma fikrini veren sahabi kimdir?",
@@ -232,7 +412,19 @@
       "correct": 3,
       "explanation": "Selmân-ı Fârisî, Medine çevresine hendek kazılmasını önermiştir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Xandaq jangida xandaq qazish fikrini bergan sahoba kim?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Bilol",
+            "Abu Zarr",
+            "Salmon Forsiy"
+          ],
+          "explanation": "Salmon Forsiy Madina atrofiga xandaq qazishni taklif qilgan."
+        }
+      }
     },
     {
       "text": "Akabe biatlarından sonra Medine'ye İslam'ı öğretmek için gönderilen sahabi kimdir?",
@@ -245,7 +437,19 @@
       "correct": 2,
       "explanation": "Mus'ab b. Umeyr Medine'nin ilk muallimidir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 3
+      "difficulty": 3,
+      "translations": {
+        "uz": {
+          "text": "Aqaba bay'atlaridan keyin Madinaga Islomni o'rgatish uchun yuborilgan sahoba kim?",
+          "choices": [
+            "Hazrati Hamza",
+            "Hazrati Zubayr",
+            "Mus'ab ibn Umayr",
+            "Bilol Habashiy"
+          ],
+          "explanation": "Mus'ab ibn Umayr Madinaning birinchi muallimidir."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'in Medine'ye geldiğinde evinde misafir kaldığı sahabi kimdir?",
@@ -258,7 +462,19 @@
       "correct": 1,
       "explanation": "Peygamberimiz Medine'de ilk olarak Ebû Eyyûb el-Ensârî'nin evinde kalmıştır.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz Madinaga kelganida uyida mehmon bo'lib turgan sahoba kim?",
+          "choices": [
+            "Sa'd ibn Mu'oz",
+            "Abu Ayyub al-Ansoriy",
+            "Abdulloh ibn Salom",
+            "Abu Zarr"
+          ],
+          "explanation": "Payg'ambarimiz Madinada birinchi bo'lib Abu Ayyub al-Ansoriyning uyida qolgan."
+        }
+      }
     },
     {
       "text": "Hz. Ebû Bekir'e verilen 'doğrulayıcı' anlamındaki lakap hangisidir?",
@@ -271,7 +487,19 @@
       "correct": 0,
       "explanation": "Miraç haberini hemen tasdik ettiği için 'es-Sıddîk' lakabını almıştır.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakrga berilgan 'tasdiqlovchi' ma'nosidagi laqab qaysi?",
+          "choices": [
+            "as-Siddiq",
+            "al-Foruq",
+            "al-Amin",
+            "Zunnurayn"
+          ],
+          "explanation": "Me'roj xabarini darhol tasdiqlagani uchun 'as-Siddiq' laqabini olgan."
+        }
+      }
     }
   ]
 }

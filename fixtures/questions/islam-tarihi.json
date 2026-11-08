@@ -37,7 +37,19 @@
       "correct": 1,
       "explanation": "Ebû Bekir, Ömer, Osman ve Ali.",
       "source": "Genel kaynaklar",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "To'rt xalifa (Xulafoi roshidin) necha kishi?",
+          "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "explanation": "Abu Bakr, Umar, Usmon va Ali."
+        }
+      }
     },
     {
       "text": "Hicri takvimin başlangıcı hangi olaydır?",
@@ -50,7 +62,19 @@
       "correct": 1,
       "explanation": "Hicri takvim, Hicret'ten başlatılmıştır.",
       "source": "Taberî, Târîh",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hijriy taqvimning boshlanishi qaysi voqea?",
+          "choices": [
+            "Fil voqeasi",
+            "Hijrat",
+            "Makkaning fathi",
+            "Birinchi vahiy"
+          ],
+          "explanation": "Hijriy taqvim Hijratdan boshlangan."
+        }
+      }
     },
     {
       "text": "Hicri takvim hangi halife döneminde başlatılmıştır?",
@@ -63,7 +87,19 @@
       "correct": 0,
       "explanation": "Hicri takvim Hz. Ömer döneminde belirlenmiştir.",
       "source": "Taberî, Târîh",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Hijriy taqvim qaysi xalifa davrida joriy qilingan?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Hijriy taqvim Hazrati Umar davrida belgilangan."
+        }
+      }
     },
     {
       "text": "Kur'an-ı Kerim'in çoğaltılıp önemli merkezlere gönderilmesi hangi halife döneminde yapılmıştır?",
@@ -76,7 +112,19 @@
       "correct": 3,
       "explanation": "Hz. Osman, mushafı çoğaltarak çeşitli bölgelere göndermiştir.",
       "source": "Buhârî, Fezâilü'l-Kur'ân",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karimning ko'paytirilib muhim markazlarga yuborilishi qaysi xalifa davrida amalga oshirilgan?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Ali",
+            "Hazrati Muoviya",
+            "Hazrati Usmon"
+          ],
+          "explanation": "Hazrati Usmon mushafni ko'paytirib, turli hududlarga yuborgan."
+        }
+      }
     },
     {
       "text": "Dördüncü halife kimdir?",
@@ -89,7 +137,19 @@
       "correct": 2,
       "explanation": "Dördüncü halife Hz. Ali'dir.",
       "source": "Taberî, Târîh",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "To'rtinchi xalifa kim?",
+          "choices": [
+            "Hazrati Usmon",
+            "Hazrati Umar",
+            "Hazrati Ali",
+            "Hazrati Talha"
+          ],
+          "explanation": "To'rtinchi xalifa Hazrati Alidir."
+        }
+      }
     },
     {
       "text": "Kur'an-ı Kerim'in ilk defa bir mushaf halinde toplanması hangi halife döneminde başlamıştır?",
@@ -102,7 +162,19 @@
       "correct": 1,
       "explanation": "Yemâme Savaşı'ndan sonra Kur'an Hz. Ebû Bekir döneminde toplanmıştır.",
       "source": "Buhârî, Fezâilü'l-Kur'ân",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karimning birinchi marta mushaf holida jamlanishi qaysi xalifa davrida boshlangan?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Yamoma jangidan keyin Qur'on Hazrati Abu Bakr davrida jamlangan."
+        }
+      }
     },
     {
       "text": "Kudüs hangi halife döneminde Müslümanlar tarafından fethedilmiştir?",
@@ -115,7 +187,19 @@
       "correct": 0,
       "explanation": "Kudüs, Hz. Ömer döneminde (638) barış yoluyla teslim alınmıştır.",
       "source": "Taberî, Târîh",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Quddus qaysi xalifa davrida musulmonlar tomonidan fath etilgan?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Quddus Hazrati Umar davrida (638) sulh yo'li bilan topshirilgan."
+        }
+      }
     },
     {
       "text": "Emevî Devleti'nin başkenti neresidir?",
@@ -128,7 +212,19 @@
       "correct": 3,
       "explanation": "Emevîlerin başkenti Şam'dı.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Umaviylar davlatining poytaxti qaysi shahar?",
+          "choices": [
+            "Bag'dod",
+            "Qohira",
+            "Kordova",
+            "Shom"
+          ],
+          "explanation": "Umaviylarning poytaxti Shom (Damashq) edi."
+        }
+      }
     },
     {
       "text": "Abbâsî Devleti'nin ünlü başkenti hangisidir?",
@@ -141,7 +237,19 @@
       "correct": 2,
       "explanation": "Abbâsîlerin başkenti Bağdat'tı.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Abbosiylar davlatining mashhur poytaxti qaysi?",
+          "choices": [
+            "Shom",
+            "Qohira",
+            "Bag'dod",
+            "Kordova"
+          ],
+          "explanation": "Abbosiylarning poytaxti Bag'dod edi."
+        }
+      }
     },
     {
       "text": "Endülüs'ün fethine öncülük eden ve Cebelitarık'a adını veren komutan kimdir?",
@@ -154,7 +262,19 @@
       "correct": 1,
       "explanation": "Tarık b. Ziyâd 711'de İber Yarımadası'na geçmiştir.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Andalusning fathiga boshchilik qilgan va Gibraltarga o'z nomini bergan sarkarda kim?",
+          "choices": [
+            "Muso ibn Nusayr",
+            "Toriq ibn Ziyod",
+            "Xolid ibn Valid",
+            "Amr ibn Os"
+          ],
+          "explanation": "Toriq ibn Ziyod 711-yilda Pireney yarimoroliga o'tgan."
+        }
+      }
     },
     {
       "text": "1071 Malazgirt Savaşı'nda Bizans'ı yenen Selçuklu sultanı kimdir?",
@@ -167,7 +287,19 @@
       "correct": 0,
       "explanation": "Alparslan, 1071'de Bizans ordusunu yenerek Anadolu'nun kapılarını açmıştır.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "1071-yilgi Malazgird jangida Vizantiyani yenggan Saljuqiy sultoni kim?",
+          "choices": [
+            "Alp Arslon",
+            "Malikshoh",
+            "Tug'rul bek",
+            "Sulton Sanjar"
+          ],
+          "explanation": "Alp Arslon 1071-yilda Vizantiya qo'shinini yengib, Anadolu eshiklarini ochgan."
+        }
+      }
     },
     {
       "text": "1453'te İstanbul'u fetheden Osmanlı padişahı kimdir?",
@@ -180,7 +312,19 @@
       "correct": 3,
       "explanation": "İstanbul, 1453'te Fatih Sultan Mehmed tarafından fethedilmiştir.",
       "source": "Genel Osmanlı tarihi kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "1453-yilda Istanbulni fath etgan Usmonli podshohi kim?",
+          "choices": [
+            "Yovuz Sulton Salim",
+            "Qonuniy Sulton Sulaymon",
+            "I Murod",
+            "Fotih Sulton Mehmed"
+          ],
+          "explanation": "Istanbul 1453-yilda Fotih Sulton Mehmed tomonidan fath etilgan."
+        }
+      }
     },
     {
       "text": "Endülüs'teki son Müslüman devleti olan Gırnata hangi yılda düşmüştür?",
@@ -193,7 +337,19 @@
       "correct": 2,
       "explanation": "Gırnata 1492'de Kastilya ve Aragon güçlerine teslim olmuştur.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 3
+      "difficulty": 3,
+      "translations": {
+        "uz": {
+          "text": "Andalusdagi so'nggi musulmon davlati bo'lgan G'arnota qaysi yilda quladi?",
+          "choices": [
+            "1071",
+            "1258",
+            "1492",
+            "1453"
+          ],
+          "explanation": "G'arnota 1492-yilda Kastiliya va Aragon kuchlariga taslim bo'lgan."
+        }
+      }
     },
     {
       "text": "1187 Hıttîn Savaşı'ndan sonra Kudüs'ü Haçlılardan geri alan komutan kimdir?",
@@ -206,7 +362,19 @@
       "correct": 1,
       "explanation": "Selahaddin Eyyûbî, 1187'de Kudüs'ü geri almıştır.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "1187-yilgi Hittin jangidan keyin Quddusni salibchilardan qaytarib olgan sarkarda kim?",
+          "choices": [
+            "Nuriddin Zangiy",
+            "Salohiddin Ayyubiy",
+            "Baybars",
+            "Alp Arslon"
+          ],
+          "explanation": "Salohiddin Ayyubiy 1187-yilda Quddusni qaytarib olgan."
+        }
+      }
     },
     {
       "text": "Abbâsî başkenti Bağdat 1258'de hangi güç tarafından yıkılmıştır?",
@@ -219,7 +387,19 @@
       "correct": 0,
       "explanation": "Hülâgû komutasındaki Moğollar Bağdat'ı 1258'de yıkmıştır.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Abbosiylar poytaxti Bag'dod 1258-yilda qaysi kuch tomonidan vayron qilingan?",
+          "choices": [
+            "Mo'g'ullar",
+            "Salibchilar",
+            "Vizantiya",
+            "Mamluklar"
+          ],
+          "explanation": "Hulagu boshchiligidagi mo'g'ullar Bag'dodni 1258-yilda vayron qilgan."
+        }
+      }
     },
     {
       "text": "1260 Ayn Câlût Savaşı'nda Moğolları yenen devlet hangisidir?",
@@ -232,7 +412,19 @@
       "correct": 3,
       "explanation": "Memlükler 1260'ta Ayn Câlût'ta Moğolları yenmiştir.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 3
+      "difficulty": 3,
+      "translations": {
+        "uz": {
+          "text": "1260-yilgi Ayn Jolut jangida mo'g'ullarni yengan davlat qaysi?",
+          "choices": [
+            "Abbosiylar",
+            "Saljuqiylar",
+            "Ayyubiylar",
+            "Mamluklar"
+          ],
+          "explanation": "Mamluklar 1260-yilda Ayn Jolutda mo'g'ullarni yengdi."
+        }
+      }
     },
     {
       "text": "Hz. Ali ile Muâviye arasında yapılan savaş hangisidir?",
@@ -245,7 +437,19 @@
       "correct": 2,
       "explanation": "Sıffîn Savaşı hicri 37. yılda yapılmıştır.",
       "source": "Taberî, Târîh",
-      "difficulty": 3
+      "difficulty": 3,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ali bilan Muoviya o'rtasida bo'lgan jang qaysi?",
+          "choices": [
+            "Yarmuk",
+            "Qodisiya",
+            "Siffin",
+            "Nihovand"
+          ],
+          "explanation": "Siffin jangi hijriy 37-yilda bo'lgan."
+        }
+      }
     },
     {
       "text": "Adaletiyle tanınan Emevî halifesi kimdir?",
@@ -258,7 +462,19 @@
       "correct": 1,
       "explanation": "Ömer b. Abdülazîz adaleti ve sadeliğiyle meşhurdur.",
       "source": "Genel İslam tarihi kaynakları",
-      "difficulty": 3
+      "difficulty": 3,
+      "translations": {
+        "uz": {
+          "text": "Adolati bilan tanilgan Umaviy xalifa kim?",
+          "choices": [
+            "Abdulmalik ibn Marvon",
+            "Umar ibn Abdulaziz",
+            "Hishom ibn Abdulmalik",
+            "II Marvon"
+          ],
+          "explanation": "Umar ibn Abdulaziz adolati va oddiyligi bilan mashhur."
+        }
+      }
     },
     {
       "text": "Halifelik, Osmanlılara hangi padişah döneminde geçmiştir?",
@@ -271,7 +487,19 @@
       "correct": 0,
       "explanation": "Mısır'ın fethinden (1517) sonra halifelik Osmanlılara geçmiştir.",
       "source": "Genel Osmanlı tarihi kaynakları",
-      "difficulty": 3
+      "difficulty": 3,
+      "translations": {
+        "uz": {
+          "text": "Xalifalik Usmonlilarga qaysi podshoh davrida o'tgan?",
+          "choices": [
+            "Yovuz Sulton Salim",
+            "Fotih Sulton Mehmed",
+            "Qonuniy Sulton Sulaymon",
+            "II Boyazid"
+          ],
+          "explanation": "Misr fathidan (1517) keyin xalifalik Usmonlilarga o'tgan."
+        }
+      }
     }
   ]
 }

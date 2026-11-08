@@ -37,7 +37,19 @@
       "correct": 2,
       "explanation": "İman esasları altıdır.",
       "source": "Müslim, İman 1",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Iymon shartlari nechta?",
+          "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "explanation": "Iymon shartlari oltita."
+        }
+      }
     },
     {
       "text": "Günlük farz namaz sayısı kaçtır?",
@@ -50,7 +62,19 @@
       "correct": 2,
       "explanation": "Günde beş vakit farz namaz vardır.",
       "source": "Buhârî, Mevâkît",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Kuniga farz namozlar soni nechta?",
+          "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "explanation": "Kuniga besh vaqt farz namoz bor."
+        }
+      }
     },
     {
       "text": "Zekât; altın, gümüş ve ticaret mallarında nisabı aşan miktarın ne kadarı olarak verilir?",
@@ -63,7 +87,19 @@
       "correct": 1,
       "explanation": "Altın, gümüş, para ve ticaret mallarında zekât oranı kırkta birdir (%2,5).",
       "source": "Genel fıkıh kaynakları",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Zakot oltin, kumush va savdo mollarida nisobdan oshgan miqdorning qancha qismi sifatida beriladi?",
+          "choices": [
+            "Yuzdan bir",
+            "Qirqdan bir (2,5%)",
+            "O'ndan bir",
+            "Beshdan bir"
+          ],
+          "explanation": "Oltin, kumush, pul va savdo mollarida zakot miqdori qirqdan biridir (2,5%)."
+        }
+      }
     },
     {
       "text": "Kurban Bayramı hicri takvimin hangi ayında kutlanır?",
@@ -76,7 +112,19 @@
       "correct": 0,
       "explanation": "Kurban Bayramı Zilhicce ayının 10. günü başlar.",
       "source": "Genel fıkıh kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qurbon hayiti hijriy taqvimning qaysi oyida nishonlanadi?",
+          "choices": [
+            "Zulhijja",
+            "Shavvol",
+            "Muharram",
+            "Rajab"
+          ],
+          "explanation": "Qurbon hayiti Zulhijja oyining 10-kunida boshlanadi."
+        }
+      }
     },
     {
       "text": "Akşam namazının farzı kaç rekâttır?",
@@ -89,7 +137,19 @@
       "correct": 3,
       "explanation": "Akşam namazının farzı üç rekâttır.",
       "source": "Genel fıkıh kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Shom namozining farzi necha rakat?",
+          "choices": [
+            "2",
+            "4",
+            "5",
+            "3"
+          ],
+          "explanation": "Shom namozining farzi uch rakat."
+        }
+      }
     },
     {
       "text": "Cuma namazı hangi vaktin namazı yerine kılınır?",
@@ -102,7 +162,19 @@
       "correct": 2,
       "explanation": "Cuma namazı cuma günü öğle vaktinde kılınır ve öğle namazının yerine geçer.",
       "source": "Cuma, 9",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Juma namozi qaysi vaqt namozi o'rniga o'qiladi?",
+          "choices": [
+            "Bomdod",
+            "Asr",
+            "Peshin",
+            "Xufton"
+          ],
+          "explanation": "Juma namozi juma kuni peshin vaqtida o'qiladi va peshin namozi o'rnini bosadi."
+        }
+      }
     },
     {
       "text": "Mâide Sûresi'nde abdest alırken yıkanması emredilen uzuvlardan biri hangisidir?",
@@ -115,7 +187,19 @@
       "correct": 1,
       "explanation": "Ayette yüz, eller (dirseklere kadar) ve ayaklar yıkanır, baş mesh edilir.",
       "source": "Mâide, 6",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Moida surasida tahorat olayotganda yuvish buyurilgan a'zolardan biri qaysi?",
+          "choices": [
+            "Tizza",
+            "Yuz",
+            "Yelka",
+            "Bo'yin"
+          ],
+          "explanation": "Oyatda yuz, qo'llar (tirsaklargacha) va oyoqlar yuviladi, bosh mas'h qilinadi."
+        }
+      }
     },
     {
       "text": "Müslümanların namazda yöneldiği yer neresidir?",
@@ -128,7 +212,19 @@
       "correct": 0,
       "explanation": "Müslümanlar namazda Mekke'deki Kâbe'ye yönelir.",
       "source": "Bakara, 144",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Musulmonlar namozda qaysi tomonga yuzlanadi?",
+          "choices": [
+            "Ka'ba",
+            "Masjidi Aqso",
+            "Masjidi Nabaviy",
+            "Arafot"
+          ],
+          "explanation": "Musulmonlar namozda Makkadagi Ka'baga yuzlanadi."
+        }
+      }
     },
     {
       "text": "Oruç, günün hangi vakit aralığında tutulur?",
@@ -141,7 +237,19 @@
       "correct": 3,
       "explanation": "Oruç, fecrin doğuşundan (imsak) güneşin batışına kadar tutulur.",
       "source": "Bakara, 187",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Ro'za kunning qaysi vaqt oralig'ida tutiladi?",
+          "choices": [
+            "Peshindan kechgacha",
+            "Bomdod namozidan peshingacha",
+            "Yarim tundan peshingacha",
+            "Subhi sodiqdan shom azonigacha (quyosh botguncha)"
+          ],
+          "explanation": "Ro'za tong otishidan (subhi sodiq) quyosh botguncha tutiladi."
+        }
+      }
     },
     {
       "text": "Kur'an-ı Kerim hangi ayda indirilmeye başlanmıştır?",
@@ -154,7 +262,19 @@
       "correct": 2,
       "explanation": "Ramazan ayı, Kur'an'ın indirilmeye başlandığı aydır.",
       "source": "Bakara, 185",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karim qaysi oyda nozil bo'la boshlagan?",
+          "choices": [
+            "Muharram",
+            "Rajab",
+            "Ramazon",
+            "Zulhijja"
+          ],
+          "explanation": "Ramazon oyi Qur'on nozil bo'la boshlagan oydir."
+        }
+      }
     },
     {
       "text": "Ramazan Bayramı namazından önce verilmesi gereken sadaka hangisidir?",
@@ -167,7 +287,19 @@
       "correct": 1,
       "explanation": "Fitre (sadaka-i fıtır), bayram namazından önce verilir.",
       "source": "Genel fıkıh kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Ramazon hayiti namozidan oldin berilishi lozim bo'lgan sadaqa qaysi?",
+          "choices": [
+            "Qurbonlik",
+            "Fitr sadaqasi",
+            "Zakot",
+            "Fidya"
+          ],
+          "explanation": "Fitr sadaqasi hayit namozidan oldin beriladi."
+        }
+      }
     },
     {
       "text": "'Bismillâhirrahmânirrahîm' ne anlama gelir?",
@@ -180,7 +312,19 @@
       "correct": 0,
       "explanation": "Besmele, 'Rahmân ve Rahîm olan Allah'ın adıyla' anlamına gelir.",
       "source": "Fâtiha, 1",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "'Bismillahir rohmanir rohiym' qanday ma'noni anglatadi?",
+          "choices": [
+            "Rahmon va Rahim bo'lgan Allohning nomi bilan",
+            "Alloh eng buyukdir",
+            "Hamd Allohga xosdir",
+            "Allohdan boshqa iloh yo'q"
+          ],
+          "explanation": "Basmala 'Rahmon va Rahim bo'lgan Allohning nomi bilan' ma'nosini anglatadi."
+        }
+      }
     },
     {
       "text": "Peygamber Efendimiz'in (s.a.v.) söz, fiil ve onaylarına ne ad verilir?",
@@ -193,7 +337,19 @@
       "correct": 3,
       "explanation": "Hadis, Peygamberimiz'den nakledilen söz, fiil ve onayları (takrir) ifade eder.",
       "source": "Hadis usulü temel kaynakları",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning (s.a.v.) so'z, fe'l va tasdiqlariga nima deyiladi?",
+          "choices": [
+            "Fiqh",
+            "Tafsir",
+            "Kalom",
+            "Hadis"
+          ],
+          "explanation": "Hadis Payg'ambarimizdan naql qilingan so'z, fe'l va tasdiqlarni (taqrir) ifodalaydi."
+        }
+      }
     },
     {
       "text": "'Sahîh-i Buhârî' adlı hadis kitabının müellifi kimdir?",
@@ -206,7 +362,19 @@
       "correct": 2,
       "explanation": "Sahîh-i Buhârî, İmam Muhammed b. İsmâil el-Buhârî'nin eseridir.",
       "source": "Hadis usulü temel kaynakları",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "'Sahihi Buxoriy' nomli hadis kitobining muallifi kim?",
+          "choices": [
+            "Imom Muslim",
+            "Imom Termiziy",
+            "Imom Buxoriy",
+            "Imom Molik"
+          ],
+          "explanation": "Sahihi Buxoriy Imom Muhammad ibn Ismoil al-Buxoriyning asaridir."
+        }
+      }
     },
     {
       "text": "Hanefî mezhebinin imamı kimdir?",
@@ -219,7 +387,19 @@
       "correct": 1,
       "explanation": "Hanefî mezhebi, İmam-ı Âzam Ebû Hanîfe'ye nispet edilir.",
       "source": "Genel fıkıh tarihi kaynakları",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hanafiy mazhabining imomi kim?",
+          "choices": [
+            "Imom Molik",
+            "Abu Hanifa",
+            "Imom Shofe'iy",
+            "Ahmad ibn Hanbal"
+          ],
+          "explanation": "Hanafiy mazhabi Imomi A'zam Abu Hanifaga nisbat beriladi."
+        }
+      }
     },
     {
       "text": "Aşağıdakilerden hangisi iman esaslarından biridir?",
@@ -232,7 +412,19 @@
       "correct": 0,
       "explanation": "Ahirete iman altı iman esasından biridir; diğerleri İslam'ın şartlarındandır.",
       "source": "Bakara, 285",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Quyidagilardan qaysi biri iymon shartlaridan?",
+          "choices": [
+            "Oxirat kuniga iymon",
+            "Haj",
+            "Zakot",
+            "Ro'za"
+          ],
+          "explanation": "Oxiratga iymon oltita iymon shartidan biri; qolganlari Islom shartlaridandir."
+        }
+      }
     },
     {
       "text": "Zebûr hangi peygambere indirilmiştir?",
@@ -245,7 +437,19 @@
       "correct": 3,
       "explanation": "Zebûr, Hz. Dâvûd'a verilmiştir.",
       "source": "Nisâ, 163",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Zabur qaysi payg'ambarga nozil qilingan?",
+          "choices": [
+            "Hazrati Muso",
+            "Hazrati Iso",
+            "Hazrati Ibrohim",
+            "Hazrati Dovud"
+          ],
+          "explanation": "Zabur Hazrati Dovudga berilgan."
+        }
+      }
     },
     {
       "text": "Peygamberlere vahyi getiren melek kimdir?",
@@ -258,7 +462,19 @@
       "correct": 2,
       "explanation": "Vahiy meleği Cebrâil'dir.",
       "source": "Bakara, 97",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarlarga vahiy keltirgan farishta kim?",
+          "choices": [
+            "Mikoil",
+            "Isrofil",
+            "Jabroil",
+            "Azroil"
+          ],
+          "explanation": "Vahiy farishtasi Jabroildir."
+        }
+      }
     },
     {
       "text": "'Muvatta' adlı eserin müellifi kimdir?",
@@ -271,7 +487,19 @@
       "correct": 1,
       "explanation": "Muvatta, İmam Mâlik b. Enes'in hadis ve fıkıh kitabıdır.",
       "source": "Genel hadis ve fıkıh tarihi kaynakları",
-      "difficulty": 3
+      "difficulty": 3,
+      "translations": {
+        "uz": {
+          "text": "'Muvatta'' nomli asarning muallifi kim?",
+          "choices": [
+            "Imom Buxoriy",
+            "Imom Molik",
+            "Imom Muslim",
+            "Ahmad ibn Hanbal"
+          ],
+          "explanation": "Muvatta' Imom Molik ibn Anasning hadis va fiqh kitobidir."
+        }
+      }
     }
   ]
 }

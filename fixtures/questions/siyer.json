@@ -37,7 +37,19 @@
       "correct": 1,
       "explanation": "Hicret Mekke'den Medine'ye yapılmıştır.",
       "source": "İbn Hişam, Siyer",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hijrat qaysi shaharga qarab qilingan?",
+          "choices": [
+            "Toif",
+            "Madina",
+            "Shom",
+            "Quddus"
+          ],
+          "explanation": "Hijrat Makkadan Madinaga qilingan."
+        }
+      }
     },
     {
       "text": "Peygamber Efendimiz (s.a.v.) hangi şehirde doğmuştur?",
@@ -50,7 +62,19 @@
       "correct": 1,
       "explanation": "Peygamberimiz Mekke'de doğmuştur.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz (s.a.v.) qaysi shaharda tug'ilgan?",
+          "choices": [
+            "Madina",
+            "Makka",
+            "Toif",
+            "Quddus"
+          ],
+          "explanation": "Payg'ambarimiz Makkada tug'ilgan."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'in doğduğu yıl hangi adla anılır?",
@@ -63,7 +87,19 @@
       "correct": 0,
       "explanation": "Ebrehe'nin Kâbe'yi yıkmaya gelmesi nedeniyle bu yıla Fil Yılı denir.",
       "source": "Fîl, 1-5; İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz tug'ilgan yil qanday nom bilan ataladi?",
+          "choices": [
+            "Fil yili",
+            "G'am yili",
+            "Hijrat yili",
+            "Fath yili"
+          ],
+          "explanation": "Abraxaning Ka'bani yiqitish uchun kelishi sababli bu yilga Fil yili deyiladi."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'in annesinin adı nedir?",
@@ -76,7 +112,19 @@
       "correct": 3,
       "explanation": "Annesi Âmine bint Vehb'dir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning onasining ismi nima?",
+          "choices": [
+            "Halima",
+            "Xadicha",
+            "Fotima",
+            "Omina"
+          ],
+          "explanation": "Onasi Omina binti Vahbdir."
+        }
+      }
     },
     {
       "text": "Dedesi Abdülmuttalib'in vefatından sonra Peygamberimiz'i himayesine alan amcası kimdir?",
@@ -89,7 +137,19 @@
       "correct": 2,
       "explanation": "Peygamberimiz, amcası Ebû Tâlib'in himayesinde büyümüştür.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Bobosi Abdulmuttalibning vafotidan keyin Payg'ambarimizni o'z homiyligiga olgan amakisi kim?",
+          "choices": [
+            "Hazrati Hamza",
+            "Abu Lahab",
+            "Abu Tolib",
+            "Hazrati Abbos"
+          ],
+          "explanation": "Payg'ambarimiz amakisi Abu Tolibning homiyligida o'sgan."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'i emziren süt annesi kimdir?",
@@ -102,7 +162,19 @@
       "correct": 1,
       "explanation": "Süt annesi Halime es-Sa'diyye'dir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizni emizgan sut onasi kim?",
+          "choices": [
+            "Omina",
+            "Halima",
+            "Xadicha",
+            "Ummu Ayman"
+          ],
+          "explanation": "Sut onasi Halima as-Sa'diyyadir."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'in ilk eşi kimdir?",
@@ -115,7 +187,19 @@
       "correct": 0,
       "explanation": "İlk eşi, ilk iman eden Hz. Hatice'dir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning birinchi turmush o'rtog'i kim?",
+          "choices": [
+            "Hazrati Xadicha",
+            "Hazrati Oisha",
+            "Hazrati Hafsa",
+            "Hazrati Zaynab"
+          ],
+          "explanation": "Birinchi turmush o'rtog'i, birinchi iymon keltirgan Hazrati Xadichadir."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'e ilk vahiy geldiğinde kaç yaşındaydı?",
@@ -128,7 +212,19 @@
       "correct": 3,
       "explanation": "İlk vahiy Peygamberimiz 40 yaşındayken gelmiştir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizga birinchi vahiy kelganida necha yoshda edi?",
+          "choices": [
+            "25",
+            "33",
+            "63",
+            "40"
+          ],
+          "explanation": "Birinchi vahiy Payg'ambarimiz 40 yoshda bo'lganda kelgan."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'in Mescid-i Haram'dan Mescid-i Aksâ'ya götürülmesine ne ad verilir?",
@@ -141,7 +237,19 @@
       "correct": 2,
       "explanation": "Bu geceyolculuğuna İsrâ denir; Mirac ise göğe yükselişidir.",
       "source": "İsrâ, 1",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning Masjidi Haromdan Masjidi Aqsoga olib borilishiga nima deyiladi?",
+          "choices": [
+            "Hijrat",
+            "Bay'at",
+            "Isro",
+            "Fath"
+          ],
+          "explanation": "Bu tungi safarga Isro deyiladi; Me'roj esa osmonga ko'tarilishdir."
+        }
+      }
     },
     {
       "text": "Hicret sırasında Peygamberimiz ve Hz. Ebû Bekir hangi mağaraya sığınmıştır?",
@@ -154,7 +262,19 @@
       "correct": 1,
       "explanation": "Mekkelilerin takibinden korunmak için Sevr Mağarası'na sığınmışlardır.",
       "source": "Tevbe, 40",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hijrat chog'ida Payg'ambarimiz va Hazrati Abu Bakr qaysi g'orga yashiringan?",
+          "choices": [
+            "Hiro",
+            "Savr",
+            "Kahf",
+            "Uhud"
+          ],
+          "explanation": "Makkaliklarning ta'qibidan saqlanish uchun Savr g'origa yashiringan."
+        }
+      }
     },
     {
       "text": "Hicret'te Medine yakınlarında inşa edilen ve ilk mescid olarak bilinen mescid hangisidir?",
@@ -167,7 +287,19 @@
       "correct": 0,
       "explanation": "Peygamberimiz Medine'ye girmeden önce Kuba'da mescid inşa etmiştir.",
       "source": "Tevbe, 108",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Hijratda Madina yaqinida qurilgan va birinchi masjid sifatida tanilgan masjid qaysi?",
+          "choices": [
+            "Quba masjidi",
+            "Masjidi Aqso",
+            "Masjidi Qiblatayn",
+            "Masjidi Nabaviy"
+          ],
+          "explanation": "Payg'ambarimiz Madinaga kirishdan oldin Qubada masjid qurgan."
+        }
+      }
     },
     {
       "text": "Müslümanların müşriklere karşı kazandığı ilk büyük zafer hangi savaştır?",
@@ -180,7 +312,19 @@
       "correct": 3,
       "explanation": "Bedir Savaşı hicretin ikinci yılında yapılmıştır.",
       "source": "Âl-i İmrân, 123",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Musulmonlarning mushriklarga qarshi qozongan birinchi katta g'alabasi qaysi jang?",
+          "choices": [
+            "Uhud",
+            "Xandaq",
+            "Hunayn",
+            "Badr"
+          ],
+          "explanation": "Badr jangi hijratning ikkinchi yilida bo'lgan."
+        }
+      }
     },
     {
       "text": "Okçuların tepeyi terk etmesi nedeniyle sonucu değişen savaş hangisidir?",
@@ -193,7 +337,19 @@
       "correct": 2,
       "explanation": "Uhud Savaşı'nda okçuların yerlerini terk etmesi ile savaşın seyri değişmiştir.",
       "source": "Âl-i İmrân, 152",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Merganlarning tepalikni tark etishi sababli natijasi o'zgargan jang qaysi?",
+          "choices": [
+            "Badr",
+            "Xandaq",
+            "Uhud",
+            "Mu'ta"
+          ],
+          "explanation": "Uhud jangida merganlarning o'z joyini tark etishi bilan jangning borishi o'zgargan."
+        }
+      }
     },
     {
       "text": "Medine'nin etrafına hendek kazılarak savunma yapılan savaş hangisidir?",
@@ -206,7 +362,19 @@
       "correct": 1,
       "explanation": "Hendek Savaşı'nda şehir, kazılan hendekle savunulmuştur.",
       "source": "Ahzâb, 9-11",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Madina atrofiga xandaq qazilib mudofaa qilingan jang qaysi?",
+          "choices": [
+            "Badr",
+            "Xandaq (Ahzob)",
+            "Xayber",
+            "Hunayn"
+          ],
+          "explanation": "Xandaq jangida shahar qazilgan xandaq bilan himoya qilingan."
+        }
+      }
     },
     {
       "text": "Hudeybiye Antlaşması hangi taraflar arasında yapılmıştır?",
@@ -219,7 +387,19 @@
       "correct": 0,
       "explanation": "Hudeybiye'de Müslümanlar ile Kureyş müşrikleri antlaşma yapmıştır.",
       "source": "Fetih, 1; İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Hudaybiya sulhi qaysi tomonlar o'rtasida tuzilgan?",
+          "choices": [
+            "Musulmonlar va Makkalik mushriklar",
+            "Musulmonlar va Vizantiya",
+            "Musulmonlar va Habashiston",
+            "Musulmonlar va Xayber yahudiylari"
+          ],
+          "explanation": "Hudaybiyada musulmonlar bilan Quraysh mushriklari sulh tuzgan."
+        }
+      }
     },
     {
       "text": "Mekke'nin fethi hangi miladi yılda gerçekleşmiştir?",
@@ -232,7 +412,19 @@
       "correct": 3,
       "explanation": "Mekke, hicretin 8. yılında (630) fethedilmiştir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Makkaning fathi qaysi milodiy yilda sodir bo'lgan?",
+          "choices": [
+            "610",
+            "622",
+            "632",
+            "630"
+          ],
+          "explanation": "Makka hijratning 8-yilida (630) fath etilgan."
+        }
+      }
     },
     {
       "text": "Veda Hutbesi hangi yerde irat edilmiştir?",
@@ -245,7 +437,19 @@
       "correct": 2,
       "explanation": "Peygamberimiz Veda Haccı'nda Arafat'ta Veda Hutbesi'ni okumuştur.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Vido xutbasi qaysi joyda irod etilgan?",
+          "choices": [
+            "Mino",
+            "Masjidi Nabaviy",
+            "Arafot",
+            "Hiro"
+          ],
+          "explanation": "Payg'ambarimiz Vido hajida Arafotda Vido xutbasini o'qigan."
+        }
+      }
     },
     {
       "text": "Peygamberimiz (s.a.v.) hangi şehirde vefat etmiştir?",
@@ -258,7 +462,19 @@
       "correct": 1,
       "explanation": "Peygamberimiz Medine'de vefat etmiştir.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz (s.a.v.) qaysi shaharda vafot etgan?",
+          "choices": [
+            "Makka",
+            "Madina",
+            "Toif",
+            "Shom"
+          ],
+          "explanation": "Payg'ambarimiz Madinada vafot etgan."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'e vahiyden önce Mekkeliler tarafından verilen lakap hangisidir?",
@@ -271,7 +487,19 @@
       "correct": 0,
       "explanation": "Güvenilirliği nedeniyle ona 'el-Emîn' denirdi.",
       "source": "İbn Hişam, es-Sîre",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizga vahiydan oldin makkaliklar tomonidan berilgan laqab qaysi?",
+          "choices": [
+            "al-Amin",
+            "al-Foruq",
+            "as-Siddiq",
+            "Zunnurayn"
+          ],
+          "explanation": "Ishonchliligi sababli unga 'al-Amin' deyilgan."
+        }
+      }
     }
   ]
 }

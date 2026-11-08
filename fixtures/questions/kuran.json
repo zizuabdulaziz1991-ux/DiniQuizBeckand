@@ -37,7 +37,19 @@
       "correct": 1,
       "explanation": "Mushafın ilk suresi Fâtiha'dır.",
       "source": "Mushaf",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'onning birinchi surasi qaysi?",
+          "choices": [
+            "Baqara",
+            "Fotiha",
+            "Ixlos",
+            "Nos"
+          ],
+          "explanation": "Mushafning birinchi surasi Fotihadir."
+        }
+      }
     },
     {
       "text": "Peygamberimiz'e inen ilk ayetler hangi sureye aittir?",
@@ -50,7 +62,19 @@
       "correct": 1,
       "explanation": "İlk inen ayetler Alak Sûresi'nin ilk beş ayetidir.",
       "source": "Alak, 1-5",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizga nozil bo'lgan birinchi oyatlar qaysi suraga tegishli?",
+          "choices": [
+            "Muddassir",
+            "Alaq",
+            "Muzzammil",
+            "Fotiha"
+          ],
+          "explanation": "Birinchi nozil bo'lgan oyatlar Alaq surasining dastlabki beshta oyatidir."
+        }
+      }
     },
     {
       "text": "Kur'an-ı Kerim'in en uzun suresi hangisidir?",
@@ -63,7 +87,19 @@
       "correct": 0,
       "explanation": "Bakara Sûresi 286 ayetle en uzun suredir.",
       "source": "Mushaf",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karimning eng uzun surasi qaysi?",
+          "choices": [
+            "Baqara",
+            "Oli Imron",
+            "Niso",
+            "Moida"
+          ],
+          "explanation": "Baqara surasi 286 oyat bilan eng uzun suradir."
+        }
+      }
     },
     {
       "text": "Ayetü'l-Kürsî hangi surede yer alır?",
@@ -76,7 +112,19 @@
       "correct": 3,
       "explanation": "Ayetü'l-Kürsî, Bakara Sûresi'nin 255. ayetidir.",
       "source": "Bakara, 255",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Oyatul Kursiy qaysi surada joylashgan?",
+          "choices": [
+            "Oli Imron",
+            "Yosin",
+            "Fotiha",
+            "Baqara"
+          ],
+          "explanation": "Oyatul Kursiy Baqara surasining 255-oyatidir."
+        }
+      }
     },
     {
       "text": "'De ki: O, Allah'tır, tektir.' ayetiyle başlayan sure hangisidir?",
@@ -89,7 +137,19 @@
       "correct": 2,
       "explanation": "İhlâs Sûresi bu ayetle başlar.",
       "source": "İhlâs, 1",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "'Ayt: U Allohdir, yagonadir.' oyati bilan boshlanadigan sura qaysi?",
+          "choices": [
+            "Kofirun",
+            "Falaq",
+            "Ixlos",
+            "Nos"
+          ],
+          "explanation": "Ixlos surasi shu oyat bilan boshlanadi."
+        }
+      }
     },
     {
       "text": "Bakara Sûresi kaç ayettir?",
@@ -102,7 +162,19 @@
       "correct": 1,
       "explanation": "Bakara Sûresi 286 ayettir.",
       "source": "Mushaf",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Baqara surasi necha oyat?",
+          "choices": [
+            "114",
+            "286",
+            "200",
+            "6236"
+          ],
+          "explanation": "Baqara surasi 286 oyatdir."
+        }
+      }
     },
     {
       "text": "Fâtiha Sûresi kaç ayettir?",
@@ -115,7 +187,19 @@
       "correct": 0,
       "explanation": "Fâtiha Sûresi yedi ayettir.",
       "source": "Mushaf",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Fotiha surasi necha oyat?",
+          "choices": [
+            "7",
+            "3",
+            "5",
+            "10"
+          ],
+          "explanation": "Fotiha surasi yetti oyatdir."
+        }
+      }
     },
     {
       "text": "Mushafın son suresi hangisidir?",
@@ -128,7 +212,19 @@
       "correct": 3,
       "explanation": "Mushafın 114. ve son suresi Nâs'tır.",
       "source": "Mushaf",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Mushafning oxirgi surasi qaysi?",
+          "choices": [
+            "Falaq",
+            "Ixlos",
+            "Nasr",
+            "Nos"
+          ],
+          "explanation": "Mushafning 114- va oxirgi surasi Nosdir."
+        }
+      }
     },
     {
       "text": "Ebrehe'nin Kâbe'yi yıkmaya gelişi hangi surede anlatılır?",
@@ -141,7 +237,19 @@
       "correct": 2,
       "explanation": "Fîl Sûresi, Fil Olayı'nı anlatır.",
       "source": "Fîl, 1-5",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Abraxaning Ka'bani yiqitish uchun kelishi qaysi surada hikoya qilinadi?",
+          "choices": [
+            "Quraysh",
+            "Mo'un",
+            "Fil",
+            "Kavsar"
+          ],
+          "explanation": "Fil surasi Fil voqeasini hikoya qiladi."
+        }
+      }
     },
     {
       "text": "Hz. Yûsuf'un kıssası hangi surede anlatılır?",
@@ -154,7 +262,19 @@
       "correct": 1,
       "explanation": "Yûsuf Sûresi, Hz. Yûsuf'un kıssasını anlatır.",
       "source": "Yûsuf, 3",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Yusufning qissasi qaysi surada hikoya qilinadi?",
+          "choices": [
+            "Hud",
+            "Yusuf",
+            "Yunus",
+            "Kahf"
+          ],
+          "explanation": "Yusuf surasi Hazrati Yusufning qissasini hikoya qiladi."
+        }
+      }
     },
     {
       "text": "Kur'an-ı Kerim'de ismi geçen tek kadın kimdir?",
@@ -167,7 +287,19 @@
       "correct": 0,
       "explanation": "Kur'an'da adıyla anılan tek kadın Hz. Meryem'dir.",
       "source": "Meryem; Âl-i İmrân",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karimda nomi tilga olingan yagona ayol kim?",
+          "choices": [
+            "Hazrati Maryam",
+            "Hazrati Xadicha",
+            "Hazrati Osiya",
+            "Hazrati Hojar"
+          ],
+          "explanation": "Qur'onda ismi bilan tilga olingan yagona ayol Hazrati Maryamdir."
+        }
+      }
     },
     {
       "text": "Hangi surenin başında besmele yoktur?",
@@ -180,7 +312,19 @@
       "correct": 3,
       "explanation": "Tevbe Sûresi'nin başında besmele bulunmaz.",
       "source": "Mushaf",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Qaysi surani boshida basmala yo'q?",
+          "choices": [
+            "Niso",
+            "Yunus",
+            "Hud",
+            "Tavba"
+          ],
+          "explanation": "Tavba surasining boshida basmala bo'lmaydi."
+        }
+      }
     },
     {
       "text": "Kur'an'ın indirilmeye başlandığı gece hangi isimle anılır?",
@@ -193,7 +337,19 @@
       "correct": 2,
       "explanation": "Kur'an Kadir Gecesi'nde indirilmeye başlanmıştır.",
       "source": "Kadr, 1",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'on nozil bo'la boshlagan kecha qanday nom bilan ataladi?",
+          "choices": [
+            "Baroat kechasi",
+            "Rag'oib kechasi",
+            "Qadr kechasi",
+            "Me'roj kechasi"
+          ],
+          "explanation": "Qur'on Qadr kechasida nozil bo'la boshlagan."
+        }
+      }
     },
     {
       "text": "Kur'an'da Hz. Mûsâ'nın karşısındaki Mısır hükümdarı hangi adla anılır?",
@@ -206,7 +362,19 @@
       "correct": 1,
       "explanation": "Hz. Mûsâ'nın karşısındaki zalim hükümdar Firavun'dur.",
       "source": "Kur'an, A'râf; Tâhâ",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda Hazrati Musoga qarshi turgan Misr hukmdori qanday nom bilan ataladi?",
+          "choices": [
+            "Namrud",
+            "Fir'avn",
+            "Jolut",
+            "Qorun"
+          ],
+          "explanation": "Hazrati Musoga qarshi turgan zolim hukmdor Fir'avndir."
+        }
+      }
     },
     {
       "text": "Eshâb-ı Kehf (Mağara Arkadaşları) kıssası hangi surede anlatılır?",
@@ -219,7 +387,19 @@
       "correct": 0,
       "explanation": "Eshâb-ı Kehf kıssası Kehf Sûresi'nde yer alır.",
       "source": "Kehf, 9-26",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Ashobi Kahf (G'or sohiblari) qissasi qaysi surada hikoya qilinadi?",
+          "choices": [
+            "Kahf",
+            "Maryam",
+            "Nuh",
+            "Naml"
+          ],
+          "explanation": "Ashobi Kahf qissasi Kahf surasida kelgan."
+        }
+      }
     },
     {
       "text": "Cuma namazına çağrının anlatıldığı sure hangisidir?",
@@ -232,7 +412,19 @@
       "correct": 3,
       "explanation": "Cuma Sûresi, cuma namazına koşmayı emreder.",
       "source": "Cuma, 9",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Juma namoziga chaqiriq haqida so'z yuritilgan sura qaysi?",
+          "choices": [
+            "Niso",
+            "Moida",
+            "Baqara",
+            "Juma"
+          ],
+          "explanation": "Juma surasi juma namoziga shoshilishni buyuradi."
+        }
+      }
     },
     {
       "text": "Kur'an'a göre ilk insan kimdir?",
@@ -245,7 +437,19 @@
       "correct": 2,
       "explanation": "İlk insan Hz. Âdem'dir.",
       "source": "Bakara, 30-37",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'onga ko'ra birinchi inson kim?",
+          "choices": [
+            "Hazrati Nuh",
+            "Hazrati Ibrohim",
+            "Hazrati Odam",
+            "Hazrati Idris"
+          ],
+          "explanation": "Birinchi inson Hazrati Odamdir."
+        }
+      }
     },
     {
       "text": "Kur'an-ı Kerim kaç cüzden oluşur?",
@@ -258,7 +462,19 @@
       "correct": 1,
       "explanation": "Kur'an-ı Kerim 30 cüzden oluşur.",
       "source": "Mushaf",
-      "difficulty": 1
+      "difficulty": 1,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karim necha juzdan iborat?",
+          "choices": [
+            "20",
+            "30",
+            "40",
+            "60"
+          ],
+          "explanation": "Qur'oni karim 30 juzdan iborat."
+        }
+      }
     },
     {
       "text": "Arı adını taşıyan sure hangisidir?",
@@ -271,7 +487,19 @@
       "correct": 0,
       "explanation": "Nahl, 'arı' anlamına gelir.",
       "source": "Mushaf",
-      "difficulty": 2
+      "difficulty": 2,
+      "translations": {
+        "uz": {
+          "text": "Asalarining nomini olgan sura qaysi?",
+          "choices": [
+            "Nahl",
+            "Naml",
+            "Ankabut",
+            "Fil"
+          ],
+          "explanation": "Nahl 'asalari' ma'nosini anglatadi."
+        }
+      }
     }
   ]
 }
