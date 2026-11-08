@@ -26,6 +26,240 @@
       "explanation": "Ebû Bekir, Ömer, Osman ve Ali.",
       "source": "Genel kaynaklar",
       "difficulty": 1
+    },
+    {
+      "text": "Hicri takvimin başlangıcı hangi olaydır?",
+      "choices": [
+        "Fil olayı",
+        "Hicret",
+        "Mekke'nin fethi",
+        "İlk vahiy"
+      ],
+      "correct": 1,
+      "explanation": "Hicri takvim, Hicret'ten başlatılmıştır.",
+      "source": "Taberî, Târîh",
+      "difficulty": 1
+    },
+    {
+      "text": "Hicri takvim hangi halife döneminde başlatılmıştır?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ebû Bekir",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 0,
+      "explanation": "Hicri takvim Hz. Ömer döneminde belirlenmiştir.",
+      "source": "Taberî, Târîh",
+      "difficulty": 2
+    },
+    {
+      "text": "Kur'an-ı Kerim'in çoğaltılıp önemli merkezlere gönderilmesi hangi halife döneminde yapılmıştır?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ali",
+        "Hz. Muâviye",
+        "Hz. Osman"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Osman, mushafı çoğaltarak çeşitli bölgelere göndermiştir.",
+      "source": "Buhârî, Fezâilü'l-Kur'ân",
+      "difficulty": 2
+    },
+    {
+      "text": "Dördüncü halife kimdir?",
+      "choices": [
+        "Hz. Osman",
+        "Hz. Ömer",
+        "Hz. Ali",
+        "Hz. Talha"
+      ],
+      "correct": 2,
+      "explanation": "Dördüncü halife Hz. Ali'dir.",
+      "source": "Taberî, Târîh",
+      "difficulty": 1
+    },
+    {
+      "text": "Kur'an-ı Kerim'in ilk defa bir mushaf halinde toplanması hangi halife döneminde başlamıştır?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ebû Bekir",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 1,
+      "explanation": "Yemâme Savaşı'ndan sonra Kur'an Hz. Ebû Bekir döneminde toplanmıştır.",
+      "source": "Buhârî, Fezâilü'l-Kur'ân",
+      "difficulty": 2
+    },
+    {
+      "text": "Kudüs hangi halife döneminde Müslümanlar tarafından fethedilmiştir?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ebû Bekir",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 0,
+      "explanation": "Kudüs, Hz. Ömer döneminde (638) barış yoluyla teslim alınmıştır.",
+      "source": "Taberî, Târîh",
+      "difficulty": 2
+    },
+    {
+      "text": "Emevî Devleti'nin başkenti neresidir?",
+      "choices": [
+        "Bağdat",
+        "Kahire",
+        "Kurtuba",
+        "Şam"
+      ],
+      "correct": 3,
+      "explanation": "Emevîlerin başkenti Şam'dı.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "Abbâsî Devleti'nin ünlü başkenti hangisidir?",
+      "choices": [
+        "Şam",
+        "Kahire",
+        "Bağdat",
+        "Kurtuba"
+      ],
+      "correct": 2,
+      "explanation": "Abbâsîlerin başkenti Bağdat'tı.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "Endülüs'ün fethine öncülük eden ve Cebelitarık'a adını veren komutan kimdir?",
+      "choices": [
+        "Mûsâ b. Nusayr",
+        "Tarık b. Ziyâd",
+        "Halid b. Velid",
+        "Amr b. Âs"
+      ],
+      "correct": 1,
+      "explanation": "Tarık b. Ziyâd 711'de İber Yarımadası'na geçmiştir.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 2
+    },
+    {
+      "text": "1071 Malazgirt Savaşı'nda Bizans'ı yenen Selçuklu sultanı kimdir?",
+      "choices": [
+        "Alparslan",
+        "Melikşah",
+        "Tuğrul Bey",
+        "Sultan Sencer"
+      ],
+      "correct": 0,
+      "explanation": "Alparslan, 1071'de Bizans ordusunu yenerek Anadolu'nun kapılarını açmıştır.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "1453'te İstanbul'u fetheden Osmanlı padişahı kimdir?",
+      "choices": [
+        "Yavuz Sultan Selim",
+        "Kanunî Sultan Süleyman",
+        "I. Murad",
+        "Fatih Sultan Mehmed"
+      ],
+      "correct": 3,
+      "explanation": "İstanbul, 1453'te Fatih Sultan Mehmed tarafından fethedilmiştir.",
+      "source": "Genel Osmanlı tarihi kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "Endülüs'teki son Müslüman devleti olan Gırnata hangi yılda düşmüştür?",
+      "choices": [
+        "1071",
+        "1258",
+        "1492",
+        "1453"
+      ],
+      "correct": 2,
+      "explanation": "Gırnata 1492'de Kastilya ve Aragon güçlerine teslim olmuştur.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 3
+    },
+    {
+      "text": "1187 Hıttîn Savaşı'ndan sonra Kudüs'ü Haçlılardan geri alan komutan kimdir?",
+      "choices": [
+        "Nûreddin Zengî",
+        "Selahaddin Eyyûbî",
+        "Baybars",
+        "Alparslan"
+      ],
+      "correct": 1,
+      "explanation": "Selahaddin Eyyûbî, 1187'de Kudüs'ü geri almıştır.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 2
+    },
+    {
+      "text": "Abbâsî başkenti Bağdat 1258'de hangi güç tarafından yıkılmıştır?",
+      "choices": [
+        "Moğollar",
+        "Haçlılar",
+        "Bizans",
+        "Memlükler"
+      ],
+      "correct": 0,
+      "explanation": "Hülâgû komutasındaki Moğollar Bağdat'ı 1258'de yıkmıştır.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 2
+    },
+    {
+      "text": "1260 Ayn Câlût Savaşı'nda Moğolları yenen devlet hangisidir?",
+      "choices": [
+        "Abbâsîler",
+        "Selçuklular",
+        "Eyyûbîler",
+        "Memlükler"
+      ],
+      "correct": 3,
+      "explanation": "Memlükler 1260'ta Ayn Câlût'ta Moğolları yenmiştir.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 3
+    },
+    {
+      "text": "Hz. Ali ile Muâviye arasında yapılan savaş hangisidir?",
+      "choices": [
+        "Yermük",
+        "Kadisiye",
+        "Sıffîn",
+        "Nihâvend"
+      ],
+      "correct": 2,
+      "explanation": "Sıffîn Savaşı hicri 37. yılda yapılmıştır.",
+      "source": "Taberî, Târîh",
+      "difficulty": 3
+    },
+    {
+      "text": "Adaletiyle tanınan Emevî halifesi kimdir?",
+      "choices": [
+        "Abdülmelik b. Mervân",
+        "Ömer b. Abdülazîz",
+        "Hişâm b. Abdülmelik",
+        "II. Mervân"
+      ],
+      "correct": 1,
+      "explanation": "Ömer b. Abdülazîz adaleti ve sadeliğiyle meşhurdur.",
+      "source": "Genel İslam tarihi kaynakları",
+      "difficulty": 3
+    },
+    {
+      "text": "Halifelik, Osmanlılara hangi padişah döneminde geçmiştir?",
+      "choices": [
+        "Yavuz Sultan Selim",
+        "Fatih Sultan Mehmed",
+        "Kanunî Sultan Süleyman",
+        "II. Bayezid"
+      ],
+      "correct": 0,
+      "explanation": "Mısır'ın fethinden (1517) sonra halifelik Osmanlılara geçmiştir.",
+      "source": "Genel Osmanlı tarihi kaynakları",
+      "difficulty": 3
     }
   ]
 }

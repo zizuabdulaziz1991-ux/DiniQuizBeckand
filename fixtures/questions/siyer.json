@@ -26,6 +26,240 @@
       "explanation": "Hicret Mekke'den Medine'ye yapılmıştır.",
       "source": "İbn Hişam, Siyer",
       "difficulty": 1
+    },
+    {
+      "text": "Peygamber Efendimiz (s.a.v.) hangi şehirde doğmuştur?",
+      "choices": [
+        "Medine",
+        "Mekke",
+        "Taif",
+        "Kudüs"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz Mekke'de doğmuştur.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Peygamberimiz'in doğduğu yıl hangi adla anılır?",
+      "choices": [
+        "Fil Yılı",
+        "Hüzün Yılı",
+        "Hicret Yılı",
+        "Fetih Yılı"
+      ],
+      "correct": 0,
+      "explanation": "Ebrehe'nin Kâbe'yi yıkmaya gelmesi nedeniyle bu yıla Fil Yılı denir.",
+      "source": "Fîl, 1-5; İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Peygamberimiz'in annesinin adı nedir?",
+      "choices": [
+        "Halime",
+        "Hatice",
+        "Fâtıma",
+        "Âmine"
+      ],
+      "correct": 3,
+      "explanation": "Annesi Âmine bint Vehb'dir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Dedesi Abdülmuttalib'in vefatından sonra Peygamberimiz'i himayesine alan amcası kimdir?",
+      "choices": [
+        "Hz. Hamza",
+        "Ebû Leheb",
+        "Ebû Tâlib",
+        "Hz. Abbas"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz, amcası Ebû Tâlib'in himayesinde büyümüştür.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Peygamberimiz'i emziren süt annesi kimdir?",
+      "choices": [
+        "Âmine",
+        "Halime",
+        "Hatice",
+        "Ümmü Eymen"
+      ],
+      "correct": 1,
+      "explanation": "Süt annesi Halime es-Sa'diyye'dir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Peygamberimiz'in ilk eşi kimdir?",
+      "choices": [
+        "Hz. Hatice",
+        "Hz. Âişe",
+        "Hz. Hafsa",
+        "Hz. Zeyneb"
+      ],
+      "correct": 0,
+      "explanation": "İlk eşi, ilk iman eden Hz. Hatice'dir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Peygamberimiz'e ilk vahiy geldiğinde kaç yaşındaydı?",
+      "choices": [
+        "25",
+        "33",
+        "63",
+        "40"
+      ],
+      "correct": 3,
+      "explanation": "İlk vahiy Peygamberimiz 40 yaşındayken gelmiştir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Peygamberimiz'in Mescid-i Haram'dan Mescid-i Aksâ'ya götürülmesine ne ad verilir?",
+      "choices": [
+        "Hicret",
+        "Biat",
+        "İsrâ",
+        "Fetih"
+      ],
+      "correct": 2,
+      "explanation": "Bu geceyolculuğuna İsrâ denir; Mirac ise göğe yükselişidir.",
+      "source": "İsrâ, 1",
+      "difficulty": 2
+    },
+    {
+      "text": "Hicret sırasında Peygamberimiz ve Hz. Ebû Bekir hangi mağaraya sığınmıştır?",
+      "choices": [
+        "Hira",
+        "Sevr",
+        "Kehf",
+        "Uhud"
+      ],
+      "correct": 1,
+      "explanation": "Mekkelilerin takibinden korunmak için Sevr Mağarası'na sığınmışlardır.",
+      "source": "Tevbe, 40",
+      "difficulty": 1
+    },
+    {
+      "text": "Hicret'te Medine yakınlarında inşa edilen ve ilk mescid olarak bilinen mescid hangisidir?",
+      "choices": [
+        "Kuba Mescidi",
+        "Mescid-i Aksâ",
+        "Mescid-i Kıbleteyn",
+        "Mescid-i Nebevî"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz Medine'ye girmeden önce Kuba'da mescid inşa etmiştir.",
+      "source": "Tevbe, 108",
+      "difficulty": 2
+    },
+    {
+      "text": "Müslümanların müşriklere karşı kazandığı ilk büyük zafer hangi savaştır?",
+      "choices": [
+        "Uhud",
+        "Hendek",
+        "Huneyn",
+        "Bedir"
+      ],
+      "correct": 3,
+      "explanation": "Bedir Savaşı hicretin ikinci yılında yapılmıştır.",
+      "source": "Âl-i İmrân, 123",
+      "difficulty": 1
+    },
+    {
+      "text": "Okçuların tepeyi terk etmesi nedeniyle sonucu değişen savaş hangisidir?",
+      "choices": [
+        "Bedir",
+        "Hendek",
+        "Uhud",
+        "Mûte"
+      ],
+      "correct": 2,
+      "explanation": "Uhud Savaşı'nda okçuların yerlerini terk etmesi ile savaşın seyri değişmiştir.",
+      "source": "Âl-i İmrân, 152",
+      "difficulty": 2
+    },
+    {
+      "text": "Medine'nin etrafına hendek kazılarak savunma yapılan savaş hangisidir?",
+      "choices": [
+        "Bedir",
+        "Hendek (Ahzâb)",
+        "Hayber",
+        "Huneyn"
+      ],
+      "correct": 1,
+      "explanation": "Hendek Savaşı'nda şehir, kazılan hendekle savunulmuştur.",
+      "source": "Ahzâb, 9-11",
+      "difficulty": 2
+    },
+    {
+      "text": "Hudeybiye Antlaşması hangi taraflar arasında yapılmıştır?",
+      "choices": [
+        "Müslümanlar ile Mekkeli müşrikler",
+        "Müslümanlar ile Bizans",
+        "Müslümanlar ile Habeşistan",
+        "Müslümanlar ile Hayber Yahudileri"
+      ],
+      "correct": 0,
+      "explanation": "Hudeybiye'de Müslümanlar ile Kureyş müşrikleri antlaşma yapmıştır.",
+      "source": "Fetih, 1; İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Mekke'nin fethi hangi miladi yılda gerçekleşmiştir?",
+      "choices": [
+        "610",
+        "622",
+        "632",
+        "630"
+      ],
+      "correct": 3,
+      "explanation": "Mekke, hicretin 8. yılında (630) fethedilmiştir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Veda Hutbesi hangi yerde irat edilmiştir?",
+      "choices": [
+        "Mina",
+        "Mescid-i Nebevî",
+        "Arafat",
+        "Hira"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz Veda Haccı'nda Arafat'ta Veda Hutbesi'ni okumuştur.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Peygamberimiz (s.a.v.) hangi şehirde vefat etmiştir?",
+      "choices": [
+        "Mekke",
+        "Medine",
+        "Taif",
+        "Şam"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz Medine'de vefat etmiştir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Peygamberimiz'e vahiyden önce Mekkeliler tarafından verilen lakap hangisidir?",
+      "choices": [
+        "el-Emîn",
+        "el-Fârûk",
+        "es-Sıddîk",
+        "Zinnûreyn"
+      ],
+      "correct": 0,
+      "explanation": "Güvenilirliği nedeniyle ona 'el-Emîn' denirdi.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
     }
   ]
 }

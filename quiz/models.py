@@ -115,3 +115,12 @@ class SessionAnswer(models.Model):
         ]
         verbose_name = "Cevap"
         verbose_name_plural = "Cevaplar"
+
+
+class PlayerScore(QuizSession):
+    """Admin'de oyuncu bazlı toplam skor ekranı için proxy model (tablo oluşturmaz)."""
+
+    class Meta:
+        proxy = True
+        verbose_name = "Oyuncu skoru"
+        verbose_name_plural = "Oyuncu skorları (toplam)"

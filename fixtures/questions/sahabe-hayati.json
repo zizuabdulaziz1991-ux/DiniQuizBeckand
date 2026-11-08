@@ -26,6 +26,240 @@
       "explanation": "İlk müezzin Hz. Bilal-i Habeşî'dir.",
       "source": "İbn Sa'd, Tabakât",
       "difficulty": 1
+    },
+    {
+      "text": "İslam'ı ilk kabul eden kadın kimdir?",
+      "choices": [
+        "Hz. Âişe",
+        "Hz. Hatice",
+        "Hz. Fâtıma",
+        "Hz. Sümeyye"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Hatice, ilk iman eden kişidir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Yetişkin erkeklerden ilk Müslüman olan sahabi kimdir?",
+      "choices": [
+        "Hz. Ebû Bekir",
+        "Hz. Ömer",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 0,
+      "explanation": "Yetişkin erkeklerden ilk iman eden Hz. Ebû Bekir'dir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Çocuk yaştakiler arasında İslam'ı ilk kabul eden sahabi kimdir?",
+      "choices": [
+        "Hz. Talha",
+        "Hz. Zübeyr",
+        "Hz. Sa'd",
+        "Hz. Ali"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Ali, çocuk yaştayken İslam'ı kabul etmiştir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "'Hak ile batılı ayıran' anlamındaki 'el-Fârûk' lakabıyla anılan sahabi kimdir?",
+      "choices": [
+        "Hz. Ebû Bekir",
+        "Hz. Osman",
+        "Hz. Ömer",
+        "Hz. Ali"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ömer'in lakabı el-Fârûk'tur.",
+      "source": "İbn Sa'd, Tabakât",
+      "difficulty": 1
+    },
+    {
+      "text": "'İki nur sahibi' anlamındaki 'Zinnûreyn' lakabıyla anılan halife kimdir?",
+      "choices": [
+        "Hz. Ali",
+        "Hz. Osman",
+        "Hz. Ömer",
+        "Hz. Ebû Bekir"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz'in iki kızıyla evlendiği için bu lakapla anılmıştır.",
+      "source": "İbn Sa'd, Tabakât",
+      "difficulty": 2
+    },
+    {
+      "text": "Hz. Ali, Peygamberimiz'in hangi kızıyla evlenmiştir?",
+      "choices": [
+        "Hz. Fâtıma",
+        "Hz. Zeynep",
+        "Hz. Rukiyye",
+        "Hz. Ümmü Gülsüm"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Ali, Hz. Fâtıma ile evlenmiştir.",
+      "source": "İbn Sa'd, Tabakât",
+      "difficulty": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi cennetle müjdelenen on sahabeden biridir?",
+      "choices": [
+        "Ebû Hüreyre",
+        "Enes b. Mâlik",
+        "Halid b. Velid",
+        "Abdurrahman b. Avf"
+      ],
+      "correct": 3,
+      "explanation": "Abdurrahman b. Avf, Aşere-i Mübeşşere'dendir.",
+      "source": "Tirmizî, Menâkıb",
+      "difficulty": 2
+    },
+    {
+      "text": "'Seyfullah' (Allah'ın kılıcı) lakabıyla anılan sahabi kimdir?",
+      "choices": [
+        "Hz. Hamza",
+        "Sa'd b. Ebî Vakkas",
+        "Halid b. Velid",
+        "Amr b. Âs"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz Halid b. Velid'e bu lakabı vermiştir.",
+      "source": "İbn Sa'd, Tabakât",
+      "difficulty": 1
+    },
+    {
+      "text": "En çok hadis rivayet eden sahabi kimdir?",
+      "choices": [
+        "Hz. Ömer",
+        "Ebû Hüreyre",
+        "Enes b. Mâlik",
+        "Abdullah b. Mes'ud"
+      ],
+      "correct": 1,
+      "explanation": "Ebû Hüreyre en çok hadis rivayet eden sahabidir.",
+      "source": "Genel hadis tarihi kaynakları",
+      "difficulty": 2
+    },
+    {
+      "text": "Uhud Savaşı'nda şehit olan Peygamberimiz'in amcası kimdir?",
+      "choices": [
+        "Hz. Hamza",
+        "Ebû Tâlib",
+        "Hz. Abbas",
+        "Ebû Leheb"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Hamza, Uhud'da şehit olmuştur.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
+    },
+    {
+      "text": "Habeşistan'a hicret eden Müslümanların başkanı olan sahabi kimdir?",
+      "choices": [
+        "Ammâr b. Yâsir",
+        "Mus'ab b. Umeyr",
+        "Ebû Zerr",
+        "Cafer b. Ebû Tâlib"
+      ],
+      "correct": 3,
+      "explanation": "Cafer b. Ebû Tâlib, Habeşistan muhacirlerinin sözcüsü ve başkanıdır.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Hicret eden Müslümanlara yardım eden Medineli Müslümanlara ne ad verilir?",
+      "choices": [
+        "Muhâcirûn",
+        "Ashâb-ı Suffe",
+        "Ensâr",
+        "Tâbiûn"
+      ],
+      "correct": 2,
+      "explanation": "Medineli yardımcılara Ensâr denir.",
+      "source": "Tevbe, 100",
+      "difficulty": 1
+    },
+    {
+      "text": "Hz. Âişe'nin babası kimdir?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ebû Bekir",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Âişe, Hz. Ebû Bekir'in kızıdır.",
+      "source": "İbn Sa'd, Tabakât",
+      "difficulty": 1
+    },
+    {
+      "text": "Peygamberimiz'in hanımlarına verilen unvan hangisidir?",
+      "choices": [
+        "Ümmehâtü'l-Mü'minîn (Müminlerin anneleri)",
+        "Ashâb-ı Suffe",
+        "Ensâr",
+        "Muhâcirûn"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz'in hanımları 'müminlerin anneleri' olarak anılır.",
+      "source": "Ahzâb, 6",
+      "difficulty": 2
+    },
+    {
+      "text": "Hendek Savaşı'nda hendek kazma fikrini veren sahabi kimdir?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Bilâl",
+        "Ebû Zerr",
+        "Selmân-ı Fârisî"
+      ],
+      "correct": 3,
+      "explanation": "Selmân-ı Fârisî, Medine çevresine hendek kazılmasını önermiştir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Akabe biatlarından sonra Medine'ye İslam'ı öğretmek için gönderilen sahabi kimdir?",
+      "choices": [
+        "Hz. Hamza",
+        "Hz. Zübeyr",
+        "Mus'ab b. Umeyr",
+        "Bilâl-i Habeşî"
+      ],
+      "correct": 2,
+      "explanation": "Mus'ab b. Umeyr Medine'nin ilk muallimidir.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 3
+    },
+    {
+      "text": "Peygamberimiz'in Medine'ye geldiğinde evinde misafir kaldığı sahabi kimdir?",
+      "choices": [
+        "Sa'd b. Muâz",
+        "Ebû Eyyûb el-Ensârî",
+        "Abdullah b. Selâm",
+        "Ebû Zerr"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz Medine'de ilk olarak Ebû Eyyûb el-Ensârî'nin evinde kalmıştır.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 2
+    },
+    {
+      "text": "Hz. Ebû Bekir'e verilen 'doğrulayıcı' anlamındaki lakap hangisidir?",
+      "choices": [
+        "es-Sıddîk",
+        "el-Fârûk",
+        "el-Emîn",
+        "Zinnûreyn"
+      ],
+      "correct": 0,
+      "explanation": "Miraç haberini hemen tasdik ettiği için 'es-Sıddîk' lakabını almıştır.",
+      "source": "İbn Hişam, es-Sîre",
+      "difficulty": 1
     }
   ]
 }

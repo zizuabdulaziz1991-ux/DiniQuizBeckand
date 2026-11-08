@@ -2,7 +2,18 @@ from django.contrib import admin
 from django.core.exceptions import ValidationError
 from django.forms.models import BaseInlineFormSet
 
-from quiz.models import Category, Choice, Question, QuizSession, SessionAnswer
+from django.db.models import Count, Max, Sum
+from django.db.models.functions import Lower
+from django.template.response import TemplateResponse
+
+from quiz.models import (
+    Category,
+    Choice,
+    PlayerScore,
+    Question,
+    QuizSession,
+    SessionAnswer,
+)
 
 
 class ChoiceInlineFormSet(BaseInlineFormSet):
@@ -69,3 +80,46 @@ class QuizSessionAdmin(admin.ModelAdmin):
     readonly_fields = ("id", "token", "question_order", "started_at", "finished_at")
     inlines = [SessionAnswerInline]
     actions = [clear_player_name]
+
+
+@admin.register(PlayerScore)
+class PlayerScoreAdmin(admin.ModelAdmin):
+    """İsim bazında toplam puan: tüm biten oyunlar birleşir (büyük/küçük harf duyarsız)."""
+
+    def has_add_permission(self, request):
+        return False
+
+    def has_change_permission(self, request, obj=None):
+        return False
+
+    def has_delete_permission(self, request, obj=None):
+        return False
+
+    def changelist_view(self, request, extra_context=None):
+        qs = QuizSession.objects.filter(status=QuizSession.Status.FINISHED).exclude(player_name="")
+        slug = request.GET.get("category")
+        if slug:
+            qs = qs.filter(category__slug=slug)
+        rows = list(
+            qs.annotate(pname=Lower("player_name"))
+            .values("pname")
+            .annotate(
+                name=Max("player_name"),
+                total=Sum("score"),
+                best=Max("score"),
+                games=Count("id"),
+                last=Max("finished_at"),
+            )
+            .order_by("-total", "last")
+        )
+        for i, r in enumerate(rows, start=1):
+            r["rank"] = i
+        context = {
+            **self.admin_site.each_context(request),
+            "title": "Oyuncu skorları (toplam puan)",
+            "rows": rows,
+            "categories": Category.objects.all(),
+            "selected": slug or "",
+            "opts": self.model._meta,
+        }
+        return TemplateResponse(request, "admin/quiz/playerscore.html", context)

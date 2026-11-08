@@ -181,3 +181,19 @@ def test_leaderboard_sums_same_player(client, questions):
 
     best = client.get(f"{BASE}/leaderboard/?mode=best").json()["entries"]
     assert len(best) == 3
+
+
+def test_admin_player_scores_page(client, questions, django_user_model):
+    _play_and_name(client, "Zizu")
+    _play_and_name(client, "zizu")
+    django_user_model.objects.create_superuser("root", "r@x.com", "pw12345!")
+    client.force_authenticate(user=None)
+    from django.test import Client
+
+    c = Client()
+    c.login(username="root", password="pw12345!")
+    r = c.get("/yonetim/quiz/playerscore/")
+    assert r.status_code == 200
+    html = r.content.decode()
+    assert "Zizu" in html or "zizu" in html
+    assert "<td>2</td>" in html  # oyun sayısı

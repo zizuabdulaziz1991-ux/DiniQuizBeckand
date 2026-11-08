@@ -1,0 +1,26 @@
+{% extends "admin/base_site.html" %}
+{% block content %}
+<form method="get" style="margin-bottom:16px">
+  <label>Kategori:
+    <select name="category" onchange="this.form.submit()">
+      <option value="">Genel (tümü)</option>
+      {% for c in categories %}
+        <option value="{{ c.slug }}" {% if c.slug == selected %}selected{% endif %}>{{ c.name }}</option>
+      {% endfor %}
+    </select>
+  </label>
+</form>
+<table>
+  <thead>
+    <tr><th>Sıra</th><th>Oyuncu</th><th>Toplam puan</th><th>En iyi oyun</th><th>Oyun sayısı</th><th>Son oyun</th></tr>
+  </thead>
+  <tbody>
+  {% for r in rows %}
+    <tr><td>{{ r.rank }}</td><td>{{ r.name }}</td><td><strong>{{ r.total }}</strong></td><td>{{ r.best }}</td><td>{{ r.games }}</td><td>{{ r.last }}</td></tr>
+  {% empty %}
+    <tr><td colspan="6">Henüz isim kaydeden oyuncu yok.</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p style="margin-top:16px;color:#666">Yalnızca bitirilmiş ve isim kaydedilmiş oyunlar sayılır.</p>
+{% endblock %}

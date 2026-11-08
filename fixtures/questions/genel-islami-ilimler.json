@@ -39,6 +39,227 @@
       "explanation": "Günde beş vakit farz namaz vardır.",
       "source": "Buhârî, Mevâkît",
       "difficulty": 1
+    },
+    {
+      "text": "Zekât; altın, gümüş ve ticaret mallarında nisabı aşan miktarın ne kadarı olarak verilir?",
+      "choices": [
+        "Yüzde 1",
+        "Kırkta bir (%2,5)",
+        "Onda bir",
+        "Beşte bir"
+      ],
+      "correct": 1,
+      "explanation": "Altın, gümüş, para ve ticaret mallarında zekât oranı kırkta birdir (%2,5).",
+      "source": "Genel fıkıh kaynakları",
+      "difficulty": 2
+    },
+    {
+      "text": "Kurban Bayramı hicri takvimin hangi ayında kutlanır?",
+      "choices": [
+        "Zilhicce",
+        "Şevval",
+        "Muharrem",
+        "Recep"
+      ],
+      "correct": 0,
+      "explanation": "Kurban Bayramı Zilhicce ayının 10. günü başlar.",
+      "source": "Genel fıkıh kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "Akşam namazının farzı kaç rekâttır?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "correct": 3,
+      "explanation": "Akşam namazının farzı üç rekâttır.",
+      "source": "Genel fıkıh kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "Cuma namazı hangi vaktin namazı yerine kılınır?",
+      "choices": [
+        "Sabah",
+        "İkindi",
+        "Öğle",
+        "Yatsı"
+      ],
+      "correct": 2,
+      "explanation": "Cuma namazı cuma günü öğle vaktinde kılınır ve öğle namazının yerine geçer.",
+      "source": "Cuma, 9",
+      "difficulty": 1
+    },
+    {
+      "text": "Mâide Sûresi'nde abdest alırken yıkanması emredilen uzuvlardan biri hangisidir?",
+      "choices": [
+        "Diz",
+        "Yüz",
+        "Omuz",
+        "Boyun"
+      ],
+      "correct": 1,
+      "explanation": "Ayette yüz, eller (dirseklere kadar) ve ayaklar yıkanır, baş mesh edilir.",
+      "source": "Mâide, 6",
+      "difficulty": 1
+    },
+    {
+      "text": "Müslümanların namazda yöneldiği yer neresidir?",
+      "choices": [
+        "Kâbe",
+        "Mescid-i Aksâ",
+        "Mescid-i Nebevî",
+        "Arafat"
+      ],
+      "correct": 0,
+      "explanation": "Müslümanlar namazda Mekke'deki Kâbe'ye yönelir.",
+      "source": "Bakara, 144",
+      "difficulty": 1
+    },
+    {
+      "text": "Oruç, günün hangi vakit aralığında tutulur?",
+      "choices": [
+        "Öğleden akşama kadar",
+        "Sabah namazından öğleye kadar",
+        "Gece yarısından öğleye kadar",
+        "İmsaktan akşam ezanına (güneş batımına) kadar"
+      ],
+      "correct": 3,
+      "explanation": "Oruç, fecrin doğuşundan (imsak) güneşin batışına kadar tutulur.",
+      "source": "Bakara, 187",
+      "difficulty": 1
+    },
+    {
+      "text": "Kur'an-ı Kerim hangi ayda indirilmeye başlanmıştır?",
+      "choices": [
+        "Muharrem",
+        "Recep",
+        "Ramazan",
+        "Zilhicce"
+      ],
+      "correct": 2,
+      "explanation": "Ramazan ayı, Kur'an'ın indirilmeye başlandığı aydır.",
+      "source": "Bakara, 185",
+      "difficulty": 1
+    },
+    {
+      "text": "Ramazan Bayramı namazından önce verilmesi gereken sadaka hangisidir?",
+      "choices": [
+        "Kurban",
+        "Fitre",
+        "Zekât",
+        "Fidye"
+      ],
+      "correct": 1,
+      "explanation": "Fitre (sadaka-i fıtır), bayram namazından önce verilir.",
+      "source": "Genel fıkıh kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "'Bismillâhirrahmânirrahîm' ne anlama gelir?",
+      "choices": [
+        "Rahmân ve Rahîm olan Allah'ın adıyla",
+        "Allah en büyüktür",
+        "Hamd Allah'a mahsustur",
+        "Allah'tan başka ilah yoktur"
+      ],
+      "correct": 0,
+      "explanation": "Besmele, 'Rahmân ve Rahîm olan Allah'ın adıyla' anlamına gelir.",
+      "source": "Fâtiha, 1",
+      "difficulty": 1
+    },
+    {
+      "text": "Peygamber Efendimiz'in (s.a.v.) söz, fiil ve onaylarına ne ad verilir?",
+      "choices": [
+        "Fıkıh",
+        "Tefsir",
+        "Kelam",
+        "Hadis"
+      ],
+      "correct": 3,
+      "explanation": "Hadis, Peygamberimiz'den nakledilen söz, fiil ve onayları (takrir) ifade eder.",
+      "source": "Hadis usulü temel kaynakları",
+      "difficulty": 2
+    },
+    {
+      "text": "'Sahîh-i Buhârî' adlı hadis kitabının müellifi kimdir?",
+      "choices": [
+        "İmam Müslim",
+        "İmam Tirmizî",
+        "İmam Buhârî",
+        "İmam Mâlik"
+      ],
+      "correct": 2,
+      "explanation": "Sahîh-i Buhârî, İmam Muhammed b. İsmâil el-Buhârî'nin eseridir.",
+      "source": "Hadis usulü temel kaynakları",
+      "difficulty": 2
+    },
+    {
+      "text": "Hanefî mezhebinin imamı kimdir?",
+      "choices": [
+        "İmam Mâlik",
+        "Ebû Hanîfe",
+        "İmam Şâfiî",
+        "Ahmed b. Hanbel"
+      ],
+      "correct": 1,
+      "explanation": "Hanefî mezhebi, İmam-ı Âzam Ebû Hanîfe'ye nispet edilir.",
+      "source": "Genel fıkıh tarihi kaynakları",
+      "difficulty": 1
+    },
+    {
+      "text": "Aşağıdakilerden hangisi iman esaslarından biridir?",
+      "choices": [
+        "Ahiret gününe iman",
+        "Hac",
+        "Zekât",
+        "Oruç"
+      ],
+      "correct": 0,
+      "explanation": "Ahirete iman altı iman esasından biridir; diğerleri İslam'ın şartlarındandır.",
+      "source": "Bakara, 285",
+      "difficulty": 1
+    },
+    {
+      "text": "Zebûr hangi peygambere indirilmiştir?",
+      "choices": [
+        "Hz. Mûsâ",
+        "Hz. Îsâ",
+        "Hz. İbrâhim",
+        "Hz. Dâvûd"
+      ],
+      "correct": 3,
+      "explanation": "Zebûr, Hz. Dâvûd'a verilmiştir.",
+      "source": "Nisâ, 163",
+      "difficulty": 2
+    },
+    {
+      "text": "Peygamberlere vahyi getiren melek kimdir?",
+      "choices": [
+        "Mîkâil",
+        "İsrâfil",
+        "Cebrâil",
+        "Azrâil"
+      ],
+      "correct": 2,
+      "explanation": "Vahiy meleği Cebrâil'dir.",
+      "source": "Bakara, 97",
+      "difficulty": 1
+    },
+    {
+      "text": "'Muvatta' adlı eserin müellifi kimdir?",
+      "choices": [
+        "İmam Buhârî",
+        "İmam Mâlik",
+        "İmam Müslim",
+        "Ahmed b. Hanbel"
+      ],
+      "correct": 1,
+      "explanation": "Muvatta, İmam Mâlik b. Enes'in hadis ve fıkıh kitabıdır.",
+      "source": "Genel hadis ve fıkıh tarihi kaynakları",
+      "difficulty": 3
     }
   ]
 }

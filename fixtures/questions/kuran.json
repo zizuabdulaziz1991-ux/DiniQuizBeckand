@@ -26,6 +26,240 @@
       "explanation": "Mushafın ilk suresi Fâtiha'dır.",
       "source": "Mushaf",
       "difficulty": 1
+    },
+    {
+      "text": "Peygamberimiz'e inen ilk ayetler hangi sureye aittir?",
+      "choices": [
+        "Müddessir",
+        "Alak",
+        "Müzzemmil",
+        "Fâtiha"
+      ],
+      "correct": 1,
+      "explanation": "İlk inen ayetler Alak Sûresi'nin ilk beş ayetidir.",
+      "source": "Alak, 1-5",
+      "difficulty": 1
+    },
+    {
+      "text": "Kur'an-ı Kerim'in en uzun suresi hangisidir?",
+      "choices": [
+        "Bakara",
+        "Âl-i İmrân",
+        "Nisâ",
+        "Mâide"
+      ],
+      "correct": 0,
+      "explanation": "Bakara Sûresi 286 ayetle en uzun suredir.",
+      "source": "Mushaf",
+      "difficulty": 1
+    },
+    {
+      "text": "Ayetü'l-Kürsî hangi surede yer alır?",
+      "choices": [
+        "Âl-i İmrân",
+        "Yâsîn",
+        "Fâtiha",
+        "Bakara"
+      ],
+      "correct": 3,
+      "explanation": "Ayetü'l-Kürsî, Bakara Sûresi'nin 255. ayetidir.",
+      "source": "Bakara, 255",
+      "difficulty": 2
+    },
+    {
+      "text": "'De ki: O, Allah'tır, tektir.' ayetiyle başlayan sure hangisidir?",
+      "choices": [
+        "Kâfirûn",
+        "Felak",
+        "İhlâs",
+        "Nâs"
+      ],
+      "correct": 2,
+      "explanation": "İhlâs Sûresi bu ayetle başlar.",
+      "source": "İhlâs, 1",
+      "difficulty": 1
+    },
+    {
+      "text": "Bakara Sûresi kaç ayettir?",
+      "choices": [
+        "114",
+        "286",
+        "200",
+        "6236"
+      ],
+      "correct": 1,
+      "explanation": "Bakara Sûresi 286 ayettir.",
+      "source": "Mushaf",
+      "difficulty": 2
+    },
+    {
+      "text": "Fâtiha Sûresi kaç ayettir?",
+      "choices": [
+        "7",
+        "3",
+        "5",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "Fâtiha Sûresi yedi ayettir.",
+      "source": "Mushaf",
+      "difficulty": 1
+    },
+    {
+      "text": "Mushafın son suresi hangisidir?",
+      "choices": [
+        "Felak",
+        "İhlâs",
+        "Nasr",
+        "Nâs"
+      ],
+      "correct": 3,
+      "explanation": "Mushafın 114. ve son suresi Nâs'tır.",
+      "source": "Mushaf",
+      "difficulty": 1
+    },
+    {
+      "text": "Ebrehe'nin Kâbe'yi yıkmaya gelişi hangi surede anlatılır?",
+      "choices": [
+        "Kureyş",
+        "Mâûn",
+        "Fîl",
+        "Kevser"
+      ],
+      "correct": 2,
+      "explanation": "Fîl Sûresi, Fil Olayı'nı anlatır.",
+      "source": "Fîl, 1-5",
+      "difficulty": 2
+    },
+    {
+      "text": "Hz. Yûsuf'un kıssası hangi surede anlatılır?",
+      "choices": [
+        "Hûd",
+        "Yûsuf",
+        "Yûnus",
+        "Kehf"
+      ],
+      "correct": 1,
+      "explanation": "Yûsuf Sûresi, Hz. Yûsuf'un kıssasını anlatır.",
+      "source": "Yûsuf, 3",
+      "difficulty": 1
+    },
+    {
+      "text": "Kur'an-ı Kerim'de ismi geçen tek kadın kimdir?",
+      "choices": [
+        "Hz. Meryem",
+        "Hz. Hatice",
+        "Hz. Âsiye",
+        "Hz. Hacer"
+      ],
+      "correct": 0,
+      "explanation": "Kur'an'da adıyla anılan tek kadın Hz. Meryem'dir.",
+      "source": "Meryem; Âl-i İmrân",
+      "difficulty": 2
+    },
+    {
+      "text": "Hangi surenin başında besmele yoktur?",
+      "choices": [
+        "Nisâ",
+        "Yûnus",
+        "Hûd",
+        "Tevbe"
+      ],
+      "correct": 3,
+      "explanation": "Tevbe Sûresi'nin başında besmele bulunmaz.",
+      "source": "Mushaf",
+      "difficulty": 2
+    },
+    {
+      "text": "Kur'an'ın indirilmeye başlandığı gece hangi isimle anılır?",
+      "choices": [
+        "Berât Gecesi",
+        "Regaib Gecesi",
+        "Kadir Gecesi",
+        "Mirac Gecesi"
+      ],
+      "correct": 2,
+      "explanation": "Kur'an Kadir Gecesi'nde indirilmeye başlanmıştır.",
+      "source": "Kadr, 1",
+      "difficulty": 1
+    },
+    {
+      "text": "Kur'an'da Hz. Mûsâ'nın karşısındaki Mısır hükümdarı hangi adla anılır?",
+      "choices": [
+        "Nemrut",
+        "Firavun",
+        "Câlût",
+        "Karun"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Mûsâ'nın karşısındaki zalim hükümdar Firavun'dur.",
+      "source": "Kur'an, A'râf; Tâhâ",
+      "difficulty": 1
+    },
+    {
+      "text": "Eshâb-ı Kehf (Mağara Arkadaşları) kıssası hangi surede anlatılır?",
+      "choices": [
+        "Kehf",
+        "Meryem",
+        "Nûh",
+        "Neml"
+      ],
+      "correct": 0,
+      "explanation": "Eshâb-ı Kehf kıssası Kehf Sûresi'nde yer alır.",
+      "source": "Kehf, 9-26",
+      "difficulty": 2
+    },
+    {
+      "text": "Cuma namazına çağrının anlatıldığı sure hangisidir?",
+      "choices": [
+        "Nisâ",
+        "Mâide",
+        "Bakara",
+        "Cuma"
+      ],
+      "correct": 3,
+      "explanation": "Cuma Sûresi, cuma namazına koşmayı emreder.",
+      "source": "Cuma, 9",
+      "difficulty": 2
+    },
+    {
+      "text": "Kur'an'a göre ilk insan kimdir?",
+      "choices": [
+        "Hz. Nûh",
+        "Hz. İbrâhim",
+        "Hz. Âdem",
+        "Hz. İdrîs"
+      ],
+      "correct": 2,
+      "explanation": "İlk insan Hz. Âdem'dir.",
+      "source": "Bakara, 30-37",
+      "difficulty": 1
+    },
+    {
+      "text": "Kur'an-ı Kerim kaç cüzden oluşur?",
+      "choices": [
+        "20",
+        "30",
+        "40",
+        "60"
+      ],
+      "correct": 1,
+      "explanation": "Kur'an-ı Kerim 30 cüzden oluşur.",
+      "source": "Mushaf",
+      "difficulty": 1
+    },
+    {
+      "text": "Arı adını taşıyan sure hangisidir?",
+      "choices": [
+        "Nahl",
+        "Neml",
+        "Ankebût",
+        "Fîl"
+      ],
+      "correct": 0,
+      "explanation": "Nahl, 'arı' anlamına gelir.",
+      "source": "Mushaf",
+      "difficulty": 2
     }
   ]
 }
