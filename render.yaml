@@ -23,6 +23,6 @@ services:
         value: .onrender.com
       # Frontend yayınlandıktan sonra gerçek adresle güncelleyin
       - key: CORS_ALLOWED_ORIGINS
-        value: https://diniquiz-frontend.onrender.com
+        value: https://diniquiz-frontend-c7to.onrender.com
       - key: LOAD_QUESTIONS_ON_START
         value: "true"
