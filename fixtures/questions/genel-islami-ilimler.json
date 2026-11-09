@@ -24,7 +24,8 @@
           ],
           "explanation": "Islomning shartlari beshta: shahodat kalimasi, namoz, ro'za, zakot va haj."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "İman esasları kaç tanedir?",
@@ -49,7 +50,8 @@
           ],
           "explanation": "Iymon shartlari oltita."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Günlük farz namaz sayısı kaçtır?",
@@ -74,7 +76,8 @@
           ],
           "explanation": "Kuniga besh vaqt farz namoz bor."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Zekât; altın, gümüş ve ticaret mallarında nisabı aşan miktarın ne kadarı olarak verilir?",
@@ -99,7 +102,8 @@
           ],
           "explanation": "Oltin, kumush, pul va savdo mollarida zakot miqdori qirqdan biridir (2,5%)."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Kurban Bayramı hicri takvimin hangi ayında kutlanır?",
@@ -124,7 +128,8 @@
           ],
           "explanation": "Qurbon hayiti Zulhijja oyining 10-kunida boshlanadi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Akşam namazının farzı kaç rekâttır?",
@@ -149,7 +154,8 @@
           ],
           "explanation": "Shom namozining farzi uch rakat."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Cuma namazı hangi vaktin namazı yerine kılınır?",
@@ -174,7 +180,8 @@
           ],
           "explanation": "Juma namozi juma kuni peshin vaqtida o'qiladi va peshin namozi o'rnini bosadi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Mâide Sûresi'nde abdest alırken yıkanması emredilen uzuvlardan biri hangisidir?",
@@ -199,7 +206,8 @@
           ],
           "explanation": "Oyatda yuz, qo'llar (tirsaklargacha) va oyoqlar yuviladi, bosh mas'h qilinadi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Müslümanların namazda yöneldiği yer neresidir?",
@@ -224,7 +232,8 @@
           ],
           "explanation": "Musulmonlar namozda Makkadagi Ka'baga yuzlanadi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Oruç, günün hangi vakit aralığında tutulur?",
@@ -249,7 +258,8 @@
           ],
           "explanation": "Ro'za tong otishidan (subhi sodiq) quyosh botguncha tutiladi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Kur'an-ı Kerim hangi ayda indirilmeye başlanmıştır?",
@@ -274,7 +284,8 @@
           ],
           "explanation": "Ramazon oyi Qur'on nozil bo'la boshlagan oydir."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Ramazan Bayramı namazından önce verilmesi gereken sadaka hangisidir?",
@@ -299,7 +310,8 @@
           ],
           "explanation": "Fitr sadaqasi hayit namozidan oldin beriladi."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "'Bismillâhirrahmânirrahîm' ne anlama gelir?",
@@ -324,7 +336,8 @@
           ],
           "explanation": "Basmala 'Rahmon va Rahim bo'lgan Allohning nomi bilan' ma'nosini anglatadi."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Peygamber Efendimiz'in (s.a.v.) söz, fiil ve onaylarına ne ad verilir?",
@@ -349,7 +362,8 @@
           ],
           "explanation": "Hadis Payg'ambarimizdan naql qilingan so'z, fe'l va tasdiqlarni (taqrir) ifodalaydi."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "'Sahîh-i Buhârî' adlı hadis kitabının müellifi kimdir?",
@@ -374,7 +388,8 @@
           ],
           "explanation": "Sahihi Buxoriy Imom Muhammad ibn Ismoil al-Buxoriyning asaridir."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Hanefî mezhebinin imamı kimdir?",
@@ -399,7 +414,8 @@
           ],
           "explanation": "Hanafiy mazhabi Imomi A'zam Abu Hanifaga nisbat beriladi."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Aşağıdakilerden hangisi iman esaslarından biridir?",
@@ -424,7 +440,8 @@
           ],
           "explanation": "Oxiratga iymon oltita iymon shartidan biri; qolganlari Islom shartlaridandir."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Zebûr hangi peygambere indirilmiştir?",
@@ -449,7 +466,8 @@
           ],
           "explanation": "Zabur Hazrati Dovudga berilgan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Peygamberlere vahyi getiren melek kimdir?",
@@ -474,7 +492,8 @@
           ],
           "explanation": "Vahiy farishtasi Jabroildir."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "'Muvatta' adlı eserin müellifi kimdir?",
@@ -499,7 +518,8 @@
           ],
           "explanation": "Muvatta' Imom Molik ibn Anasning hadis va fiqh kitobidir."
         }
-      }
+      },
+      "level": 2
     }
   ]
 }

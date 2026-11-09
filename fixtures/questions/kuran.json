@@ -24,7 +24,8 @@
           ],
           "explanation": "Qur'oni karim 114 ta suradan iborat."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Kur'an'ın ilk suresi hangisidir?",
@@ -49,7 +50,8 @@
           ],
           "explanation": "Mushafning birinchi surasi Fotihadir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamberimiz'e inen ilk ayetler hangi sureye aittir?",
@@ -74,7 +76,8 @@
           ],
           "explanation": "Birinchi nozil bo'lgan oyatlar Alaq surasining dastlabki beshta oyatidir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Kur'an-ı Kerim'in en uzun suresi hangisidir?",
@@ -99,7 +102,8 @@
           ],
           "explanation": "Baqara surasi 286 oyat bilan eng uzun suradir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Ayetü'l-Kürsî hangi surede yer alır?",
@@ -124,7 +128,8 @@
           ],
           "explanation": "Oyatul Kursiy Baqara surasining 255-oyatidir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "'De ki: O, Allah'tır, tektir.' ayetiyle başlayan sure hangisidir?",
@@ -149,7 +154,8 @@
           ],
           "explanation": "Ixlos surasi shu oyat bilan boshlanadi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Bakara Sûresi kaç ayettir?",
@@ -174,7 +180,8 @@
           ],
           "explanation": "Baqara surasi 286 oyatdir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Fâtiha Sûresi kaç ayettir?",
@@ -199,7 +206,8 @@
           ],
           "explanation": "Fotiha surasi yetti oyatdir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Mushafın son suresi hangisidir?",
@@ -224,7 +232,8 @@
           ],
           "explanation": "Mushafning 114- va oxirgi surasi Nosdir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Ebrehe'nin Kâbe'yi yıkmaya gelişi hangi surede anlatılır?",
@@ -249,7 +258,8 @@
           ],
           "explanation": "Fil surasi Fil voqeasini hikoya qiladi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Hz. Yûsuf'un kıssası hangi surede anlatılır?",
@@ -274,7 +284,8 @@
           ],
           "explanation": "Yusuf surasi Hazrati Yusufning qissasini hikoya qiladi."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Kur'an-ı Kerim'de ismi geçen tek kadın kimdir?",
@@ -299,7 +310,8 @@
           ],
           "explanation": "Qur'onda ismi bilan tilga olingan yagona ayol Hazrati Maryamdir."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Hangi surenin başında besmele yoktur?",
@@ -324,7 +336,8 @@
           ],
           "explanation": "Tavba surasining boshida basmala bo'lmaydi."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Kur'an'ın indirilmeye başlandığı gece hangi isimle anılır?",
@@ -349,7 +362,8 @@
           ],
           "explanation": "Qur'on Qadr kechasida nozil bo'la boshlagan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Kur'an'da Hz. Mûsâ'nın karşısındaki Mısır hükümdarı hangi adla anılır?",
@@ -374,7 +388,8 @@
           ],
           "explanation": "Hazrati Musoga qarshi turgan zolim hukmdor Fir'avndir."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Eshâb-ı Kehf (Mağara Arkadaşları) kıssası hangi surede anlatılır?",
@@ -399,7 +414,8 @@
           ],
           "explanation": "Ashobi Kahf qissasi Kahf surasida kelgan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Cuma namazına çağrının anlatıldığı sure hangisidir?",
@@ -424,7 +440,8 @@
           ],
           "explanation": "Juma surasi juma namoziga shoshilishni buyuradi."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Kur'an'a göre ilk insan kimdir?",
@@ -449,7 +466,8 @@
           ],
           "explanation": "Birinchi inson Hazrati Odamdir."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Kur'an-ı Kerim kaç cüzden oluşur?",
@@ -474,7 +492,8 @@
           ],
           "explanation": "Qur'oni karim 30 juzdan iborat."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Arı adını taşıyan sure hangisidir?",
@@ -499,7 +518,8 @@
           ],
           "explanation": "Nahl 'asalari' ma'nosini anglatadi."
         }
-      }
+      },
+      "level": 2
     }
   ]
 }

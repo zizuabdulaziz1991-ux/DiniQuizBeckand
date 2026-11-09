@@ -17,6 +17,8 @@ class StartSessionSerializer(serializers.Serializer):
     category = serializers.SlugField()
     platform = serializers.ChoiceField(choices=QuizSession.Platform.choices, default="web")
     language = serializers.CharField(max_length=10, required=False, allow_blank=True)
+    level = serializers.IntegerField(required=False, default=1)
+    player_id = serializers.UUIDField(required=False, allow_null=True)
 
 
 class AnswerSerializer(serializers.Serializer):

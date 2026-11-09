@@ -36,6 +36,7 @@ class Question(models.Model):
     explanation = models.TextField(blank=True)
     source = models.CharField(max_length=255, blank=True)
     difficulty = models.PositiveSmallIntegerField(default=1)
+    level = models.PositiveSmallIntegerField(default=1, db_index=True)
     is_approved = models.BooleanField(default=False)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -89,6 +90,9 @@ class QuizSession(models.Model):
     finished_at = models.DateTimeField(null=True, blank=True)
     client_platform = models.CharField(max_length=20, choices=Platform.choices, default=Platform.WEB)
     language = models.CharField(max_length=5, default="tr")
+    level = models.PositiveSmallIntegerField(default=1)
+    player_id = models.UUIDField(null=True, blank=True, db_index=True)
+    newly_unlocked = models.BooleanField(default=False)
 
     class Meta:
         ordering = ["-started_at"]
@@ -165,3 +169,27 @@ class QuestionTranslation(models.Model):
     @property
     def choice_texts(self):
         return [self.choice_1, self.choice_2, self.choice_3, self.choice_4]
+
+
+class LevelProgress(models.Model):
+    """Anonim oyuncu (istemcinin ürettiği UUID) için kategori/seviye ilerlemesi."""
+
+    player_id = models.UUIDField(db_index=True)
+    category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name="progress")
+    level = models.PositiveSmallIntegerField()
+    passed = models.BooleanField(default=False)
+    best_correct = models.PositiveSmallIntegerField(default=0)
+    attempts = models.PositiveIntegerField(default=0)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(
+                fields=["player_id", "category", "level"], name="uniq_player_category_level"
+            )
+        ]
+        verbose_name = "Seviye ilerlemesi"
+        verbose_name_plural = "Seviye ilerlemeleri"
+
+    def __str__(self):
+        return f"{self.player_id} · {self.category.slug} · L{self.level} · {'✓' if self.passed else '…'}"

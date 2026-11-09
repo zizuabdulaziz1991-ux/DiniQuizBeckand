@@ -24,7 +24,8 @@
           ],
           "explanation": "Birinchi vahiy Nur tog'idagi Hiro g'oridan nozil bo'lgan."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Hicret hangi şehre doğru yapılmıştır?",
@@ -49,7 +50,8 @@
           ],
           "explanation": "Hijrat Makkadan Madinaga qilingan."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamber Efendimiz (s.a.v.) hangi şehirde doğmuştur?",
@@ -74,7 +76,8 @@
           ],
           "explanation": "Payg'ambarimiz Makkada tug'ilgan."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamberimiz'in doğduğu yıl hangi adla anılır?",
@@ -99,7 +102,8 @@
           ],
           "explanation": "Abraxaning Ka'bani yiqitish uchun kelishi sababli bu yilga Fil yili deyiladi."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamberimiz'in annesinin adı nedir?",
@@ -124,7 +128,8 @@
           ],
           "explanation": "Onasi Omina binti Vahbdir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Dedesi Abdülmuttalib'in vefatından sonra Peygamberimiz'i himayesine alan amcası kimdir?",
@@ -149,7 +154,8 @@
           ],
           "explanation": "Payg'ambarimiz amakisi Abu Tolibning homiyligida o'sgan."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamberimiz'i emziren süt annesi kimdir?",
@@ -174,7 +180,8 @@
           ],
           "explanation": "Sut onasi Halima as-Sa'diyyadir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamberimiz'in ilk eşi kimdir?",
@@ -199,7 +206,8 @@
           ],
           "explanation": "Birinchi turmush o'rtog'i, birinchi iymon keltirgan Hazrati Xadichadir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamberimiz'e ilk vahiy geldiğinde kaç yaşındaydı?",
@@ -224,7 +232,8 @@
           ],
           "explanation": "Birinchi vahiy Payg'ambarimiz 40 yoshda bo'lganda kelgan."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Peygamberimiz'in Mescid-i Haram'dan Mescid-i Aksâ'ya götürülmesine ne ad verilir?",
@@ -249,7 +258,8 @@
           ],
           "explanation": "Bu tungi safarga Isro deyiladi; Me'roj esa osmonga ko'tarilishdir."
         }
-      }
+      },
+      "level": 1
     },
     {
       "text": "Hicret sırasında Peygamberimiz ve Hz. Ebû Bekir hangi mağaraya sığınmıştır?",
@@ -274,7 +284,8 @@
           ],
           "explanation": "Makkaliklarning ta'qibidan saqlanish uchun Savr g'origa yashiringan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Hicret'te Medine yakınlarında inşa edilen ve ilk mescid olarak bilinen mescid hangisidir?",
@@ -299,7 +310,8 @@
           ],
           "explanation": "Payg'ambarimiz Madinaga kirishdan oldin Qubada masjid qurgan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Müslümanların müşriklere karşı kazandığı ilk büyük zafer hangi savaştır?",
@@ -324,7 +336,8 @@
           ],
           "explanation": "Badr jangi hijratning ikkinchi yilida bo'lgan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Okçuların tepeyi terk etmesi nedeniyle sonucu değişen savaş hangisidir?",
@@ -349,7 +362,8 @@
           ],
           "explanation": "Uhud jangida merganlarning o'z joyini tark etishi bilan jangning borishi o'zgargan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Medine'nin etrafına hendek kazılarak savunma yapılan savaş hangisidir?",
@@ -374,7 +388,8 @@
           ],
           "explanation": "Xandaq jangida shahar qazilgan xandaq bilan himoya qilingan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Hudeybiye Antlaşması hangi taraflar arasında yapılmıştır?",
@@ -399,7 +414,8 @@
           ],
           "explanation": "Hudaybiyada musulmonlar bilan Quraysh mushriklari sulh tuzgan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Mekke'nin fethi hangi miladi yılda gerçekleşmiştir?",
@@ -424,7 +440,8 @@
           ],
           "explanation": "Makka hijratning 8-yilida (630) fath etilgan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Veda Hutbesi hangi yerde irat edilmiştir?",
@@ -449,7 +466,8 @@
           ],
           "explanation": "Payg'ambarimiz Vido hajida Arafotda Vido xutbasini o'qigan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Peygamberimiz (s.a.v.) hangi şehirde vefat etmiştir?",
@@ -474,7 +492,8 @@
           ],
           "explanation": "Payg'ambarimiz Madinada vafot etgan."
         }
-      }
+      },
+      "level": 2
     },
     {
       "text": "Peygamberimiz'e vahiyden önce Mekkeliler tarafından verilen lakap hangisidir?",
@@ -499,7 +518,8 @@
           ],
           "explanation": "Ishonchliligi sababli unga 'al-Amin' deyilgan."
         }
-      }
+      },
+      "level": 2
     }
   ]
 }

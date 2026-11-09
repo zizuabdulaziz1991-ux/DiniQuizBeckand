@@ -10,6 +10,7 @@ from quiz.models import (
     Category,
     CategoryTranslation,
     Choice,
+    LevelProgress,
     PlayerScore,
     Question,
     QuestionTranslation,
@@ -64,8 +65,8 @@ def approve_questions(modeladmin, request, queryset):
 
 @admin.register(Question)
 class QuestionAdmin(admin.ModelAdmin):
-    list_display = ("text", "category", "difficulty", "is_approved")
-    list_filter = ("category", "is_approved", "difficulty")
+    list_display = ("text", "category", "level", "difficulty", "is_approved")
+    list_filter = ("category", "level", "is_approved", "difficulty")
     search_fields = ("text", "source")
     inlines = [ChoiceInline, QuestionTranslationInline]
     actions = [approve_questions]
@@ -88,8 +89,16 @@ class SessionAnswerInline(admin.TabularInline):
 
 @admin.register(QuizSession)
 class QuizSessionAdmin(admin.ModelAdmin):
-    list_display = ("player_name", "category", "score", "status", "client_platform", "started_at")
-    list_filter = ("status", "category", "client_platform")
+    list_display = (
+        "player_name",
+        "category",
+        "level",
+        "score",
+        "status",
+        "client_platform",
+        "started_at",
+    )
+    list_filter = ("status", "category", "level", "client_platform")
     search_fields = ("player_name",)
     readonly_fields = ("id", "token", "question_order", "started_at", "finished_at")
     inlines = [SessionAnswerInline]
@@ -137,3 +146,14 @@ class PlayerScoreAdmin(admin.ModelAdmin):
             "opts": self.model._meta,
         }
         return TemplateResponse(request, "admin/quiz/playerscore.html", context)
+
+
+@admin.register(LevelProgress)
+class LevelProgressAdmin(admin.ModelAdmin):
+    list_display = ("player_id", "category", "level", "passed", "best_correct", "attempts", "updated_at")
+    list_filter = ("category", "level", "passed")
+    search_fields = ("player_id",)
+    readonly_fields = ("player_id", "category", "level", "passed", "best_correct", "attempts")
+
+    def has_add_permission(self, request):
+        return False

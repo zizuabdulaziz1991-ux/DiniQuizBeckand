@@ -67,9 +67,32 @@ class CategoryListView(APIView):
         translated = i18n.category_texts(categories, language)
         data = CategorySerializer(categories, many=True).data
         for row in data:
+            row["level_count"] = settings.QUIZ_LEVELS
             if row["id"] in translated:
                 row["name"], row["description"] = translated[row["id"]]
         return Response(data)
+
+
+def _player_id(request, body_value=None):
+    """X-Player-Id başlığı (veya gövdedeki player_id); geçersizse None."""
+    import uuid
+
+    if body_value:
+        return body_value
+    raw = request.headers.get("X-Player-Id", "")
+    try:
+        return uuid.UUID(raw) if raw else None
+    except ValueError:
+        return None
+
+
+class CategoryLevelsView(APIView):
+    @extend_schema(responses=dict)
+    def get(self, request, slug):
+        category = Category.objects.filter(slug=slug, is_active=True).first()
+        if not category:
+            raise NotFound("Kategori bulunamadı.")
+        return Response(svc.get_levels(category, _player_id(request)))
 
 
 class SessionCreateView(QuizErrorMixin, APIView):
@@ -83,7 +106,11 @@ class SessionCreateView(QuizErrorMixin, APIView):
             data.validated_data.get("language"), request.headers.get("Accept-Language")
         )
         session = svc.start_session(
-            data.validated_data["category"], data.validated_data["platform"], language
+            data.validated_data["category"],
+            data.validated_data["platform"],
+            language,
+            level=data.validated_data["level"],
+            player_id=_player_id(request, data.validated_data.get("player_id")),
         )
         return Response(
             {
@@ -91,6 +118,7 @@ class SessionCreateView(QuizErrorMixin, APIView):
                 "token": session.token,
                 "category": session.category.slug,
                 "language": session.language,
+                "level": session.level,
                 "total_questions": len(session.question_order),
                 "time_limit_seconds": settings.QUIZ_TIME_LIMIT_SECONDS,
             },

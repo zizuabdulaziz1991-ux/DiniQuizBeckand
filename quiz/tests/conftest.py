@@ -10,6 +10,14 @@ def _clear_cache():
     cache.clear()
 
 
+@pytest.fixture(autouse=True)
+def _quiz_settings(settings):
+    """Testler yerel .env değerlerinden bağımsız çalışsın."""
+    settings.QUIZ_QUESTION_COUNT = 10
+    settings.QUIZ_LEVELS = 10
+    settings.QUIZ_TIME_LIMIT_SECONDS = 30
+
+
 @pytest.fixture
 def client():
     return APIClient()

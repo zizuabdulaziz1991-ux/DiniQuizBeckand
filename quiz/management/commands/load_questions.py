@@ -78,6 +78,9 @@ class Command(BaseCommand):
             if not q.get("text"):
                 errors.append(f"{where}: soru metni boş")
                 continue
+            if not 1 <= q.get("level", 1) <= settings.QUIZ_LEVELS:
+                errors.append(f"{where}: 'level' 1-{settings.QUIZ_LEVELS} arasında olmalı")
+                continue
 
             question, was_created = Question.objects.get_or_create(
                 category=category, text=q["text"]
@@ -87,6 +90,7 @@ class Command(BaseCommand):
                 "explanation": q.get("explanation", ""),
                 "source": q.get("source", ""),
                 "difficulty": q.get("difficulty", 1),
+                "level": q.get("level", 1),
             }
             if approve:
                 values["is_approved"] = True

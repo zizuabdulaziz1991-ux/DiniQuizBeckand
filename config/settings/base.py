@@ -90,6 +90,7 @@ CORS_ALLOW_HEADERS = [
     "content-type",
     "origin",
     "x-session-token",
+    "x-player-id",
 ]
 
 REST_FRAMEWORK = {
@@ -112,7 +113,8 @@ SPECTACULAR_SETTINGS = {
 }
 
 # Quiz kuralları
-QUIZ_QUESTION_COUNT = env.int("QUIZ_QUESTION_COUNT", default=20)
+QUIZ_QUESTION_COUNT = env.int("QUIZ_QUESTION_COUNT", default=10)
+QUIZ_LEVELS = env.int("QUIZ_LEVELS", default=10)
 QUIZ_TIME_LIMIT_SECONDS = env.int("QUIZ_TIME_LIMIT_SECONDS", default=30)
 QUIZ_GRACE_MS = env.int("QUIZ_GRACE_MS", default=1000)
 QUIZ_SESSION_TTL_MINUTES = env.int("QUIZ_SESSION_TTL_MINUTES", default=60)

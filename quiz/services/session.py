@@ -7,7 +7,14 @@ from django.db.models import Count, Max, Q, Sum, Value
 from django.db.models.functions import Lower
 from django.utils import timezone
 
-from quiz.models import Category, Choice, Question, QuizSession, SessionAnswer
+from quiz.models import (
+    Category,
+    Choice,
+    LevelProgress,
+    Question,
+    QuizSession,
+    SessionAnswer,
+)
 from quiz.services.i18n import translated_question
 from quiz.services.scoring import calculate_points, max_score
 
@@ -22,22 +29,128 @@ class QuizError(Exception):
         self.extra = extra or {}
 
 
-def start_session(category_slug: str, platform: str, language: str = "tr") -> QuizSession:
+def _passed_levels(player_id, category) -> set[int]:
+    if not player_id:
+        return set()
+    return set(
+        LevelProgress.objects.filter(player_id=player_id, category=category, passed=True)
+        .values_list("level", flat=True)
+    )
+
+
+def is_level_unlocked(level: int, passed: set[int]) -> bool:
+    """1. seviye herkese açık; n. seviye için (n-1). seviye 10/10 tamamlanmış olmalı."""
+    return level == 1 or (level - 1) in passed
+
+
+def start_session(
+    category_slug: str,
+    platform: str,
+    language: str = "tr",
+    level: int = 1,
+    player_id=None,
+) -> QuizSession:
     try:
         category = Category.objects.get(slug=category_slug, is_active=True)
     except Category.DoesNotExist:
         raise QuizError("Kategori bulunamadı.", 404)
 
+    if not 1 <= level <= settings.QUIZ_LEVELS:
+        raise QuizError(
+            f"Seviye 1 ile {settings.QUIZ_LEVELS} arasında olmalı.", 400, {"code": "invalid_level"}
+        )
+    if not is_level_unlocked(level, _passed_levels(player_id, category)):
+        raise QuizError(
+            "Bu seviye henüz açılmadı: önceki seviyeyi %100 doğru bitirmelisin.",
+            403,
+            {"code": "level_locked", "level": level},
+        )
+
     ids = list(
-        Question.objects.filter(category=category, is_approved=True).values_list("id", flat=True)
+        Question.objects.filter(category=category, is_approved=True, level=level).values_list(
+            "id", flat=True
+        )
     )
     if not ids:
-        raise QuizError("Bu kategoride henüz onaylı soru yok.", 409)
+        raise QuizError(
+            "Bu seviyede henüz soru yok.", 409, {"code": "level_empty", "level": level}
+        )
     count = min(settings.QUIZ_QUESTION_COUNT, len(ids))
     order = random.sample(ids, count)
     return QuizSession.objects.create(
-        category=category, question_order=order, client_platform=platform, language=language
+        category=category,
+        question_order=order,
+        client_platform=platform,
+        language=language,
+        level=level,
+        player_id=player_id,
     )
+
+
+def _record_progress(session: QuizSession) -> tuple[bool, bool]:
+    """Biten oyunu oyuncu ilerlemesine yazar → (mükemmel mi, sonraki seviye yeni mi açıldı)."""
+    perfect = session.correct_count == len(session.question_order)
+    newly = False
+    if session.player_id:
+        progress, _ = LevelProgress.objects.select_for_update().get_or_create(
+            player_id=session.player_id, category=session.category, level=session.level
+        )
+        newly = perfect and not progress.passed and session.level < settings.QUIZ_LEVELS
+        progress.attempts += 1
+        progress.best_correct = max(progress.best_correct, session.correct_count)
+        progress.passed = progress.passed or perfect
+        progress.save()
+    return perfect, newly
+
+
+def _next_level(session: QuizSession, perfect: bool):
+    if perfect and session.level < settings.QUIZ_LEVELS:
+        return session.level + 1
+    return None
+
+
+def get_levels(category: Category, player_id=None) -> dict:
+    """Kategorinin seviye listesi ve oyuncunun durumu."""
+    counts = dict(
+        Question.objects.filter(category=category, is_approved=True)
+        .values_list("level")
+        .annotate(n=Count("id"))
+        .order_by()
+    )
+    rows = {}
+    if player_id:
+        rows = {
+            p.level: p
+            for p in LevelProgress.objects.filter(player_id=player_id, category=category)
+        }
+    passed = {lv for lv, p in rows.items() if p.passed}
+    levels = []
+    for lv in range(1, settings.QUIZ_LEVELS + 1):
+        n = counts.get(lv, 0)
+        if n == 0:
+            status = "empty"
+        elif lv in passed:
+            status = "completed"
+        elif is_level_unlocked(lv, passed):
+            status = "unlocked"
+        else:
+            status = "locked"
+        p = rows.get(lv)
+        levels.append(
+            {
+                "level": lv,
+                "status": status,
+                "question_count": min(n, settings.QUIZ_QUESTION_COUNT),
+                "best_correct": p.best_correct if p else 0,
+                "attempts": p.attempts if p else 0,
+            }
+        )
+    return {
+        "category": category.slug,
+        "level_count": settings.QUIZ_LEVELS,
+        "questions_per_level": settings.QUIZ_QUESTION_COUNT,
+        "levels": levels,
+    }
 
 
 def ensure_not_expired(session: QuizSession) -> None:
@@ -80,6 +193,7 @@ def get_current(session: QuizSession) -> dict:
         tq = translated_question(question, session.language)
         return {
             "language": session.language,
+            "level": session.level,
             "index": session.current_index,
             "total": len(session.question_order),
             "question": {
@@ -151,12 +265,14 @@ def submit_answer(session: QuizSession, question_id: int, choice_id: int | None)
         session.current_index += 1
         session.current_served_at = None
         is_last = session.current_index >= len(session.question_order)
+        perfect = False
         if is_last:
             session.status = QuizSession.Status.FINISHED
             session.finished_at = now
+            perfect, session.newly_unlocked = _record_progress(session)
         session.save()
 
-        return {
+        result = {
             "is_correct": is_correct,
             "correct_choice_id": correct_choice.id if correct_choice else None,
             "points": points,
@@ -164,6 +280,17 @@ def submit_answer(session: QuizSession, question_id: int, choice_id: int | None)
             "explanation": translated_question(question, session.language)["explanation"],
             "is_last": is_last,
         }
+        if is_last:
+            result.update(
+                {
+                    "level": session.level,
+                    "perfect": perfect,
+                    "level_passed": perfect,
+                    "next_level": _next_level(session, perfect),
+                    "newly_unlocked": session.newly_unlocked,
+                }
+            )
+        return result
 
 
 def leaderboard_qs(category: Category | None = None):
@@ -226,6 +353,7 @@ def get_result(session: QuizSession) -> dict:
     ensure_not_expired(session)
     if session.status != QuizSession.Status.FINISHED:
         raise QuizError("Quiz henüz bitmedi.", 409)
+    perfect = session.correct_count == len(session.question_order)
     return {
         "score": session.score,
         "correct_count": session.correct_count,
@@ -233,6 +361,12 @@ def get_result(session: QuizSession) -> dict:
         "empty_count": session.empty_count,
         "max_score": max_score(len(session.question_order)),
         "rank_preview": rank_preview(session),
+        "total_questions": len(session.question_order),
+        "level": session.level,
+        "perfect": perfect,
+        "level_passed": perfect,
+        "next_level": _next_level(session, perfect),
+        "newly_unlocked": session.newly_unlocked,
     }
 
 
