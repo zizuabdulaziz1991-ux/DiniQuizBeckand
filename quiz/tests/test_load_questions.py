@@ -101,3 +101,21 @@ def test_session_in_progress_survives_reload(client, category, tmp_path):
 def test_dry_run_changes_nothing(category, tmp_path):
     load(write(tmp_path), "--dry-run")
     assert Question.objects.count() == 0
+
+
+def test_draft_questions_stay_unapproved_even_with_approve_flag(category, tmp_path):
+    draft = json.loads(json.dumps(QUESTION))
+    draft["approved"] = False
+    path = write(tmp_path, draft)
+    load(path, "--approve")
+    assert Question.objects.get().is_approved is False
+
+    # admin onayladıktan sonra yeniden yükleme onayı geri çekmez
+    Question.objects.update(is_approved=True)
+    load(path, "--approve")
+    assert Question.objects.get().is_approved is True
+
+
+def test_normal_questions_are_approved_with_flag(category, tmp_path):
+    load(write(tmp_path), "--approve")
+    assert Question.objects.get().is_approved is True

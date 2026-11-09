@@ -520,6 +520,2166 @@
         }
       },
       "level": 2
+    },
+    {
+      "text": "İkinci halife kimdir?",
+      "choices": [
+        "Hz. Ali",
+        "Hz. Ebû Bekir",
+        "Hz. Ömer",
+        "Hz. Osman"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ebû Bekir'den sonra ikinci halife Hz. Ömer'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ikkinchi xalifa kim?",
+          "choices": [
+            "Hazrati Ali",
+            "Hazrati Abu Bakr",
+            "Hazrati Umar",
+            "Hazrati Usmon"
+          ],
+          "explanation": "Hazrati Abu Bakrdan keyin ikkinchi xalifa Hazrati Umardir."
+        }
+      }
+    },
+    {
+      "text": "Üçüncü halife kimdir?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Talha",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 2,
+      "explanation": "Üçüncü halife Hz. Osman'dır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Uchinchi xalifa kim?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Talha",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Uchinchi xalifa Hazrati Usmondir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Bekir döneminde dinden dönenlere karşı yapılan savaşlara ne ad verilir?",
+      "choices": [
+        "Haçlı Seferleri",
+        "Ridde Savaşları",
+        "Hendek",
+        "Mûte"
+      ],
+      "correct": 1,
+      "explanation": "Ridde (dinden dönme) Savaşları Hz. Ebû Bekir zamanındadır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakr davrida dindan qaytganlarga qarshi olib borilgan urushlarga nima deyiladi?",
+          "choices": [
+            "Salib yurishlari",
+            "Ridda urushlari",
+            "Xandaq",
+            "Mu'ta"
+          ],
+          "explanation": "Ridda (dindan qaytish) urushlari Hazrati Abu Bakr zamonida bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Mısır'ın fethinde Müslüman orduya komuta eden sahabi kimdir?",
+      "choices": [
+        "Halid b. Velid",
+        "Amr b. Âs",
+        "Ebû Ubeyde",
+        "Sa'd b. Ebî Vakkâs"
+      ],
+      "correct": 1,
+      "explanation": "Mısır, Hz. Ömer döneminde Amr b. Âs komutasında fethedilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Misrning fathida musulmon qo'shiniga sarkardalik qilgan sahoba kim?",
+          "choices": [
+            "Xolid ibn Valid",
+            "Amr ibn Os",
+            "Abu Ubayda",
+            "Sa'd ibn Abu Vaqqos"
+          ],
+          "explanation": "Misr Hazrati Umar davrida Amr ibn Os qo'mondonligida fath etilgan."
+        }
+      }
+    },
+    {
+      "text": "Emevî Devleti'nin kurucusu kimdir?",
+      "choices": [
+        "Muâviye b. Ebî Süfyân",
+        "Yezid",
+        "Abdülmelik",
+        "Mervân"
+      ],
+      "correct": 0,
+      "explanation": "Emevî Devleti Muâviye tarafından kurulmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Umaviylar davlatining asoschisi kim?",
+          "choices": [
+            "Muoviya ibn Abu Sufyon",
+            "Yazid",
+            "Abdulmalik",
+            "Marvon"
+          ],
+          "explanation": "Umaviylar davlatini Muoviya asos solgan."
+        }
+      }
+    },
+    {
+      "text": "Abbâsî Devleti'nin kuruluşunda öne çıkan, ilk Abbâsî halifesi olarak bilinen kişi kimdir?",
+      "choices": [
+        "Me'mûn",
+        "Hârûn Reşîd",
+        "Ebü'l-Abbas es-Seffâh",
+        "Mansûr"
+      ],
+      "correct": 2,
+      "explanation": "İlk Abbâsî halifesi es-Seffâh'tır (750).",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abbosiylar davlati tashkil topishida ajralib turgan, birinchi Abbosiy xalifa sifatida tanilgan kishi kim?",
+          "choices": [
+            "Ma'mun",
+            "Horun Rashid",
+            "Abul Abbos as-Saffoh",
+            "Mansur"
+          ],
+          "explanation": "Birinchi Abbosiy xalifa as-Saffohdir (750)."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hüseyin hangi olayda şehit edilmiştir?",
+      "choices": [
+        "Sıffîn",
+        "Cemel",
+        "Kerbelâ",
+        "Yermük"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Hüseyin hicri 61'de Kerbelâ'da şehit edilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Husayn qaysi voqeada shahid qilingan?",
+          "choices": [
+            "Siffin",
+            "Jamal",
+            "Karbalo",
+            "Yarmuk"
+          ],
+          "explanation": "Hazrati Husayn hijriy 61-yilda Karbaloda shahid qilingan."
+        }
+      }
+    },
+    {
+      "text": "Beytü'l-Hikme hangi şehirde bulunmaktadır?",
+      "choices": [
+        "Bağdat",
+        "Şam",
+        "Kahire",
+        "Kurtuba"
+      ],
+      "correct": 0,
+      "explanation": "Beytü'l-Hikme, Abbâsîlerin Bağdat'taki ilim merkezidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Baytul hikma qaysi shaharda joylashgan?",
+          "choices": [
+            "Bag'dod",
+            "Shom",
+            "Qohira",
+            "Kordova"
+          ],
+          "explanation": "Baytul hikma Abbosiylarning Bag'doddagi ilm markazidir."
+        }
+      }
+    },
+    {
+      "text": "Endülüs Emevî Devleti'nin başkenti neresidir?",
+      "choices": [
+        "Kurtuba",
+        "Toledo",
+        "Gırnata",
+        "Sevilla"
+      ],
+      "correct": 0,
+      "explanation": "Endülüs Emevîlerinin başkenti Kurtuba'ydı.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Andalus Umaviylar davlatining poytaxti qayer?",
+          "choices": [
+            "Kordova",
+            "Toledo",
+            "G'arnota",
+            "Sevilya"
+          ],
+          "explanation": "Andalus Umaviylarining poytaxti Kordova edi."
+        }
+      }
+    },
+    {
+      "text": "Elhamra Sarayı hangi şehirdedir?",
+      "choices": [
+        "Şam",
+        "Gırnata",
+        "Bağdat",
+        "Kurtuba"
+      ],
+      "correct": 1,
+      "explanation": "Elhamra, Gırnata'daki ünlü saraydır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Al-Hamro saroyi qaysi shaharda?",
+          "choices": [
+            "Shom",
+            "G'arnota",
+            "Bag'dod",
+            "Kordova"
+          ],
+          "explanation": "Al-Hamro G'arnotadagi mashhur saroydir."
+        }
+      }
+    },
+    {
+      "text": "Kûfe ve Basra şehirleri hangi halife döneminde kurulmuştur?",
+      "choices": [
+        "Hz. Osman",
+        "Hz. Ali",
+        "Hz. Muâviye",
+        "Hz. Ömer"
+      ],
+      "correct": 3,
+      "explanation": "Kûfe ve Basra, Hz. Ömer döneminde kurulan garnizon şehirleridir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Kufa va Basra shaharlari qaysi xalifa davrida qurilgan?",
+          "choices": [
+            "Hazrati Usmon",
+            "Hazrati Ali",
+            "Hazrati Muoviya",
+            "Hazrati Umar"
+          ],
+          "explanation": "Kufa va Basra Hazrati Umar davrida qurilgan garnizon shaharlaridir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer döneminde askerî ve mali kayıtların tutulduğu teşkilata ne ad verilir?",
+      "choices": [
+        "Beytü'l-Hikme",
+        "Hilâfet",
+        "Divan",
+        "Dârü'n-Nedve"
+      ],
+      "correct": 2,
+      "explanation": "Divan teşkilatı Hz. Ömer döneminde kurulmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar davrida harbiy va moliyaviy qaydlar yuritilgan tashkilotga nima deyiladi?",
+          "choices": [
+            "Baytul hikma",
+            "Xilofat",
+            "Devon",
+            "Doran nadva"
+          ],
+          "explanation": "Devon tashkiloti Hazrati Umar davrida tashkil etilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Osman'ın şehit edildiği yıl hangisidir?",
+      "choices": [
+        "23 (644)",
+        "35 (656)",
+        "40 (661)",
+        "11 (632)"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Osman hicri 35'te (656) şehit edilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Usmon shahid qilingan yil qaysi?",
+          "choices": [
+            "23 (644)",
+            "35 (656)",
+            "40 (661)",
+            "11 (632)"
+          ],
+          "explanation": "Hazrati Usmon hijriy 35-yilda (656) shahid qilingan."
+        }
+      }
+    },
+    {
+      "text": "Cemel Vakası'nda Hz. Ali'nin karşısında yer alan sahabelerden biri kimdir?",
+      "choices": [
+        "Hz. Fâtıma",
+        "Hz. Hatice",
+        "Hz. Âişe",
+        "Hz. Hafsa"
+      ],
+      "correct": 2,
+      "explanation": "Cemel Vakası'nda Hz. Âişe, Talha ve Zübeyr Hz. Ali'nin karşısında yer almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Jamal voqeasida Hazrati Alining qarshisida bo'lgan sahobalardan biri kim?",
+          "choices": [
+            "Hazrati Fotima",
+            "Hazrati Xadicha",
+            "Hazrati Oisha",
+            "Hazrati Hafsa"
+          ],
+          "explanation": "Jamal voqeasida Hazrati Oisha, Talha va Zubayr Hazrati Alining qarshisida bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali'nin hilâfet merkezi olarak seçtiği şehir neresidir?",
+      "choices": [
+        "Basra",
+        "Kûfe",
+        "Mekke",
+        "Şam"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Ali başkenti Medine'den Kûfe'ye taşımıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ali xilofat markazi qilib tanlagan shahar qayer?",
+          "choices": [
+            "Basra",
+            "Kufa",
+            "Makka",
+            "Shom"
+          ],
+          "explanation": "Hazrati Ali poytaxtni Madinadan Kufaga ko'chirgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali'yi şehit eden kişi kimdir?",
+      "choices": [
+        "Şimr",
+        "Vahşî",
+        "Ebû Lü'lü",
+        "İbn Mülcem"
+      ],
+      "correct": 3,
+      "explanation": "İbn Mülcem, Hz. Ali'ye suikast düzenlemiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Alini shahid qilgan kishi kim?",
+          "choices": [
+            "Shimr",
+            "Vahshiy",
+            "Abu Lu'lu",
+            "Ibn Muljam"
+          ],
+          "explanation": "Ibn Muljam Hazrati Aliga suiqasd uyushtirgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hasan'ın Muâviye ile yaptığı barış nedeniyle bu yıla verilen ad nedir?",
+      "choices": [
+        "Fetih Yılı",
+        "Fil Yılı",
+        "Amü'l-Cemâa",
+        "Hüzün Yılı"
+      ],
+      "correct": 2,
+      "explanation": "Müslümanların birliğe kavuştuğu bu yıl 'Amü'l-Cemâa' diye anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Hasanning Muoviya bilan tuzgan sulhi sababli bu yilga berilgan nom nima?",
+          "choices": [
+            "Fath yili",
+            "Fil yili",
+            "Omul jamoa",
+            "G'am yili"
+          ],
+          "explanation": "Musulmonlar birlikka erishgan bu yil 'Omul jamoa' deb ataladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Osman döneminde İslâm donanmasının Bizans'a karşı kazandığı ilk büyük deniz savaşı hangisidir?",
+      "choices": [
+        "Zâtü's-Savârî",
+        "Yermük",
+        "Kadisiye",
+        "Mûte"
+      ],
+      "correct": 0,
+      "explanation": "Zâtü's-Savârî, ilk büyük İslâm deniz zaferidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Usmon davrida Islom floti Vizantiyaga qarshi qozongan birinchi katta dengiz jangi qaysi?",
+          "choices": [
+            "Zotus savori",
+            "Yarmuk",
+            "Qodisiya",
+            "Mu'ta"
+          ],
+          "explanation": "Zotus savori birinchi katta Islom dengiz g'alabasidir."
+        }
+      }
+    },
+    {
+      "text": "Kıbrıs'a ilk deniz seferi hangi halife döneminde ve kimin komutasında yapılmıştır?",
+      "choices": [
+        "Hz. Ömer döneminde Amr",
+        "Hz. Osman döneminde Muâviye",
+        "Hz. Ebû Bekir döneminde Halid",
+        "Hz. Ali döneminde Hasan"
+      ],
+      "correct": 1,
+      "explanation": "Kıbrıs seferi Hz. Osman zamanında Muâviye'nin öncülüğünde yapılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Kipr (Kubrus)ga birinchi dengiz yurishi qaysi xalifa davrida va kimning boshchiligida bo'lgan?",
+          "choices": [
+            "Hazrati Umar davrida Amr",
+            "Hazrati Usmon davrida Muoviya",
+            "Hazrati Abu Bakr davrida Xolid",
+            "Hazrati Ali davrida Hasan"
+          ],
+          "explanation": "Kipr yurishi Hazrati Usmon zamonida Muoviya boshchiligida bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Kubbetü's-Sahra'yı (Kudüs) yaptıran Emevî halifesi kimdir?",
+      "choices": [
+        "Abdülmelik b. Mervân",
+        "Muâviye",
+        "Yezid",
+        "Hişâm"
+      ],
+      "correct": 0,
+      "explanation": "Kubbetü's-Sahra, Abdülmelik döneminde inşa edilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qubbatus sahroni (Quddus) qurdirgan Umaviy xalifa kim?",
+          "choices": [
+            "Abdulmalik ibn Marvon",
+            "Muoviya",
+            "Yazid",
+            "Hishom"
+          ],
+          "explanation": "Qubbatus sahro Abdulmalik davrida qurilgan."
+        }
+      }
+    },
+    {
+      "text": "Emevîler zamanında Arapçayı resmî dil yapan ve ilk İslâm parasını bastıran halife kimdir?",
+      "choices": [
+        "Velîd",
+        "Muâviye",
+        "Abdülmelik b. Mervân",
+        "Hişâm"
+      ],
+      "correct": 2,
+      "explanation": "Abdülmelik, Arapçayı resmî dil yapmış ve İslâm parası bastırmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Umaviylar davrida arab tilini rasmiy til qilgan va birinchi Islom tangasini zarb ettirgan xalifa kim?",
+          "choices": [
+            "Valid",
+            "Muoviya",
+            "Abdulmalik ibn Marvon",
+            "Hishom"
+          ],
+          "explanation": "Abdulmalik arab tilini rasmiy til qilgan va Islom tangasini zarb ettirgan."
+        }
+      }
+    },
+    {
+      "text": "Endülüs'e geçen Emevî prensi, Kurtuba Emevî Devleti'nin kurucusu kimdir?",
+      "choices": [
+        "Tarık b. Ziyâd",
+        "III. Abdurrahman",
+        "Mûsâ b. Nusayr",
+        "I. Abdurrahman (ed-Dâhil)"
+      ],
+      "correct": 3,
+      "explanation": "I. Abdurrahman (ed-Dâhil) Endülüs Emevîlerini kurmuştur (756).",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Andalusga o'tgan Umaviy shahzoda, Kordova Umaviylar davlatining asoschisi kim?",
+          "choices": [
+            "Toriq ibn Ziyod",
+            "III Abdurahmon",
+            "Muso ibn Nusayr",
+            "I Abdurahmon (ad-Doxil)"
+          ],
+          "explanation": "I Abdurahmon (ad-Doxil) Andalus Umaviylarini asos solgan (756)."
+        }
+      }
+    },
+    {
+      "text": "Endülüs'te halifelik unvanını ilan eden Emevî hükümdarı kimdir?",
+      "choices": [
+        "Hişâm",
+        "III. Abdurrahman",
+        "Mansûr",
+        "I. Abdurrahman"
+      ],
+      "correct": 1,
+      "explanation": "III. Abdurrahman 929'da halifelik ilan etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Andalusda xalifalik unvonini e'lon qilgan Umaviy hukmdor kim?",
+          "choices": [
+            "Hishom",
+            "III Abdurahmon",
+            "Mansur",
+            "I Abdurahmon"
+          ],
+          "explanation": "III Abdurahmon 929-yilda xalifalikni e'lon qilgan."
+        }
+      }
+    },
+    {
+      "text": "Abbâsîlerin Bağdat'ı kuran halifesi kimdir?",
+      "choices": [
+        "Hârûn Reşîd",
+        "es-Seffâh",
+        "Ebû Ca'fer el-Mansûr",
+        "Me'mûn"
+      ],
+      "correct": 2,
+      "explanation": "Bağdat, 762'de Mansûr tarafından kurulmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abbosiylarning Bag'dodni qurgan xalifasi kim?",
+          "choices": [
+            "Horun Rashid",
+            "as-Saffoh",
+            "Abu Ja'far al-Mansur",
+            "Ma'mun"
+          ],
+          "explanation": "Bag'dod 762-yilda Mansur tomonidan qurilgan."
+        }
+      }
+    },
+    {
+      "text": "Beytü'l-Hikme'nin en parlak dönemini yaşadığı Abbâsî halifesi kimdir?",
+      "choices": [
+        "Mansûr",
+        "Me'mûn",
+        "Mütevekkil",
+        "Mu'tasım"
+      ],
+      "correct": 1,
+      "explanation": "Beytü'l-Hikme Me'mûn zamanında çeviri ve bilim faaliyetleriyle parlamıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Baytul hikma eng gullagan davrini boshdan kechirgan Abbosiy xalifa kim?",
+          "choices": [
+            "Mansur",
+            "Ma'mun",
+            "Mutavakkil",
+            "Mu'tasim"
+          ],
+          "explanation": "Baytul hikma Ma'mun zamonida tarjima va ilmiy faoliyat bilan gullab-yashnagan."
+        }
+      }
+    },
+    {
+      "text": "Hârizmî hangi alanda yaptığı çalışmalarla tanınır?",
+      "choices": [
+        "Cebir ve matematik",
+        "Coğrafya haritacılığı",
+        "Tıp",
+        "Hukuk"
+      ],
+      "correct": 0,
+      "explanation": "El-Hârizmî, cebir ilminin kurucularındandır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Xorazmiy qaysi sohadagi ishlari bilan tanilgan?",
+          "choices": [
+            "Algebra va matematika",
+            "Geografik xaritachilik",
+            "Tibbiyot",
+            "Huquq"
+          ],
+          "explanation": "Al-Xorazmiy algebra ilmining asoschilaridandir."
+        }
+      }
+    },
+    {
+      "text": "'Kânûn fi't-Tıb' adlı eserin yazarı kimdir?",
+      "choices": [
+        "Birûnî",
+        "İbn Sînâ",
+        "İbn Rüşd",
+        "Fârâbî"
+      ],
+      "correct": 1,
+      "explanation": "İbn Sînâ'nın bu eseri uzun yıllar Avrupa'da okutulmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Al-Qonun fit tib' asarining muallifi kim?",
+          "choices": [
+            "Beruniy",
+            "Ibn Sino",
+            "Ibn Rushd",
+            "Forobiy"
+          ],
+          "explanation": "Ibn Sinoning bu asari uzoq yillar Yevropada o'qitilgan."
+        }
+      }
+    },
+    {
+      "text": "'İkinci Muallim' unvanıyla anılan İslâm filozofu kimdir?",
+      "choices": [
+        "İbn Sînâ",
+        "Gazâlî",
+        "Fârâbî",
+        "Kindî"
+      ],
+      "correct": 2,
+      "explanation": "Fârâbî, Aristo'dan sonra 'İkinci Muallim' diye anılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Ikkinchi Muallim' unvoni bilan ataluvchi Islom faylasufi kim?",
+          "choices": [
+            "Ibn Sino",
+            "G'azzoliy",
+            "Forobiy",
+            "Kindiy"
+          ],
+          "explanation": "Forobiy Aristotelden keyin 'Ikkinchi Muallim' deb atalgan."
+        }
+      }
+    },
+    {
+      "text": "Selçuklu veziri Nizâmülmülk'ün kurduğu medreselere ne ad verilir?",
+      "choices": [
+        "Dârü'ş-Şifâ",
+        "Nizâmiye Medreseleri",
+        "Suffe",
+        "Beytü'l-Hikme"
+      ],
+      "correct": 1,
+      "explanation": "Nizâmiye Medreseleri, Selçuklu döneminin önemli eğitim kurumlarıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Saljuqiylar vaziri Nizomulmulk qurgan madrasalarga nima deyiladi?",
+          "choices": [
+            "Doruş shifo",
+            "Nizomiya madrasalari",
+            "Suffa",
+            "Baytul hikma"
+          ],
+          "explanation": "Nizomiya madrasalari Saljuqiylar davrining muhim ta'lim muassasalaridir."
+        }
+      }
+    },
+    {
+      "text": "İlk Müslüman Türk devleti olarak kabul edilen devlet hangisidir?",
+      "choices": [
+        "Osmanlılar",
+        "Selçuklular",
+        "Gazneliler",
+        "Karahanlılar"
+      ],
+      "correct": 3,
+      "explanation": "Karahanlılar, ilk Müslüman Türk devleti kabul edilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Birinchi musulmon turk davlati hisoblangan davlat qaysi?",
+          "choices": [
+            "Usmonlilar",
+            "Saljuqiylar",
+            "G'aznaviylar",
+            "Qoraxoniylar"
+          ],
+          "explanation": "Qoraxoniylar birinchi musulmon turk davlati hisoblanadi."
+        }
+      }
+    },
+    {
+      "text": "Büyük Selçuklu Devleti'nin kurucusu hangi sultandır?",
+      "choices": [
+        "Sencer",
+        "Alparslan",
+        "Tuğrul Bey",
+        "Melikşah"
+      ],
+      "correct": 2,
+      "explanation": "Tuğrul Bey, Büyük Selçuklu Devleti'nin kurucusudur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Buyuk Saljuqiylar davlatining asoschisi qaysi sulton?",
+          "choices": [
+            "Sanjar",
+            "Alp Arslon",
+            "Tug'rul bek",
+            "Malikshoh"
+          ],
+          "explanation": "Tug'rul bek Buyuk Saljuqiylar davlatining asoschisidir."
+        }
+      }
+    },
+    {
+      "text": "Selçukluların Gazneliler'i yenerek bağımsızlıklarını kazandığı savaş hangisidir?",
+      "choices": [
+        "Dandanakan",
+        "Kösedağ",
+        "Malazgirt",
+        "Pasinler"
+      ],
+      "correct": 0,
+      "explanation": "1040'taki Dandanakan Savaşı Selçuklu bağımsızlığını getirmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Saljuqiylar G'aznaviylarni yengib mustaqillikka erishgan jang qaysi?",
+          "choices": [
+            "Dandanakon",
+            "Ko'sadog'",
+            "Malozgirt",
+            "Pasinler"
+          ],
+          "explanation": "1040-yildagi Dandanakon jangi Saljuqiylar mustaqilligini keltirgan."
+        }
+      }
+    },
+    {
+      "text": "Tuğrul Bey hangi şehre girerek halife tarafından Sultan unvanıyla tanınmıştır?",
+      "choices": [
+        "Kahire",
+        "Şam",
+        "Bağdat",
+        "Kudüs"
+      ],
+      "correct": 2,
+      "explanation": "Tuğrul Bey 1055'te Bağdat'a girmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Tug'rul bek qaysi shaharga kirib, xalifa tomonidan Sulton unvoni bilan tan olingan?",
+          "choices": [
+            "Qohira",
+            "Shom",
+            "Bag'dod",
+            "Quddus"
+          ],
+          "explanation": "Tug'rul bek 1055-yilda Bag'dodga kirgan."
+        }
+      }
+    },
+    {
+      "text": "Anadolu Selçuklu Devleti'nin başkenti olarak bilinen şehir hangisidir?",
+      "choices": [
+        "Kayseri",
+        "Konya",
+        "Edirne",
+        "Bursa"
+      ],
+      "correct": 1,
+      "explanation": "Anadolu Selçuklularının en önemli başkenti Konya'dır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Anadolu Saljuqiylar davlatining poytaxti sifatida tanilgan shahar qaysi?",
+          "choices": [
+            "Kayseri",
+            "Konya",
+            "Edirna",
+            "Bursa"
+          ],
+          "explanation": "Anadolu Saljuqiylarining eng muhim poytaxti Konyadir."
+        }
+      }
+    },
+    {
+      "text": "Mevlânâ Celâleddîn-i Rûmî hangi şehirde yaşamıştır?",
+      "choices": [
+        "Şam",
+        "Bağdat",
+        "Kahire",
+        "Konya"
+      ],
+      "correct": 3,
+      "explanation": "Mevlânâ ömrünün büyük kısmını Konya'da geçirmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mavlono Jaloliddin Rumiy qaysi shaharda yashagan?",
+          "choices": [
+            "Shom",
+            "Bag'dod",
+            "Qohira",
+            "Konya"
+          ],
+          "explanation": "Mavlono umrining katta qismini Konyada o'tkazgan."
+        }
+      }
+    },
+    {
+      "text": "Haçlı Seferleri hangi yıl başlamıştır?",
+      "choices": [
+        "1071",
+        "1096",
+        "1187",
+        "1258"
+      ],
+      "correct": 1,
+      "explanation": "Birinci Haçlı Seferi 1096'da başlamıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Salib yurishlari qaysi yilda boshlangan?",
+          "choices": [
+            "1071",
+            "1096",
+            "1187",
+            "1258"
+          ],
+          "explanation": "Birinchi salib yurishi 1096-yilda boshlangan."
+        }
+      }
+    },
+    {
+      "text": "Kahire'yi kuran ve El-Ezher'i yaptıran devlet hangisidir?",
+      "choices": [
+        "Fâtımîler",
+        "Eyyûbîler",
+        "Memlükler",
+        "Abbâsîler"
+      ],
+      "correct": 0,
+      "explanation": "Fâtımîler 969'da Kahire'yi kurmuş, El-Ezher'i inşa etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qohirani qurgan va al-Azharni bino qilgan davlat qaysi?",
+          "choices": [
+            "Fotimiylar",
+            "Ayyubiylar",
+            "Mamluklar",
+            "Abbosiylar"
+          ],
+          "explanation": "Fotimiylar 969-yilda Qohirani qurgan, al-Azharni bino qilgan."
+        }
+      }
+    },
+    {
+      "text": "Endülüs'te Zellâka Savaşı'nı (1086) kazanan Murâbıt komutanı kimdir?",
+      "choices": [
+        "Abdurrahman",
+        "Yûsuf b. Tâşfîn",
+        "Tarık b. Ziyâd",
+        "Mûsâ b. Nusayr"
+      ],
+      "correct": 1,
+      "explanation": "Yûsuf b. Tâşfîn, Zellâka'da Kastilya kralı VI. Alfonso'yu yenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Andalusda Zallaqa jangini (1086) yutgan Murobit sarkardasi kim?",
+          "choices": [
+            "Abdurahmon",
+            "Yusuf ibn Toshfin",
+            "Toriq ibn Ziyod",
+            "Muso ibn Nusayr"
+          ],
+          "explanation": "Yusuf ibn Toshfin Zallaqada Kastiliya qiroli VI Alfonsoni yengdi."
+        }
+      }
+    },
+    {
+      "text": "Haçlıları durdurmak için Müslümanları birleştiren ve Halep-Şam bölgesini birleştirmeye çalışan komutan kimdir?",
+      "choices": [
+        "Alparslan",
+        "Tuğrul Bey",
+        "Nûreddin Zengî",
+        "Baybars"
+      ],
+      "correct": 2,
+      "explanation": "Nûreddin Zengî, Haçlılara karşı Suriye'de birlik sağlamaya çalışmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Salibchilarni to'xtatish uchun musulmonlarni birlashtirgan va Halab-Shom hududini birlashtirishga urinan sarkarda kim?",
+          "choices": [
+            "Alp Arslon",
+            "Tug'rul bek",
+            "Nuriddin Zangiy",
+            "Baybars"
+          ],
+          "explanation": "Nuriddin Zangiy salibchilarga qarshi Suriyada birlik o'rnatishga harakat qilgan."
+        }
+      }
+    },
+    {
+      "text": "Memlük Sultanı Baybars hangi savaşla da tanınır?",
+      "choices": [
+        "Ayn Câlût",
+        "Yermük",
+        "Malazgirt",
+        "Hıttîn"
+      ],
+      "correct": 0,
+      "explanation": "Baybars, 1260 Ayn Câlût'ta Moğollara karşı başarı kazanmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mamluk sultoni Baybars qaysi jang bilan ham tanilgan?",
+          "choices": [
+            "Ayn Jolut",
+            "Yarmuk",
+            "Malozgirt",
+            "Hittin"
+          ],
+          "explanation": "Baybars 1260-yilda Ayn Jolutda mo'g'ullarga qarshi muvaffaqiyat qozongan."
+        }
+      }
+    },
+    {
+      "text": "Osmanlı Devleti'nin kurucusu kimdir?",
+      "choices": [
+        "Orhan Gazi",
+        "Osman Gazi",
+        "Yıldırım Bayezid",
+        "I. Murad"
+      ],
+      "correct": 1,
+      "explanation": "Osmanlı Devleti, Osman Gazi tarafından kurulmuştur (1299).",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Usmonlilar davlatining asoschisi kim?",
+          "choices": [
+            "Orxon G'oziy",
+            "Usmon G'oziy",
+            "Yildirim Boyazid",
+            "I Murod"
+          ],
+          "explanation": "Usmonlilar davlatini Usmon G'oziy asos solgan (1299)."
+        }
+      }
+    },
+    {
+      "text": "Osmanlılar Rumeli'ye ilk kalıcı geçişi hangi kalede yapmıştır?",
+      "choices": [
+        "Kosova",
+        "İstanbul",
+        "Çimpe",
+        "Edirne"
+      ],
+      "correct": 2,
+      "explanation": "Çimpe Kalesi'nin alınmasıyla Rumeli'ye kalıcı geçiş başlamıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Usmonlilar Rumeliga birinchi doimiy o'tishni qaysi qal'ada amalga oshirgan?",
+          "choices": [
+            "Kosovo",
+            "Istanbul",
+            "Chimpe",
+            "Edirna"
+          ],
+          "explanation": "Chimpe qal'asining olinishi bilan Rumeliga doimiy o'tish boshlangan."
+        }
+      }
+    },
+    {
+      "text": "Osmanlı'nın Balkanlarda kazandığı ve I. Murad'ın şehit düştüğü savaş hangisidir?",
+      "choices": [
+        "I. Kosova",
+        "Mohaç",
+        "Niğbolu",
+        "Varna"
+      ],
+      "correct": 0,
+      "explanation": "I. Murad, 1389 Kosova Savaşı'nda şehit düşmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Usmonlilarning Bolqonda qozongan va I Murod shahid bo'lgan jangi qaysi?",
+          "choices": [
+            "I Kosovo",
+            "Mohach",
+            "Nikopol",
+            "Varna"
+          ],
+          "explanation": "I Murod 1389-yilgi Kosovo jangida shahid bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Yıldırım Bayezid'in Haçlı ordusunu yendiği 1396 savaşı hangisidir?",
+      "choices": [
+        "Mohaç",
+        "Niğbolu",
+        "Ankara",
+        "Varna"
+      ],
+      "correct": 1,
+      "explanation": "Niğbolu Savaşı 1396'da yapılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Yildirim Boyazidning salibchi qo'shinini yengan 1396-yilgi jangi qaysi?",
+          "choices": [
+            "Mohach",
+            "Nikopol",
+            "Anqara",
+            "Varna"
+          ],
+          "explanation": "Nikopol jangi 1396-yilda bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "1402 Ankara Savaşı'nda Yıldırım Bayezid kime yenilmiştir?",
+      "choices": [
+        "Karamanoğulları",
+        "Bizans",
+        "Timur",
+        "Haçlılar"
+      ],
+      "correct": 2,
+      "explanation": "Yıldırım Bayezid, 1402'de Timur'a yenilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "1402-yilgi Anqara jangida Yildirim Boyazid kimga yengilgan?",
+          "choices": [
+            "Qoramon o'g'illari",
+            "Vizantiya",
+            "Temur",
+            "Salibchilar"
+          ],
+          "explanation": "Yildirim Boyazid 1402-yilda Temurga yengilgan."
+        }
+      }
+    },
+    {
+      "text": "1444 Varna Savaşı hangi padişah döneminde yapılmıştır?",
+      "choices": [
+        "Kanunî",
+        "II. Murad",
+        "Fatih",
+        "Yavuz"
+      ],
+      "correct": 1,
+      "explanation": "Varna Savaşı II. Murad zamanında yapılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "1444-yilgi Varna jangi qaysi podshoh davrida bo'lgan?",
+          "choices": [
+            "Qonuniy",
+            "II Murod",
+            "Fotih",
+            "Yovuz"
+          ],
+          "explanation": "Varna jangi II Murod zamonida bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "1514 Çaldıran Savaşı hangi iki taraf arasında yapılmıştır?",
+      "choices": [
+        "Osmanlı ve Haçlı",
+        "Osmanlı ve Safevî",
+        "Osmanlı ve Memlük",
+        "Osmanlı ve Bizans"
+      ],
+      "correct": 1,
+      "explanation": "Çaldıran'da Yavuz Sultan Selim, Safevî Şahı İsmail'i yenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "1514-yilgi Choldiron jangi qaysi ikki tomon o'rtasida bo'lgan?",
+          "choices": [
+            "Usmonli va Salibchi",
+            "Usmonli va Safaviy",
+            "Usmonli va Mamluk",
+            "Usmonli va Vizantiya"
+          ],
+          "explanation": "Choldironda Yovuz Sulton Salim Safaviy Shoh Ismoilni yengdi."
+        }
+      }
+    },
+    {
+      "text": "1526 Mohaç Meydan Muharebesi'nde Osmanlı ordusunu kim yönetmiştir?",
+      "choices": [
+        "II. Murad",
+        "Kanunî Sultan Süleyman",
+        "Fatih Sultan Mehmed",
+        "Yavuz Sultan Selim"
+      ],
+      "correct": 1,
+      "explanation": "Mohaç'ta Macar ordusu yenilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "1526-yilgi Mohach jangida Usmonli qo'shiniga kim boshchilik qilgan?",
+          "choices": [
+            "II Murod",
+            "Qonuniy Sulton Sulaymon",
+            "Fotih Sulton Mehmed",
+            "Yovuz Sulton Salim"
+          ],
+          "explanation": "Mohachda Vengriya qo'shini yengilgan."
+        }
+      }
+    },
+    {
+      "text": "1538 Preveze Deniz Savaşı'nda Osmanlı donanmasının başındaki komutan kimdir?",
+      "choices": [
+        "Turgut Reis",
+        "Kemal Reis",
+        "Barbaros Hayreddin Paşa",
+        "Piri Reis"
+      ],
+      "correct": 2,
+      "explanation": "Preveze'de Barbaros Hayreddin Paşa Haçlı donanmasını yenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "1538-yilgi Preveza dengiz jangida Usmonli flotining boshida turgan sarkarda kim?",
+          "choices": [
+            "Turg'ut Rais",
+            "Kamol Rais",
+            "Barbaros Xayriddin Posho",
+            "Piri Rais"
+          ],
+          "explanation": "Prevezada Barbaros Xayriddin Posho salibchi flotini yengdi."
+        }
+      }
+    },
+    {
+      "text": "Mimar Sinan'ın 'ustalık eserim' dediği cami hangisidir?",
+      "choices": [
+        "Sultanahmet Camii",
+        "Şehzade Camii",
+        "Süleymaniye Camii",
+        "Selimiye Camii"
+      ],
+      "correct": 3,
+      "explanation": "Mimar Sinan, Edirne'deki Selimiye Camii'ni ustalık eseri olarak anar.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Me'mor Sinon 'ustalik asarim' degan masjid qaysi?",
+          "choices": [
+            "Sultonahmad masjidi",
+            "Shahzoda masjidi",
+            "Sulaymoniya masjidi",
+            "Selimiya masjidi"
+          ],
+          "explanation": "Me'mor Sinon Edirnadagi Selimiya masjidini ustalik asari deb ataydi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer döneminde Sâsânî ordusunun yenildiği, İran'ın fethine kapı açan meydan muharebesi hangisidir?",
+      "choices": [
+        "Cemel",
+        "Sıffîn",
+        "Kadisiye",
+        "Yermük"
+      ],
+      "correct": 2,
+      "explanation": "Kadisiye Savaşı İran'ın fethine yol açmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar davrida Sosoniy qo'shinining yengilgan, Eronning fathiga eshik ochgan jang qaysi?",
+          "choices": [
+            "Jamal",
+            "Siffin",
+            "Qodisiya",
+            "Yarmuk"
+          ],
+          "explanation": "Qodisiya jangi Eronning fathiga yo'l ochgan."
+        }
+      }
+    },
+    {
+      "text": "Bizans ordusuna karşı kazanılan ve Suriye'nin fethini kolaylaştıran savaş hangisidir?",
+      "choices": [
+        "Mûte",
+        "Yermük",
+        "Kadisiye",
+        "Nihâvend"
+      ],
+      "correct": 1,
+      "explanation": "Yermük Savaşı, Suriye'nin fethinde belirleyicidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Vizantiya qo'shiniga qarshi qozonilgan va Suriyaning fathini yengillashtirgan jang qaysi?",
+          "choices": [
+            "Mu'ta",
+            "Yarmuk",
+            "Qodisiya",
+            "Nihovand"
+          ],
+          "explanation": "Yarmuk jangi Suriyaning fathida hal qiluvchi bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in Kudüs'e gittiğinde şehrin patriği ile yaptığı anlaşmaya ne ad verilir?",
+      "choices": [
+        "Hudeybiye",
+        "Rıdvan",
+        "Medine Vesikası",
+        "Ahidnâme (Umerî Ahdi)"
+      ],
+      "correct": 3,
+      "explanation": "Kudüs halkıyla yapılan ahidle can ve mal güvenliği sağlanmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar Quddusga borganda shahar patriarxi bilan tuzgan bitimga nima deyiladi?",
+          "choices": [
+            "Hudaybiya",
+            "Ridvon",
+            "Madina vasiqasi",
+            "Ahdnoma (Umariy ahdi)"
+          ],
+          "explanation": "Quddus xalqi bilan tuzilgan ahd bilan jon va mol xavfsizligi ta'minlangan."
+        }
+      }
+    },
+    {
+      "text": "Abbâsî devrimi sırasında Horasan'da etkin rol oynayan komutan kimdir?",
+      "choices": [
+        "Bîrûnî",
+        "Nizâmülmülk",
+        "Ebû Müslim-i Horasânî",
+        "Tarık b. Ziyâd"
+      ],
+      "correct": 2,
+      "explanation": "Ebû Müslim, Abbâsî Devleti'nin kuruluşunda öne çıkmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abbosiylar to'ntarishi davrida Xurosonda faol rol o'ynagan sarkarda kim?",
+          "choices": [
+            "Beruniy",
+            "Nizomulmulk",
+            "Abu Muslim Xurosoniy",
+            "Toriq ibn Ziyod"
+          ],
+          "explanation": "Abu Muslim Abbosiylar davlatining tashkil topishida ajralib turgan."
+        }
+      }
+    },
+    {
+      "text": "Talas Savaşı (751) hangi taraflar arasında yapılmış ve hangi teknoloji İslâm dünyasına geçmiştir?",
+      "choices": [
+        "Abbâsîler–Çin; kâğıt yapımı",
+        "Emevîler–Bizans; barut",
+        "Selçuklular–Bizans; matbaa",
+        "Osmanlı–Safevî; top"
+      ],
+      "correct": 0,
+      "explanation": "Talas'ta Abbâsîler Çin ordusunu yenmiş, kâğıt yapımı İslâm dünyasına yayılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Talas jangi (751) qaysi tomonlar o'rtasida bo'lgan va qaysi texnologiya Islom olamiga o'tgan?",
+          "choices": [
+            "Abbosiylar–Xitoy; qog'oz yasash",
+            "Umaviylar–Vizantiya; porox",
+            "Saljuqiylar–Vizantiya; bosmaxona",
+            "Usmonli–Safaviy; to'p"
+          ],
+          "explanation": "Talasda Abbosiylar Xitoy qo'shinini yengib, qog'oz yasash Islom olamiga tarqalgan."
+        }
+      }
+    },
+    {
+      "text": "Poitiers (Puvatya) Savaşı'nda (732) Emevî ordusuna komuta eden kişi kimdir?",
+      "choices": [
+        "Mûsâ b. Nusayr",
+        "Selahaddin",
+        "Tarık b. Ziyâd",
+        "Abdurrahman el-Gâfikî"
+      ],
+      "correct": 3,
+      "explanation": "Abdurrahman el-Gâfikî, Puvatya'da Charles Martel'e karşı savaşmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Puatye (Puvatya) jangida (732) Umaviy qo'shiniga kim sarkardalik qilgan?",
+          "choices": [
+            "Muso ibn Nusayr",
+            "Salohiddin",
+            "Toriq ibn Ziyod",
+            "Abdurahmon al-G'ofiqiy"
+          ],
+          "explanation": "Abdurahmon al-G'ofiqiy Puatyeda Karl Martelga qarshi jang qilgan."
+        }
+      }
+    },
+    {
+      "text": "Büyük Selçuklu Devleti'nin en geniş sınırlara ulaştığı dönem hangi sultanın dönemidir?",
+      "choices": [
+        "Sencer",
+        "Tuğrul Bey",
+        "Kılıçarslan",
+        "Melikşah"
+      ],
+      "correct": 3,
+      "explanation": "Melikşah döneminde Selçuklu Devleti en geniş sınırlarına ulaşmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Buyuk Saljuqiylar davlati eng keng chegaralariga yetgan davr qaysi sulton davriga to'g'ri keladi?",
+          "choices": [
+            "Sanjar",
+            "Tug'rul bek",
+            "Qilichorslon",
+            "Malikshoh"
+          ],
+          "explanation": "Malikshoh davrida Saljuqiylar davlati eng keng chegaralariga yetgan."
+        }
+      }
+    },
+    {
+      "text": "Eyyûbî Devleti'nin kurucusu kimdir?",
+      "choices": [
+        "Selahaddin Eyyûbî",
+        "Nûreddin Zengî",
+        "Baybars",
+        "Kutuz"
+      ],
+      "correct": 0,
+      "explanation": "Selahaddin Eyyûbî, Mısır'da Eyyûbî Devleti'ni kurmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ayyubiylar davlatining asoschisi kim?",
+          "choices": [
+            "Salohiddin Ayyubiy",
+            "Nuriddin Zangiy",
+            "Baybars",
+            "Qutuz"
+          ],
+          "explanation": "Salohiddin Ayyubiy Misrda Ayyubiylar davlatini asos solgan."
+        }
+      }
+    },
+    {
+      "text": "Gazneli Mahmud'un en bilinen özelliği nedir?",
+      "choices": [
+        "Hindistan seferleri ve bilginlere himaye",
+        "Bağdat'ı kurması",
+        "Endülüs'ü fethi",
+        "Kudüs'ü fethi"
+      ],
+      "correct": 0,
+      "explanation": "Gazneli Mahmud, Hindistan'a seferleriyle ve bilginlere desteğiyle bilinir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "G'aznaviy Mahmudning eng mashhur xususiyati nima?",
+          "choices": [
+            "Hindistonga yurishlari va olimlarga homiylik",
+            "Bag'dodni qurishi",
+            "Andalusni fath etishi",
+            "Quddusni fath etishi"
+          ],
+          "explanation": "G'aznaviy Mahmud Hindistonga yurishlari va olimlarga homiyligi bilan mashhur."
+        }
+      }
+    },
+    {
+      "text": "Malazgirt Zaferi'nde Bizans İmparatoru'nu esir alan Selçuklu sultanı kimdir?",
+      "choices": [
+        "Tuğrul Bey",
+        "Sencer",
+        "Melikşah",
+        "Alparslan"
+      ],
+      "correct": 3,
+      "explanation": "Alparslan, Romen Diogenes'i esir almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Malozgirt g'alabasida Vizantiya imperatorini asir olgan Saljuqiy sultoni kim?",
+          "choices": [
+            "Tug'rul bek",
+            "Sanjar",
+            "Malikshoh",
+            "Alp Arslon"
+          ],
+          "explanation": "Alp Arslon Roman Diogenni asir olgan."
+        }
+      }
+    },
+    {
+      "text": "Hindistan'da Babür İmparatorluğu'nu kuran hükümdar kimdir?",
+      "choices": [
+        "Bâbür Şah",
+        "Ekber Şah",
+        "Şah Cihan",
+        "Evrengzib"
+      ],
+      "correct": 0,
+      "explanation": "Bâbür, 1526 Pânîpet Savaşı'ndan sonra Babür İmparatorluğu'nu kurmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hindistonda Boburiylar imperiyasini qurgan hukmdor kim?",
+          "choices": [
+            "Bobur Shoh",
+            "Akbar Shoh",
+            "Shohjahon",
+            "Avrangzeb"
+          ],
+          "explanation": "Bobur 1526-yilgi Panipat jangidan keyin Boburiylar imperiyasini qurgan."
+        }
+      }
+    },
+    {
+      "text": "Tac Mahal'i yaptıran Babür hükümdarı kimdir?",
+      "choices": [
+        "Bâbür",
+        "Ekber Şah",
+        "Hümâyun",
+        "Şah Cihan"
+      ],
+      "correct": 3,
+      "explanation": "Tac Mahal, Şah Cihan tarafından eşi için yaptırılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Toj Mahalni qurdirgan Boburiy hukmdor kim?",
+          "choices": [
+            "Bobur",
+            "Akbar Shoh",
+            "Humoyun",
+            "Shohjahon"
+          ],
+          "explanation": "Toj Mahal Shohjahon tomonidan rafiqasi uchun qurdirilgan."
+        }
+      }
+    },
+    {
+      "text": "Selçuklu'nun Anadolu'ya girişinden sonra kurulan ilk Anadolu Türk beyliklerinden biri hangisidir?",
+      "choices": [
+        "Danişmendliler",
+        "Eyyûbîler",
+        "Memlükler",
+        "Karahanlılar"
+      ],
+      "correct": 0,
+      "explanation": "Danişmendliler, Anadolu'nun ilk Türk beyliklerindendir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Saljuqiylar Anadoluga kirgandan keyin tashkil topgan dastlabki Anadolu turk beyliklaridan biri qaysi?",
+          "choices": [
+            "Danishmandiylar",
+            "Ayyubiylar",
+            "Mamluklar",
+            "Qoraxoniylar"
+          ],
+          "explanation": "Danishmandiylar Anadoluning dastlabki turk beyliklaridandir."
+        }
+      }
+    },
+    {
+      "text": "Fatih Sultan Mehmed'in İstanbul'un fethinde kullandığı büyük toplar hangi mühendis tarafından döküldü?",
+      "choices": [
+        "Mimar Sinan",
+        "Urban",
+        "Piri Reis",
+        "Ali Kuşçu"
+      ],
+      "correct": 1,
+      "explanation": "Macar asıllı usta Urban büyük topları dökmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Fotih Sulton Mehmed Istanbulni fath etishda ishlatgan katta to'plarni qaysi usta quygan?",
+          "choices": [
+            "Me'mor Sinon",
+            "Urbon",
+            "Piri Rais",
+            "Ali Qushchi"
+          ],
+          "explanation": "Vengriyalik usta Urbon katta to'plarni quygan."
+        }
+      }
+    },
+    {
+      "text": "İstanbul'un fethinde gemilerin karadan Haliç'e indirilmesiyle neyin aşılması amaçlanmıştır?",
+      "choices": [
+        "Surların yüksekliğinin",
+        "Haliç'e konulan zincirin",
+        "Hendeğin",
+        "Kapıların"
+      ],
+      "correct": 1,
+      "explanation": "Gemiler karadan yürütülerek Haliç'teki zincir engeli aşılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Istanbulning fathida kemalarning quruqlik orqali Oltin Shox (Halich)ga tushirilishidan maqsad nimani yengish edi?",
+          "choices": [
+            "Devorlar balandligini",
+            "Halichga tortilgan zanjirni",
+            "Handaqni",
+            "Darvozalarni"
+          ],
+          "explanation": "Kemalar quruqlikdan yurgizilib, Halichdagi zanjir to'siqdan o'tilgan."
+        }
+      }
+    },
+    {
+      "text": "Ali Kuşçu hangi alanda tanınmış bir Türk-İslâm âlimidir?",
+      "choices": [
+        "Tıp",
+        "Hukuk",
+        "Astronomi ve matematik",
+        "Edebiyat"
+      ],
+      "correct": 2,
+      "explanation": "Ali Kuşçu, Semerkant'ta ve sonra Fatih döneminde İstanbul'da çalışmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ali Qushchi qaysi sohada tanilgan turk-islom olimi?",
+          "choices": [
+            "Tibbiyot",
+            "Huquq",
+            "Astronomiya va matematika",
+            "Adabiyot"
+          ],
+          "explanation": "Ali Qushchi Samarqandda, keyin Fotih davrida Istanbulda faoliyat yuritgan."
+        }
+      }
+    },
+    {
+      "text": "Piri Reis hangi eseriyle tanınır?",
+      "choices": [
+        "Kitâb-ı Bahriye",
+        "Kânûn",
+        "Muvatta",
+        "Seyahatname"
+      ],
+      "correct": 0,
+      "explanation": "Piri Reis, deniz bilgilerini içeren Kitâb-ı Bahriye'yi yazmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Piri Rais qaysi asari bilan tanilgan?",
+          "choices": [
+            "Kitobi Bahriya",
+            "Qonun",
+            "Muvatto'",
+            "Sayohatnoma"
+          ],
+          "explanation": "Piri Rais dengiz bilimlarini o'z ichiga olgan Kitobi Bahriyani yozgan."
+        }
+      }
+    },
+    {
+      "text": "Evliya Çelebi'nin tanınmış eseri hangisidir?",
+      "choices": [
+        "Kitâb-ı Bahriye",
+        "Siyasetname",
+        "Seyahatname",
+        "Mesnevî"
+      ],
+      "correct": 2,
+      "explanation": "Evliya Çelebi, uzun seyahatlerini Seyahatname'de yazmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Evliyo Chalabiyning mashhur asari qaysi?",
+          "choices": [
+            "Kitobi Bahriya",
+            "Siyosatnoma",
+            "Sayohatnoma",
+            "Masnaviy"
+          ],
+          "explanation": "Evliyo Chalabiy uzoq sayohatlarini Sayohatnomada yozgan."
+        }
+      }
+    },
+    {
+      "text": "Hindistan'da Babür hükümdarlarından Ekber Şah'ın en bilinen özelliği nedir?",
+      "choices": [
+        "Dinî hoşgörü politikası",
+        "Haçlılara karşı savaşması",
+        "Tac Mahal'i yaptırması",
+        "Bağdat'ı kurması"
+      ],
+      "correct": 0,
+      "explanation": "Ekber Şah, farklı dinlere karşı hoşgörüyle bilinir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hindistondagi Boburiy hukmdorlardan Akbar Shohning eng mashhur xususiyati nima?",
+          "choices": [
+            "Diniy bag'rikenglik siyosati",
+            "Salibchilarga qarshi jang qilishi",
+            "Toj Mahalni qurdirishi",
+            "Bag'dodni qurishi"
+          ],
+          "explanation": "Akbar Shoh turli dinlarga nisbatan bag'rikengligi bilan tanilgan."
+        }
+      }
+    },
+    {
+      "text": "Osmanlı Devleti'nin Rumeli'deki ilk başkenti neresidir?",
+      "choices": [
+        "İznik",
+        "Gelibolu",
+        "Bursa",
+        "Edirne"
+      ],
+      "correct": 3,
+      "explanation": "Edirne, I. Murad döneminde fethedilmiş ve Rumeli'deki ilk Osmanlı başkenti olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Usmonlilar davlatining Rumelidagi birinchi poytaxti qayer?",
+          "choices": [
+            "Iznik",
+            "Gelibolu",
+            "Bursa",
+            "Edirna"
+          ],
+          "explanation": "Edirna I Murod davrida fath etilgan va Rumelidagi birinchi Usmonli poytaxti bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Hilâfet hangi yılda kaldırılmıştır?",
+      "choices": [
+        "1453",
+        "1517",
+        "1918",
+        "1924"
+      ],
+      "correct": 3,
+      "explanation": "Hilâfet 1924'te kaldırılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Xalifalik qaysi yilda bekor qilingan?",
+          "choices": [
+            "1453",
+            "1517",
+            "1918",
+            "1924"
+          ],
+          "explanation": "Xalifalik 1924-yilda bekor qilingan."
+        }
+      }
+    },
+    {
+      "text": "Emevî halifesi I. Velîd döneminde Endülüs fethinin başladığı yıl hangisidir?",
+      "choices": [
+        "632",
+        "711",
+        "750",
+        "1071"
+      ],
+      "correct": 1,
+      "explanation": "Tarık b. Ziyâd 711'de Cebelitarık'ı geçmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Umaviy xalifa I Valid davrida Andalus fathi boshlangan yil qaysi?",
+          "choices": [
+            "632",
+            "711",
+            "750",
+            "1071"
+          ],
+          "explanation": "Toriq ibn Ziyod 711-yilda Gibraltar bo'g'ozidan o'tgan."
+        }
+      }
+    },
+    {
+      "text": "Sıffîn Savaşı'ndan sonra Hz. Ali'nin ordusundan ayrılan gruba ne ad verilir?",
+      "choices": [
+        "Ensâr",
+        "Şiîler",
+        "Hâricîler",
+        "Mu'tezile"
+      ],
+      "correct": 2,
+      "explanation": "Hakem olayını kabul etmeyenler Hâricîler adıyla anılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Siffin jangidan keyin Hazrati Alining qo'shinidan ajralgan guruhga nima deyiladi?",
+          "choices": [
+            "Ansor",
+            "Shialar",
+            "Xorijiylar",
+            "Mu'taziliy"
+          ],
+          "explanation": "Hakam voqeasini qabul qilmaganlar Xorijiylar nomi bilan atalgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali ile Hâricîler arasındaki savaş hangisidir?",
+      "choices": [
+        "Nehrevân",
+        "Kadisiye",
+        "Bedir",
+        "Yermük"
+      ],
+      "correct": 0,
+      "explanation": "Nehrevân'da Hz. Ali Hâricîleri yenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ali bilan Xorijiylar o'rtasidagi jang qaysi?",
+          "choices": [
+            "Nahravon",
+            "Qodisiya",
+            "Badr",
+            "Yarmuk"
+          ],
+          "explanation": "Nahravonda Hazrati Ali Xorijiylarni yengdi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in şehit edildiği yer neresidir?",
+      "choices": [
+        "Mescid-i Nebevî",
+        "Mekke",
+        "Kûfe",
+        "Kudüs"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Ömer, sabah namazında Mescid-i Nebevî'de Ebû Lü'lü tarafından hançerlenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar shahid qilingan joy qayer?",
+          "choices": [
+            "Masjidi Nabaviy",
+            "Makka",
+            "Kufa",
+            "Quddus"
+          ],
+          "explanation": "Hazrati Umar bomdod namozida Masjidi Nabaviyda Abu Lu'lu tomonidan xanjar bilan urilgan."
+        }
+      }
+    },
+    {
+      "text": "Emevîlerin son halifesi kimdir?",
+      "choices": [
+        "Hişâm",
+        "II. Mervân",
+        "Abdülmelik",
+        "Yezid"
+      ],
+      "correct": 1,
+      "explanation": "II. Mervân, Emevî Devleti'nin son halifesidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Umaviylarning oxirgi xalifasi kim?",
+          "choices": [
+            "Hishom",
+            "II Marvon",
+            "Abdulmalik",
+            "Yazid"
+          ],
+          "explanation": "II Marvon Umaviylar davlatining oxirgi xalifasidir."
+        }
+      }
+    },
+    {
+      "text": "Memlükler döneminde 'Halifelik' hangi şehirde sürdürülmüştür?",
+      "choices": [
+        "Şam",
+        "Kahire",
+        "Kurtuba",
+        "Bağdat"
+      ],
+      "correct": 1,
+      "explanation": "Bağdat'ın yıkılışından sonra Abbâsî halifeleri Kahire'de sembolik olarak devam etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mamluklar davrida xalifalik qaysi shaharda davom ettirilgan?",
+          "choices": [
+            "Shom",
+            "Qohira",
+            "Kordova",
+            "Bag'dod"
+          ],
+          "explanation": "Bag'dod vayron bo'lgandan keyin Abbosiy xalifalar Qohirada ramziy davom etgan."
+        }
+      }
+    },
+    {
+      "text": "Yavuz Sultan Selim 1517'de hangi savaşla Mısır'ı Osmanlı topraklarına katmıştır?",
+      "choices": [
+        "Ridâniye",
+        "Mohaç",
+        "Çaldıran",
+        "Preveze"
+      ],
+      "correct": 0,
+      "explanation": "Mercidabık ve Ridâniye zaferleriyle Memlük Devleti sona ermiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Yovuz Sulton Salim 1517-yilda qaysi jang bilan Misrni Usmonli yerlariga qo'shgan?",
+          "choices": [
+            "Ridoniya",
+            "Mohach",
+            "Choldiron",
+            "Preveza"
+          ],
+          "explanation": "Marj Dobiq va Ridoniya g'alabalari bilan Mamluklar davlati tugagan."
+        }
+      }
+    },
+    {
+      "text": "Hicret'ten sonra Yesrib şehrine verilen yeni ad nedir?",
+      "choices": [
+        "Kuba",
+        "Bekke",
+        "Medinetü'n-Nebî",
+        "Dârü'l-Erkam"
+      ],
+      "correct": 2,
+      "explanation": "Yesrib, Hicret'ten sonra Medinetü'n-Nebî (Peygamber şehri) adını almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijratdan keyin Yasrib shahriga berilgan yangi nom nima?",
+          "choices": [
+            "Quba",
+            "Bakka",
+            "Madinatun Nabiy",
+            "Doral Arqam"
+          ],
+          "explanation": "Yasrib hijratdan keyin Madinatun Nabiy (Payg'ambar shahri) nomini olgan."
+        }
+      }
+    },
+    {
+      "text": "Büyük Selçuklu hükümdarı Sencer'in ölümünden sonra devlet nasıl bir sürece girmiştir?",
+      "choices": [
+        "Hilâfete geçiş",
+        "Yeni fetihler",
+        "Birleşme",
+        "Dağılma ve beylikler dönemi"
+      ],
+      "correct": 3,
+      "explanation": "Sencer'in ölümüyle Büyük Selçuklu Devleti dağılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Buyuk Saljuqiy hukmdori Sanjarning vafotidan keyin davlat qanday jarayonga kirgan?",
+          "choices": [
+            "Xilofatga o'tish",
+            "Yangi fathlar",
+            "Birlashish",
+            "Parchalanish va beyliklar davri"
+          ],
+          "explanation": "Sanjarning vafoti bilan Buyuk Saljuqiylar davlati parchalangan."
+        }
+      }
     }
   ]
 }

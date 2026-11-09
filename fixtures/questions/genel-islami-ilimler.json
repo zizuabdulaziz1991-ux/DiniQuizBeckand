@@ -520,6 +520,2166 @@
         }
       },
       "level": 2
+    },
+    {
+      "text": "Sabah namazının farzı kaç rekâttır?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "Sabah namazının farzı iki rekâttır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Bomdod namozining farzi necha rakat?",
+          "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "explanation": "Bomdod namozining farzi ikki rakatdir."
+        }
+      }
+    },
+    {
+      "text": "Öğle namazının farzı kaç rekâttır?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Öğle namazının farzı dört rekâttır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Peshin namozining farzi necha rakat?",
+          "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "explanation": "Peshin namozining farzi to'rt rakatdir."
+        }
+      }
+    },
+    {
+      "text": "Yatsı namazının farzı kaç rekâttır?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Yatsı namazının farzı dört rekâttır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Xufton namozining farzi necha rakat?",
+          "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "explanation": "Xufton namozining farzi to'rt rakatdir."
+        }
+      }
+    },
+    {
+      "text": "Vitir namazı kaç rekâttır?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "Vitir namazı üç rekâttır ve Hanefîlere göre vaciptir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Vitr namozi necha rakat?",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "explanation": "Vitr namozi uch rakat bo'lib, Hanafiylarga ko'ra vojibdir."
+        }
+      }
+    },
+    {
+      "text": "Su bulunmadığında veya kullanılamadığında abdest yerine ne yapılır?",
+      "choices": [
+        "Mesh",
+        "Teyemmüm",
+        "Tilavet",
+        "Gusül"
+      ],
+      "correct": 1,
+      "explanation": "Su bulunamazsa temiz toprakla teyemmüm yapılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Suv topilmaganda yoki ishlatib bo'lmaganda tahorat o'rniga nima qilinadi?",
+          "choices": [
+            "Mas'h",
+            "Tayammum",
+            "Tilovat",
+            "G'usl"
+          ],
+          "explanation": "Suv topilmasa toza tuproq bilan tayammum qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Hacda Kâbe'nin etrafında yapılan tavaf kaç şavttır (tur)?",
+      "choices": [
+        "3",
+        "4",
+        "7",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "Tavaf Kâbe etrafında yedi şavt yapılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hajda Ka'ba atrofida qilinadigan tavof necha aylanish (shavt)?",
+          "choices": [
+            "3",
+            "4",
+            "7",
+            "10"
+          ],
+          "explanation": "Tavof Ka'ba atrofida yetti shavt qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Safâ ile Merve arasında yapılan hac ibadetine ne ad verilir?",
+      "choices": [
+        "Tavaf",
+        "Sa'y",
+        "Vakfe",
+        "Rem"
+      ],
+      "correct": 1,
+      "explanation": "Safâ ile Merve arasında yedi kez gidip gelmeye sa'y denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hajda Safo va Marva orasida qilinadigan ibodatga nima deyiladi?",
+          "choices": [
+            "Tavof",
+            "Sa'y",
+            "Vuquf",
+            "Ramal"
+          ],
+          "explanation": "Safo va Marva orasida yetti marta borib kelishga sa'y deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Ramazan ayı kaç gün sürer?",
+      "choices": [
+        "31",
+        "28",
+        "29 veya 30",
+        "35"
+      ],
+      "correct": 2,
+      "explanation": "Hicrî aylar ayın görülmesine göre 29 veya 30 gün sürer.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ramazon oyi necha kun davom etadi?",
+          "choices": [
+            "31",
+            "28",
+            "29 yoki 30",
+            "35"
+          ],
+          "explanation": "Hijriy oylar oyning ko'rinishiga ko'ra 29 yoki 30 kun davom etadi."
+        }
+      }
+    },
+    {
+      "text": "Kurban Bayramı'nın kurban günleri kaç gündür?",
+      "choices": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct": 1,
+      "explanation": "Kurban, Zilhicce'nin 10, 11 ve 12. günlerinde kesilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qurbon hayiti qurbonlik kunlari necha kun?",
+          "choices": [
+            "1",
+            "3",
+            "5",
+            "7"
+          ],
+          "explanation": "Qurbonlik Zulhijjaning 10, 11 va 12-kunlari so'yiladi."
+        }
+      }
+    },
+    {
+      "text": "Cünüplükten temizlenmek için yapılan yıkanmaya ne denir?",
+      "choices": [
+        "Teyemmüm",
+        "Mesh",
+        "Abdest",
+        "Gusül"
+      ],
+      "correct": 3,
+      "explanation": "Büyük hadesten temizlenmek için boy abdesti (gusül) alınır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Junublikdan poklanish uchun qilinadigan yuvinishga nima deyiladi?",
+          "choices": [
+            "Tayammum",
+            "Mas'h",
+            "Tahorat",
+            "G'usl"
+          ],
+          "explanation": "Katta hadasdan poklanish uchun g'usl olinadi."
+        }
+      }
+    },
+    {
+      "text": "İslâm'da dört büyük melekten biri olan ve Sûr'a üfleyecek melek kimdir?",
+      "choices": [
+        "İsrâfil",
+        "Mîkâil",
+        "Azrâil",
+        "Cebrâil"
+      ],
+      "correct": 0,
+      "explanation": "Sûr'a üfleme görevi İsrâfil'dedir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Islomdagi to'rt buyuk farishtadan biri bo'lib, Sur'ga puflaydigan farishta kim?",
+          "choices": [
+            "Isrofil",
+            "Mikoil",
+            "Azroil",
+            "Jabroil"
+          ],
+          "explanation": "Sur'ga puflash vazifasi Isrofilga tegishli."
+        }
+      }
+    },
+    {
+      "text": "Rızık ve yağmurla görevli melek hangisidir?",
+      "choices": [
+        "Cebrâil",
+        "Azrâil",
+        "Mîkâil",
+        "İsrâfil"
+      ],
+      "correct": 2,
+      "explanation": "Mîkâil, rızık ve yağmurla görevli melektir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Rizq va yomg'ir bilan vazifador farishta qaysi?",
+          "choices": [
+            "Jabroil",
+            "Azroil",
+            "Mikoil",
+            "Isrofil"
+          ],
+          "explanation": "Mikoil rizq va yomg'ir bilan vazifador farishtadir."
+        }
+      }
+    },
+    {
+      "text": "Ölüm meleğinin adı nedir?",
+      "choices": [
+        "İsrâfil",
+        "Azrâil",
+        "Mîkâil",
+        "Cebrâil"
+      ],
+      "correct": 1,
+      "explanation": "Ölüm meleği Azrâil'dir (Melekü'l-mevt).",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "O'lim farishtasining ismi nima?",
+          "choices": [
+            "Isrofil",
+            "Azroil",
+            "Mikoil",
+            "Jabroil"
+          ],
+          "explanation": "O'lim farishtasi Azroildir (Malakul mavt)."
+        }
+      }
+    },
+    {
+      "text": "Dört büyük ilâhî kitap hangileridir?",
+      "choices": [
+        "Zebûr, Suhuf, İncil, Kur'an",
+        "Tevrat, Zebûr, Suhuf, İncil",
+        "Tevrat, Zebûr, İncil, Kur'an",
+        "Tevrat, İncil, Suhuf, Kur'an"
+      ],
+      "correct": 2,
+      "explanation": "Tevrat, Zebûr, İncil ve Kur'an dört büyük kitaptır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "To'rt buyuk ilohiy kitob qaysilar?",
+          "choices": [
+            "Zabur, Suhuf, Injil, Qur'on",
+            "Tavrot, Zabur, Suhuf, Injil",
+            "Tavrot, Zabur, Injil, Qur'on",
+            "Tavrot, Injil, Suhuf, Qur'on"
+          ],
+          "explanation": "Tavrot, Zabur, Injil va Qur'on to'rt buyuk kitobdir."
+        }
+      }
+    },
+    {
+      "text": "Ulü'l-azm peygamberler kaç tanedir?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Nûh, İbrâhim, Mûsâ, Îsâ ve Muhammed ulü'l-azm peygamberlerdir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ulul azm payg'ambarlar nechta?",
+          "choices": [
+            "3",
+            "5",
+            "7",
+            "10"
+          ],
+          "explanation": "Hazrati Nuh, Ibrohim, Muso, Iso va Muhammad ulul azm payg'ambarlardir."
+        }
+      }
+    },
+    {
+      "text": "Kabirde sorgu meleklerinin isimleri nedir?",
+      "choices": [
+        "Münker ve Nekîr",
+        "Rakîb ve Atîd",
+        "Kirâmen Kâtibîn",
+        "Hârût ve Mârût"
+      ],
+      "correct": 0,
+      "explanation": "Kabirde sorgu Münker ve Nekîr melekleri tarafından yapılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qabrda so'roq farishtalarining ismlari nima?",
+          "choices": [
+            "Munkar va Nakir",
+            "Raqib va Atid",
+            "Kiromon kotibin",
+            "Horut va Morut"
+          ],
+          "explanation": "Qabrda so'roqni Munkar va Nakir farishtalari o'tkazadi."
+        }
+      }
+    },
+    {
+      "text": "Kıyamet gününde amellerin tartılacağı teraziye ne denir?",
+      "choices": [
+        "Mîzan",
+        "Havz",
+        "Sırât",
+        "Kevser"
+      ],
+      "correct": 0,
+      "explanation": "Amellerin tartılacağı teraziye mîzan denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qiyomat kunida amallar tortiladigan tarozi nima deb ataladi?",
+          "choices": [
+            "Mezon",
+            "Havz",
+            "Sirot",
+            "Kavsar"
+          ],
+          "explanation": "Amallar tortiladigan tarozi mezon deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Cehennemin üzerine kurulduğu inanılan köprüye ne denir?",
+      "choices": [
+        "Sırât",
+        "Havz",
+        "Mîzan",
+        "A'râf"
+      ],
+      "correct": 0,
+      "explanation": "Sırât, cehennem üzerinden cennete uzanan köprüdür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Jahannam ustiga qurilgan deb ishoniladigan ko'prikka nima deyiladi?",
+          "choices": [
+            "Sirot",
+            "Havz",
+            "Mezon",
+            "A'rof"
+          ],
+          "explanation": "Sirot jahannam ustidan jannatga cho'zilgan ko'prikdir."
+        }
+      }
+    },
+    {
+      "text": "Her insanın amellerini yazan meleklere ne ad verilir?",
+      "choices": [
+        "Münker-Nekîr",
+        "Kirâmen Kâtibîn",
+        "Hazene",
+        "Zebâniye"
+      ],
+      "correct": 1,
+      "explanation": "Amelleri yazan meleklere Kirâmen Kâtibîn denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Har bir insonning amallarini yozuvchi farishtalarga nima deyiladi?",
+          "choices": [
+            "Munkar-Nakir",
+            "Kiromon kotibin",
+            "Xazana",
+            "Zabaniya"
+          ],
+          "explanation": "Amallarni yozuvchi farishtalarga Kiromon kotibin deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Kader inancı hangi iman esasları arasında yer alır?",
+      "choices": [
+        "Hac ibadetidir",
+        "İslâm'ın şartlarındandır",
+        "Farz namazlardandır",
+        "Altı iman esasından biridir"
+      ],
+      "correct": 3,
+      "explanation": "Kadere iman, altı iman esasından biridir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qadarga ishonish qaysi iymon shartlari qatoriga kiradi?",
+          "choices": [
+            "Haj ibodatidir",
+            "Islom shartlaridandir",
+            "Farz namozlardandir",
+            "Olti iymon shartidan biridir"
+          ],
+          "explanation": "Qadarga iymon olti iymon shartidan biridir."
+        }
+      }
+    },
+    {
+      "text": "Dört Sünnî fıkıh mezhebinin imamları arasında yer almayan kişi kimdir?",
+      "choices": [
+        "İbn Teymiyye",
+        "Şâfiî",
+        "Ebû Hanîfe",
+        "Mâlik b. Enes"
+      ],
+      "correct": 0,
+      "explanation": "Dört mezhep imamı Ebû Hanîfe, Mâlik, Şâfiî ve Ahmed b. Hanbel'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "To'rt sunniy fiqh mazhabi imomlari orasida bo'lmagan kishi kim?",
+          "choices": [
+            "Ibn Taymiyya",
+            "Shofe'iy",
+            "Abu Hanifa",
+            "Molik ibn Anas"
+          ],
+          "explanation": "To'rt mazhab imomi Abu Hanifa, Molik, Shofe'iy va Ahmad ibn Hanbaldir."
+        }
+      }
+    },
+    {
+      "text": "Mâlikî mezhebinin imamı hangi şehirde yaşamıştır?",
+      "choices": [
+        "Medine",
+        "Kûfe",
+        "Bağdat",
+        "Şam"
+      ],
+      "correct": 0,
+      "explanation": "İmam Mâlik, Medine'de yaşamış ve Muvatta'yı yazmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Moliki mazhabining imomi qaysi shaharda yashagan?",
+          "choices": [
+            "Madina",
+            "Kufa",
+            "Bag'dod",
+            "Shom"
+          ],
+          "explanation": "Imom Molik Madinada yashagan va Muvatta'ni yozgan."
+        }
+      }
+    },
+    {
+      "text": "Şâfiî mezhebinin imamı kimdir?",
+      "choices": [
+        "Muhammed b. İdrîs eş-Şâfiî",
+        "Mâlik b. Enes",
+        "Ebû Hanîfe",
+        "Ahmed b. Hanbel"
+      ],
+      "correct": 0,
+      "explanation": "Şâfiî mezhebinin imamı Muhammed b. İdrîs eş-Şâfiî'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Shofe'iy mazhabining imomi kim?",
+          "choices": [
+            "Muhammad ibn Idris ash-Shofe'iy",
+            "Molik ibn Anas",
+            "Abu Hanifa",
+            "Ahmad ibn Hanbal"
+          ],
+          "explanation": "Shofe'iy mazhabining imomi Muhammad ibn Idris ash-Shofe'iydir."
+        }
+      }
+    },
+    {
+      "text": "Hanbelî mezhebinin imamı kimdir?",
+      "choices": [
+        "Mâlik b. Enes",
+        "Ahmed b. Hanbel",
+        "Şâfiî",
+        "Ebû Hanîfe"
+      ],
+      "correct": 1,
+      "explanation": "Hanbelî mezhebinin imamı Ahmed b. Hanbel'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hanbaliy mazhabining imomi kim?",
+          "choices": [
+            "Molik ibn Anas",
+            "Ahmad ibn Hanbal",
+            "Shofe'iy",
+            "Abu Hanifa"
+          ],
+          "explanation": "Hanbaliy mazhabining imomi Ahmad ibn Hanbaldir."
+        }
+      }
+    },
+    {
+      "text": "İslâm hukukunun (fıkıh) asıl dört delili hangileridir?",
+      "choices": [
+        "Kitap, Sünnet, Tarih, Örf",
+        "Kitap, Hadis, Tefsir, Kelam",
+        "Kitap, Sünnet, İcmâ, Kıyas",
+        "Kıyas, Örf, İstihsan, Şûrâ"
+      ],
+      "correct": 2,
+      "explanation": "Fıkhın dört asıl delili Kitap, Sünnet, İcmâ ve Kıyas'tır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Islom huquqining (fiqh) to'rt asosiy dalili qaysilar?",
+          "choices": [
+            "Kitob, Sunnat, Tarix, Urf",
+            "Kitob, Hadis, Tafsir, Kalom",
+            "Kitob, Sunnat, Ijmo', Qiyos",
+            "Qiyos, Urf, Istihson, Shuro"
+          ],
+          "explanation": "Fiqhning to'rt asosiy dalili Kitob, Sunnat, Ijmo' va Qiyosdir."
+        }
+      }
+    },
+    {
+      "text": "Cenaze namazı hangi hüküm kategorisindedir?",
+      "choices": [
+        "Sünnet-i müekkede",
+        "Farz-ı kifâye",
+        "Farz-ı ayn",
+        "Vacip"
+      ],
+      "correct": 1,
+      "explanation": "Cenaze namazı farz-ı kifâyedir; bir kısmı kılarsa diğerlerinden sorumluluk düşer.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Janoza namozi qaysi hukm turkumiga kiradi?",
+          "choices": [
+            "Sunnati muakkada",
+            "Farzi kifoya",
+            "Farzi ayn",
+            "Vojib"
+          ],
+          "explanation": "Janoza namozi farzi kifoyadir; bir qismi o'qisa, qolganlardan mas'uliyat soqit bo'ladi."
+        }
+      }
+    },
+    {
+      "text": "Cenaze namazında kaç tekbir alınır?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Cenaze namazında dört tekbir alınır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Janoza namozida necha takbir aytiladi?",
+          "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "explanation": "Janoza namozida to'rt takbir aytiladi."
+        }
+      }
+    },
+    {
+      "text": "Cenaze namazının kendine özgü bir özelliği nedir?",
+      "choices": [
+        "İki rekâttır",
+        "Cuma günü kılınır",
+        "Sessiz kılınır",
+        "Rükû ve secde yoktur"
+      ],
+      "correct": 3,
+      "explanation": "Cenaze namazı ayakta kılınır; rükû ve secde bulunmaz.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Janoza namozining o'ziga xos xususiyati nima?",
+          "choices": [
+            "Ikki rakat",
+            "Juma kuni o'qiladi",
+            "Sirli o'qiladi",
+            "Ruku va sajda yo'q"
+          ],
+          "explanation": "Janoza namozi tik turib o'qiladi; ruku va sajda bo'lmaydi."
+        }
+      }
+    },
+    {
+      "text": "Aşağıdakilerden hangisi 'haram' hüküm kategorisine girer?",
+      "choices": [
+        "Faiz",
+        "Sadaka",
+        "Misvak",
+        "Teravih"
+      ],
+      "correct": 0,
+      "explanation": "Faiz, Kur'an'da açıkça haram kılınmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Quyidagilardan qaysi biri 'harom' hukm turkumiga kiradi?",
+          "choices": [
+            "Foiz (ribo)",
+            "Sadaqa",
+            "Misvok",
+            "Taroveh"
+          ],
+          "explanation": "Foiz Qur'onda ochiq harom qilingan."
+        }
+      }
+    },
+    {
+      "text": "Fıkıhta yapılması dinen kesin emredilen şeye ne ad verilir?",
+      "choices": [
+        "Farz",
+        "Mübah",
+        "Müstehap",
+        "Sünnet"
+      ],
+      "correct": 0,
+      "explanation": "Kesin delille emredilen ve terki günah olan şeye farz denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Fiqhda diniy jihatdan qat'iy buyurilgan narsaga nima deyiladi?",
+          "choices": [
+            "Farz",
+            "Mubo'h",
+            "Mustahab",
+            "Sunnat"
+          ],
+          "explanation": "Qat'iy dalil bilan buyurilgan va tark qilinishi gunoh bo'lgan narsaga farz deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Kütüb-i Sitte (Altı Kitap) kaç hadis kitabından oluşur?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "9"
+      ],
+      "correct": 2,
+      "explanation": "Kütüb-i Sitte, altı temel hadis kitabıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Kutubi sitta (Olti kitob) nechta hadis kitobidan iborat?",
+          "choices": [
+            "4",
+            "5",
+            "6",
+            "9"
+          ],
+          "explanation": "Kutubi sitta olti asosiy hadis kitobidir."
+        }
+      }
+    },
+    {
+      "text": "Sahîh-i Müslim'in müellifi kimdir?",
+      "choices": [
+        "İmam Nesâî",
+        "İmam Tirmizî",
+        "İmam Buhârî",
+        "İmam Müslim"
+      ],
+      "correct": 3,
+      "explanation": "Sahîh-i Müslim, İmam Müslim'in eseridir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Sahihi Muslimning muallifi kim?",
+          "choices": [
+            "Imom Nasoiy",
+            "Imom Termiziy",
+            "Imom Buxoriy",
+            "Imom Muslim"
+          ],
+          "explanation": "Sahihi Muslim Imom Muslimning asaridir."
+        }
+      }
+    },
+    {
+      "text": "Buhârî ve Müslim'in sahih hadis kitaplarına birlikte ne denir?",
+      "choices": [
+        "Sahîhayn",
+        "Müsned",
+        "Sünen",
+        "Kütüb-i Sitte"
+      ],
+      "correct": 0,
+      "explanation": "Buhârî ve Müslim'in Sahîh'lerine Sahîhayn denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Buxoriy va Muslimning sahih kitoblariga birgalikda nima deyiladi?",
+          "choices": [
+            "Sahihayn",
+            "Musnad",
+            "Sunan",
+            "Kutubi sitta"
+          ],
+          "explanation": "Buxoriy va Muslimning Sahih'lariga Sahihayn deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Hadis ilminde bir hadisi nakledenler zincirine ne ad verilir?",
+      "choices": [
+        "Râvî",
+        "Metin",
+        "Müsned",
+        "İsnâd"
+      ],
+      "correct": 3,
+      "explanation": "Hadisin ravi zincirine isnâd, söze metin denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hadis ilmida hadisni naql qilganlar zanjiriga nima deyiladi?",
+          "choices": [
+            "Roviy",
+            "Matn",
+            "Musnad",
+            "Isnod"
+          ],
+          "explanation": "Hadisning ravi zanjiriga isnod, so'zning o'ziga matn deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Hadisin kendisi, yani söz kısmına ne ad verilir?",
+      "choices": [
+        "İsnâd",
+        "Râvî",
+        "Tâbiî",
+        "Metin (Mâtin)"
+      ],
+      "correct": 3,
+      "explanation": "Hadisin söz kısmına metin denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hadisning so'z qismiga nima deyiladi?",
+          "choices": [
+            "Isnod",
+            "Roviy",
+            "Tobe'iy",
+            "Matn"
+          ],
+          "explanation": "Hadisning so'z qismiga matn deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Sahih hadisin şartlarından biri aşağıdakilerden hangisidir?",
+      "choices": [
+        "Çok kısa olması",
+        "Şiirle nakledilmesi",
+        "Arapça yazılmış olması",
+        "Râvîlerin adil ve zabt sahibi olması"
+      ],
+      "correct": 3,
+      "explanation": "Sahih hadiste râvîlerin adil ve zabt sahibi, senedin muttasıl olması aranır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Sahih hadisning shartlaridan biri quyidagilardan qaysi?",
+          "choices": [
+            "Juda qisqa bo'lishi",
+            "She'r bilan naql qilinishi",
+            "Arabcha yozilgan bo'lishi",
+            "Ravilarning odil va zabt egasi bo'lishi"
+          ],
+          "explanation": "Sahih hadisda ravilarning odil va zabt egasi bo'lishi, isnodning muttasil bo'lishi shart qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Uydurma hadise ne ad verilir?",
+      "choices": [
+        "Sahîh",
+        "Müteâtir",
+        "Mevzû",
+        "Hasen"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz'e yalan yere isnat edilen sözlere mevzû hadis denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "To'qima hadisga nima deyiladi?",
+          "choices": [
+            "Sahih",
+            "Mutavotir",
+            "Mavzu'",
+            "Hasan"
+          ],
+          "explanation": "Payg'ambarimizga yolg'on isnod qilingan so'zlarga mavzu' hadis deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Hadis rivayet eden kişiye ne ad verilir?",
+      "choices": [
+        "Fakîh",
+        "Müfessir",
+        "Râvî",
+        "Kâdî"
+      ],
+      "correct": 2,
+      "explanation": "Hadisi nakleden kişiye râvî denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hadisni rivoyat qilgan kishiga nima deyiladi?",
+          "choices": [
+            "Faqih",
+            "Mufassir",
+            "Roviy",
+            "Qozi"
+          ],
+          "explanation": "Hadisni naql qilgan kishiga roviy deyiladi."
+        }
+      }
+    },
+    {
+      "text": "'Riyâzü's-Sâlihîn' adlı eserin müellifi kimdir?",
+      "choices": [
+        "İmam Buhârî",
+        "İmam Mâtürîdî",
+        "İmam Gazâlî",
+        "İmam Nevevî"
+      ],
+      "correct": 3,
+      "explanation": "Riyâzü's-Sâlihîn, İmam Nevevî'nin hadis derlemesidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Riyozus solihin' asarining muallifi kim?",
+          "choices": [
+            "Imom Buxoriy",
+            "Imom Moturidiy",
+            "Imom G'azzoliy",
+            "Imom Navaviy"
+          ],
+          "explanation": "Riyozus solihin Imom Navaviyning hadislar to'plamidir."
+        }
+      }
+    },
+    {
+      "text": "Müsned adlı hadis kitabıyla tanınan imam kimdir?",
+      "choices": [
+        "Ahmed b. Hanbel",
+        "İmam Buhârî",
+        "İmam Müslim",
+        "İmam Mâlik"
+      ],
+      "correct": 0,
+      "explanation": "Ahmed b. Hanbel'in Müsned'i en büyük hadis külliyatlarındandır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Musnad nomli hadis kitobi bilan tanilgan imom kim?",
+          "choices": [
+            "Ahmad ibn Hanbal",
+            "Imom Buxoriy",
+            "Imom Muslim",
+            "Imom Molik"
+          ],
+          "explanation": "Ahmad ibn Hanbalning Musnadi eng katta hadis to'plamlaridandir."
+        }
+      }
+    },
+    {
+      "text": "Haccın farzlarından biri olmayan ibadet hangisidir?",
+      "choices": [
+        "Arafat vakfesi",
+        "İhram",
+        "Veda tavafı",
+        "Ziyaret tavafı"
+      ],
+      "correct": 2,
+      "explanation": "Veda tavafı vacip olup farz değildir; farzlar ihram, vakfe ve ziyaret tavafıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hajning farzlaridan biri bo'lmagan ibodat qaysi?",
+          "choices": [
+            "Arafot vuqufi",
+            "Ehrom",
+            "Vido tavofi",
+            "Ziyorat tavofi"
+          ],
+          "explanation": "Vido tavofi vojib bo'lib, farz emas; farzlar ehrom, vuquf va ziyorat tavofidir."
+        }
+      }
+    },
+    {
+      "text": "Umrenin temel unsurlarından hangisi yoktur?",
+      "choices": [
+        "Arafat vakfesi",
+        "İhram",
+        "Tavaf",
+        "Sa'y"
+      ],
+      "correct": 0,
+      "explanation": "Umrede Arafat vakfesi yoktur; ihram, tavaf ve sa'y yapılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Umraning asosiy unsurlaridan qaysi biri yo'q?",
+          "choices": [
+            "Arafot vuqufi",
+            "Ehrom",
+            "Tavof",
+            "Sa'y"
+          ],
+          "explanation": "Umrada Arafot vuqufi yo'q; ehrom, tavof va sa'y qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Ramazan'ın son on gününde mescide kapanıp ibadet etmeye ne ad verilir?",
+      "choices": [
+        "Vitir",
+        "Tarâvih",
+        "Tesbih",
+        "İtikâf"
+      ],
+      "correct": 3,
+      "explanation": "Mescitte ibadet niyetiyle belli bir süre kalmaya itikâf denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ramazonning oxirgi o'n kunida masjidda berkinib ibodat qilishga nima deyiladi?",
+          "choices": [
+            "Vitr",
+            "Taroveh",
+            "Tasbeh",
+            "Itikof"
+          ],
+          "explanation": "Masjidda ibodat niyati bilan ma'lum muddat qolishga itikof deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Ramazan gecelerinde kılınan namaz hangisidir?",
+      "choices": [
+        "Teravih",
+        "Duhâ",
+        "Evvâbîn",
+        "Tahiyyetü'l-mescid"
+      ],
+      "correct": 0,
+      "explanation": "Teravih, Ramazan gecelerinde yatsıdan sonra kılınan sünnet namazdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ramazon kechalarida o'qiladigan namoz qaysi?",
+          "choices": [
+            "Taroveh",
+            "Zuho",
+            "Avvobin",
+            "Tahiyyatul masjid"
+          ],
+          "explanation": "Taroveh Ramazon kechalarida xufton namozidan keyin o'qiladigan sunnat namozdir."
+        }
+      }
+    },
+    {
+      "text": "Bayram namazı kaç rekâttır?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "Bayram namazı iki rekâttır ve her rekâtta fazladan tekbirler alınır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hayit namozi necha rakat?",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "explanation": "Hayit namozi ikki rakat bo'lib, har rakatda qo'shimcha takbirlar aytiladi."
+        }
+      }
+    },
+    {
+      "text": "Seferî (yolcu) iken dört rekâtlı farz namazlar kaç rekât kılınır?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "Yolcu, dört rekâtlı farzları iki rekât olarak kılar (kasr).",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Safarda (yo'lovchi) to'rt rakatli farz namozlar necha rakat o'qiladi?",
+          "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "explanation": "Yo'lovchi to'rt rakatli farzlarni ikki rakat o'qiydi (qasr)."
+        }
+      }
+    },
+    {
+      "text": "Namazda yanılma sebebiyle yapılan secdeye ne ad verilir?",
+      "choices": [
+        "Kâbe secdesi",
+        "Şükür secdesi",
+        "Sehiv secdesi",
+        "Tilâvet secdesi"
+      ],
+      "correct": 2,
+      "explanation": "Namazda unutma sonucu eksiklik olursa sehiv secdesi yapılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Namozda adashish sababli qilinadigan sajdaga nima deyiladi?",
+          "choices": [
+            "Ka'ba sajdasi",
+            "Shukr sajdasi",
+            "Sahv sajdasi",
+            "Tilovat sajdasi"
+          ],
+          "explanation": "Namozda unutish natijasida kamchilik bo'lsa, sahv sajdasi qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Cuma namazının farzı kaç rekâttır?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "Cuma namazının farzı iki rekâttır; öncesinde hutbe okunur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Juma namozining farzi necha rakat?",
+          "choices": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "explanation": "Juma namozining farzi ikki rakat bo'lib, undan oldin xutba o'qiladi."
+        }
+      }
+    },
+    {
+      "text": "Zekâtın verilebileceği gruplar Kur'an'da kaç sınıf olarak sayılmıştır?",
+      "choices": [
+        "3",
+        "5",
+        "8",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "Tevbe Sûresi 60. ayette zekât verilecek sekiz sınıf sayılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Zakot beriladigan guruhlar Qur'onda nechta sinf sifatida sanab o'tilgan?",
+          "choices": [
+            "3",
+            "5",
+            "8",
+            "10"
+          ],
+          "explanation": "Tavba surasi 60-oyatida zakot beriladigan sakkiz sinf sanab o'tilgan."
+        }
+      }
+    },
+    {
+      "text": "Fitre kimin tarafından verilir?",
+      "choices": [
+        "Nisap miktarı mala sahip her Müslüman",
+        "Yalnızca zenginler",
+        "Yalnızca kadınlar",
+        "Yalnızca çocuklar"
+      ],
+      "correct": 0,
+      "explanation": "Dinî olarak zengin sayılan her Müslüman fitre verir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Fitr sadaqasini kim beradi?",
+          "choices": [
+            "Nisob miqdoridagi molga ega har bir musulmon",
+            "Faqat boylar",
+            "Faqat ayollar",
+            "Faqat bolalar"
+          ],
+          "explanation": "Diniy jihatdan boy hisoblangan har bir musulmon fitr beradi."
+        }
+      }
+    },
+    {
+      "text": "Cibril hadisinde sayılan üç derece hangileridir?",
+      "choices": [
+        "Farz, Vacip, Sünnet",
+        "İslâm, İmân, İhsân",
+        "Tevhid, Nübüvvet, Mead",
+        "Tövbe, Zühd, Takvâ"
+      ],
+      "correct": 1,
+      "explanation": "Cibril hadisinde din; İslâm, İmân ve İhsân derecelerinde anlatılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Jabroil hadisida sanalgan uch daraja qaysilar?",
+          "choices": [
+            "Farz, Vojib, Sunnat",
+            "Islom, Iymon, Ihson",
+            "Tavhid, Nubuvvat, Me'od",
+            "Tavba, Zuhd, Taqvo"
+          ],
+          "explanation": "Jabroil hadisida din Islom, Iymon va Ihson darajalarida bayon etiladi."
+        }
+      }
+    },
+    {
+      "text": "İhsân nedir?",
+      "choices": [
+        "Çok oruç tutmak",
+        "Çok sadaka vermek",
+        "Hacca gitmek",
+        "Allah'ı görüyormuş gibi ibadet etmek"
+      ],
+      "correct": 3,
+      "explanation": "İhsân, Allah'ı görüyormuş gibi, göremesen de O'nun seni gördüğünü bilerek ibadet etmektir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ihson nima?",
+          "choices": [
+            "Ko'p ro'za tutish",
+            "Ko'p sadaqa berish",
+            "Hajga borish",
+            "Allohni ko'rayotgandek ibodat qilish"
+          ],
+          "explanation": "Ihson Allohni ko'rayotgandek, ko'rmasang ham U seni ko'rayotganini bilib ibodat qilishdir."
+        }
+      }
+    },
+    {
+      "text": "Kul hakkı ne demektir?",
+      "choices": [
+        "Namaz borcu",
+        "Başkasına ait hak",
+        "Zekât borcu",
+        "Oruç borcu"
+      ],
+      "correct": 1,
+      "explanation": "Kul hakkı, insanların birbirleri üzerindeki haklarıdır; ancak hak sahibi affederse düşer.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Banda haqqi nima degani?",
+          "choices": [
+            "Namoz qarzi",
+            "Boshqaga tegishli haq",
+            "Zakot qarzi",
+            "Ro'za qarzi"
+          ],
+          "explanation": "Banda haqqi odamlarning bir-birlari ustidagi haqlaridir; faqat haq egasi kechirsa soqit bo'ladi."
+        }
+      }
+    },
+    {
+      "text": "Aşağıdakilerden hangisi büyük günahlardan sayılır?",
+      "choices": [
+        "Misvak kullanmak",
+        "Sadaka vermek",
+        "Teravih kılmak",
+        "Yalan yere yemin ve haksız yere adam öldürmek"
+      ],
+      "correct": 3,
+      "explanation": "Haksız yere adam öldürmek ve ana-babaya isyan büyük günahlardandır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Quyidagilardan qaysi biri katta gunohlardan hisoblanadi?",
+          "choices": [
+            "Misvok ishlatish",
+            "Sadaqa berish",
+            "Taroveh o'qish",
+            "Yolg'on qasam ichish va nohaq odam o'ldirish"
+          ],
+          "explanation": "Nohaq odam o'ldirish va ota-onaga oq bo'lish katta gunohlardandir."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in 'Müslüman, elinden ve dilinden ... emin olunan kimsedir' hadisi hangi kavrama vurgu yapar?",
+      "choices": [
+        "Hac ibadeti",
+        "Zekât hesabı",
+        "Savaş stratejisi",
+        "Müslümanın kimseye zarar vermemesi"
+      ],
+      "correct": 3,
+      "explanation": "Bu hadis, Müslümanın dilinden ve elinden kimseye zarar gelmemesini vurgular.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning 'Musulmon qo'lidan va tilidan ... omon bo'lingan kishidir' hadisi qaysi tushunchani ta'kidlaydi?",
+          "choices": [
+            "Haj ibodati",
+            "Zakot hisobi",
+            "Urush strategiyasi",
+            "Musulmonning hech kimga ziyon yetkazmasligi"
+          ],
+          "explanation": "Bu hadis musulmonning tili va qo'lidan hech kimga ziyon yetmasligini ta'kidlaydi."
+        }
+      }
+    },
+    {
+      "text": "İslâm'da 'gıybet' ne demektir?",
+      "choices": [
+        "Birini arkasından, hoşlanmayacağı bir şeyle anmak",
+        "Küfretmek",
+        "Başkasının malını almak",
+        "Yalan yere iftira etmek"
+      ],
+      "correct": 0,
+      "explanation": "Gıybet, bir kimseyi arkasından hoşlanmayacağı şekilde anmaktır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Islomda 'g'iybat' nima degani?",
+          "choices": [
+            "Birovni orqasidan yoqtirmaydigan narsa bilan zikr etish",
+            "So'kinish",
+            "Birovning molini olish",
+            "Yolg'on bilan tuhmat qilish"
+          ],
+          "explanation": "G'iybat bir kishini orqasidan yoqtirmaydigan tarzda zikr etishdir."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in şu hadisi hangi ahlâkî değeri öğretir: 'Yalan söylemek ... alametlerindendir'?",
+      "choices": [
+        "Cesaretin",
+        "Münafıklığın",
+        "Sabrın",
+        "Cömertliğin"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz yalan söylemeyi münafığın alametlerinden saymıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning 'Yolg'on gapirish ... alomatlaridandir' hadisi qaysi axloqiy qadriyatni o'rgatadi?",
+          "choices": [
+            "Jasoratning",
+            "Munofiqlikning",
+            "Sabrning",
+            "Saxovatning"
+          ],
+          "explanation": "Payg'ambarimiz yolg'on gapirishni munofiqning alomatlaridan sanagan."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'a göre içki ve kumar hangi hükümdedir?",
+      "choices": [
+        "Mübah",
+        "Müstehap",
+        "Mekruh",
+        "Haram"
+      ],
+      "correct": 3,
+      "explanation": "Mâide Sûresi'nde içki ve kumar şeytan işi olarak haram kılınmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onga ko'ra ichimlik va qimor qaysi hukmda?",
+          "choices": [
+            "Mubo'h",
+            "Mustahab",
+            "Makruh",
+            "Harom"
+          ],
+          "explanation": "Moida surasida ichimlik va qimor shayton ishi sifatida harom qilingan."
+        }
+      }
+    },
+    {
+      "text": "Zühd nedir?",
+      "choices": [
+        "Sürekli savaşmak",
+        "Sürekli yolculuk etmek",
+        "Dünyaya aşırı bağlanmamak",
+        "Çok mal biriktirmek"
+      ],
+      "correct": 2,
+      "explanation": "Zühd, dünyaya gönül bağlamayıp ahireti öncelemektir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Zuhd nima?",
+          "choices": [
+            "Doim urushish",
+            "Doim safarda bo'lish",
+            "Dunyoga haddan ortiq bog'lanmaslik",
+            "Ko'p mol yig'ish"
+          ],
+          "explanation": "Zuhd dunyoga ko'ngil bog'lamay, oxiratni ustun qo'yishdir."
+        }
+      }
+    },
+    {
+      "text": "Tövbenin şartlarından biri aşağıdakilerden hangisidir?",
+      "choices": [
+        "Çok sadaka vermek",
+        "Hacca gitmek",
+        "Günahtan pişmanlık duyup bırakmak",
+        "Susmak"
+      ],
+      "correct": 2,
+      "explanation": "Tövbede günahı bırakma, pişmanlık ve tekrar etmeme kararlılığı vardır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Tavbaning shartlaridan biri quyidagilardan qaysi?",
+          "choices": [
+            "Ko'p sadaqa berish",
+            "Hajga borish",
+            "Gunohdan pushaymon bo'lib tark etish",
+            "Jim turish"
+          ],
+          "explanation": "Tavbada gunohni tark etish, pushaymonlik va takrorlamaslik qat'iyati bor."
+        }
+      }
+    },
+    {
+      "text": "Ehl-i Sünnet itikadında Kelâm imamlarından biri olan ve Semerkant'ta yaşayan âlim kimdir?",
+      "choices": [
+        "İbn Sînâ",
+        "Ebû Mansûr el-Mâtürîdî",
+        "Ebü'l-Hasen el-Eş'arî",
+        "Fârâbî"
+      ],
+      "correct": 1,
+      "explanation": "İmam Mâtürîdî, Ehl-i Sünnet'in iki büyük itikadî imamından biridir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ahli sunna e'tiqodida kalom imomlaridan biri bo'lgan va Samarqandda yashagan olim kim?",
+          "choices": [
+            "Ibn Sino",
+            "Abu Mansur al-Moturidiy",
+            "Abul Hasan al-Ash'ariy",
+            "Forobiy"
+          ],
+          "explanation": "Imom Moturidiy Ahli sunnaning ikki buyuk e'tiqodiy imomidan biridir."
+        }
+      }
+    },
+    {
+      "text": "Ehl-i Sünnet'in diğer büyük itikadî imamı olan Basralı âlim kimdir?",
+      "choices": [
+        "Ebû Mansûr el-Mâtürîdî",
+        "Gazâlî",
+        "İbn Teymiyye",
+        "Ebü'l-Hasen el-Eş'arî"
+      ],
+      "correct": 3,
+      "explanation": "Eş'arî, Basra'da yetişmiş ve Eş'arî ekolünü kurmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ahli sunnaning boshqa buyuk e'tiqodiy imomi bo'lgan Basralik olim kim?",
+          "choices": [
+            "Abu Mansur al-Moturidiy",
+            "G'azzoliy",
+            "Ibn Taymiyya",
+            "Abul Hasan al-Ash'ariy"
+          ],
+          "explanation": "Ash'ariy Basrada yetishgan va Ash'ariya maktabini asos solgan."
+        }
+      }
+    },
+    {
+      "text": "'İhyâ-u Ulûmi'd-Dîn' adlı eserin müellifi kimdir?",
+      "choices": [
+        "İmam Buhârî",
+        "İmam Gazâlî",
+        "İmam Şâfiî",
+        "İmam Nevevî"
+      ],
+      "correct": 1,
+      "explanation": "İhyâ, İmam Gazâlî'nin ahlâk ve tasavvuf alanındaki ünlü eseridir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Ihyou ulumid din' nomli asarning muallifi kim?",
+          "choices": [
+            "Imom Buxoriy",
+            "Imom G'azzoliy",
+            "Imom Shofe'iy",
+            "Imom Navaviy"
+          ],
+          "explanation": "Ihyo Imom G'azzoliyning axloq va tasavvuf sohasidagi mashhur asaridir."
+        }
+      }
+    },
+    {
+      "text": "Fıkıh usulünün ilk müstakil eseri sayılan 'er-Risâle'nin yazarı kimdir?",
+      "choices": [
+        "Mâlik b. Enes",
+        "Ahmed b. Hanbel",
+        "İmam Şâfiî",
+        "Ebû Hanîfe"
+      ],
+      "correct": 2,
+      "explanation": "er-Risâle, fıkıh usulünün ilk sistemli eseridir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Fiqh usulining birinchi mustaqil asari hisoblangan 'ar-Risola' ning muallifi kim?",
+          "choices": [
+            "Molik ibn Anas",
+            "Ahmad ibn Hanbal",
+            "Imom Shofe'iy",
+            "Abu Hanifa"
+          ],
+          "explanation": "Ar-Risola fiqh usulining birinchi tizimli asaridir."
+        }
+      }
+    },
+    {
+      "text": "İslâm hukukunda kendi görüşüyle hüküm çıkaracak ilme sahip kişiye ne denir?",
+      "choices": [
+        "Hâfız",
+        "Müezzin",
+        "Müctehid",
+        "Mukallid"
+      ],
+      "correct": 2,
+      "explanation": "İctihad yapabilen âlime müctehid denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Islom huquqida o'z fikri bilan hukm chiqara oladigan ilm egasiga nima deyiladi?",
+          "choices": [
+            "Hofiz",
+            "Muazzin",
+            "Mujtahid",
+            "Muqallid"
+          ],
+          "explanation": "Ijtihod qila oladigan olimga mujtahid deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Bir din âliminin dinî konulardaki sorulara verdiği hükmü bildiren cevaba ne ad verilir?",
+      "choices": [
+        "Hutbe",
+        "Fetva",
+        "Tefsir",
+        "Biat"
+      ],
+      "correct": 1,
+      "explanation": "Fetva, dinî bir soruya verilen hüküm cevabıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Din olimining diniy masalalardagi savollarga bergan hukm bildiruvchi javobiga nima deyiladi?",
+          "choices": [
+            "Xutba",
+            "Fatvo",
+            "Tafsir",
+            "Bay'at"
+          ],
+          "explanation": "Fatvo diniy savolga berilgan hukm javobidir."
+        }
+      }
+    },
+    {
+      "text": "Hanefî mezhebinde 'istihsan' ne anlama gelir?",
+      "choices": [
+        "Ticaret yapmak",
+        "Savaşa çıkmak",
+        "Hadis uydurmak",
+        "Kıyası bırakıp daha uygun olanı tercih etmek"
+      ],
+      "correct": 3,
+      "explanation": "İstihsan, kıyasın zorluğu karşısında daha uygun hükmü tercih etmektir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hanafiy mazhabida 'istihson' qanday ma'noni anglatadi?",
+          "choices": [
+            "Savdo qilish",
+            "Urushga chiqish",
+            "Hadis to'qish",
+            "Qiyosni qoldirib, ko'proq mos keladiganini tanlash"
+          ],
+          "explanation": "Istihson qiyosning qiyinchiligi qarshisida ko'proq mos hukmni tanlashdir."
+        }
+      }
+    },
+    {
+      "text": "Osmanlı döneminde hazırlanan ve Hanefî fıkhına dayanan hukuk kanunnamesi hangisidir?",
+      "choices": [
+        "Kânûnnâme-i Âl-i Osmân",
+        "Islahat Fermanı",
+        "Tanzîmât Fermanı",
+        "Mecelle"
+      ],
+      "correct": 3,
+      "explanation": "Mecelle-i Ahkâm-ı Adliyye, Hanefî fıkhına dayalı medenî kanundur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Usmonlilar davrida tayyorlangan va Hanafiy fiqhiga asoslangan huquq qonunnomasi qaysi?",
+          "choices": [
+            "Qonunnomai Ali Usmon",
+            "Islohot farmoni",
+            "Tanzimot farmoni",
+            "Majalla"
+          ],
+          "explanation": "Majallai ahkomi adliya Hanafiy fiqhiga asoslangan fuqarolik kodeksidir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer b. Abdülazîz, hadisle ilgili hangi önemli girişimi başlatmıştır?",
+      "choices": [
+        "Hadislerin yasaklanması",
+        "Hadislerin şiir hâline getirilmesi",
+        "Hadislerin satılması",
+        "Hadislerin resmen derlenmesi (tedvîn)"
+      ],
+      "correct": 3,
+      "explanation": "Ömer b. Abdülazîz, hadislerin derlenmesi için emir vermiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Umar ibn Abdulaziz hadis bilan bog'liq qaysi muhim tashabbusni boshlagan?",
+          "choices": [
+            "Hadislarni taqiqlash",
+            "Hadislarni she'riy holga keltirish",
+            "Hadislarni sotish",
+            "Hadislarni rasmiy ravishda to'plash (tadvin)"
+          ],
+          "explanation": "Umar ibn Abdulaziz hadislarning to'planishi uchun buyruq bergan."
+        }
+      }
+    },
+    {
+      "text": "Hadis ilminde 'Emîrü'l-Mü'minîn fi'l-Hadîs' unvanıyla anılan imam kimdir?",
+      "choices": [
+        "İmam Müslim",
+        "İmam Mâlik",
+        "İmam Buhârî",
+        "İmam Nevevî"
+      ],
+      "correct": 2,
+      "explanation": "İmam Buhârî, bu unvanla anılan hadis âlimidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hadis ilmida 'Amirul mu'minin fil hadis' unvoni bilan ataladigan imom kim?",
+          "choices": [
+            "Imom Muslim",
+            "Imom Molik",
+            "Imom Buxoriy",
+            "Imom Navaviy"
+          ],
+          "explanation": "Imom Buxoriy bu unvon bilan ataladigan hadis olimidir."
+        }
+      }
+    },
+    {
+      "text": "Ebû Hanîfe'nin lakabı olan 'İmâm-ı Âzam' ne demektir?",
+      "choices": [
+        "Hadis hâfızı",
+        "İlk halife",
+        "En büyük imam",
+        "Müezzin başı"
+      ],
+      "correct": 2,
+      "explanation": "Ebû Hanîfe 'İmâm-ı Âzam' (en büyük imam) diye anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abu Hanifaning laqabi bo'lgan 'Imomi A'zam' nimani anglatadi?",
+          "choices": [
+            "Hadis hofizi",
+            "Birinchi xalifa",
+            "Eng buyuk imom",
+            "Bosh muazzin"
+          ],
+          "explanation": "Abu Hanifa 'Imomi A'zam' (eng buyuk imom) deb ataladi."
+        }
+      }
+    },
+    {
+      "text": "Ebû Hanîfe'nin önde gelen iki öğrencisi kimlerdir?",
+      "choices": [
+        "Ebû Yûsuf ve İmam Muhammed",
+        "Buhârî ve Müslim",
+        "Gazâlî ve Nevevî",
+        "Şâfiî ve Mâlik"
+      ],
+      "correct": 0,
+      "explanation": "Ebû Yûsuf ve İmam Muhammed, Hanefî mezhebinin yayılmasında etkili olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abu Hanifaning yetakchi ikki shogirdi kimlar?",
+          "choices": [
+            "Abu Yusuf va Imom Muhammad",
+            "Buxoriy va Muslim",
+            "G'azzoliy va Navaviy",
+            "Shofe'iy va Molik"
+          ],
+          "explanation": "Abu Yusuf va Imom Muhammad Hanafiy mazhabining tarqalishida ta'sirli bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Şâfiî mezhebinin imamı hangi ülkede vefat etmiştir?",
+      "choices": [
+        "Irak",
+        "Mısır",
+        "Suriye",
+        "Medine"
+      ],
+      "correct": 1,
+      "explanation": "İmam Şâfiî Mısır'da vefat etmiştir (hicri 204).",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Shofe'iy mazhabining imomi qaysi mamlakatda vafot etgan?",
+          "choices": [
+            "Iroq",
+            "Misr",
+            "Suriya",
+            "Madina"
+          ],
+          "explanation": "Imom Shofe'iy Misrda vafot etgan (hijriy 204)."
+        }
+      }
+    },
+    {
+      "text": "Ahmed b. Hanbel hangi olay sebebiyle meşhur olmuştur?",
+      "choices": [
+        "Kur'an'ın yaratılmışlığı meselesinde direnişi (Mihne)",
+        "Deniz seferi",
+        "Ticaret kervanı",
+        "Hac yolculuğu"
+      ],
+      "correct": 0,
+      "explanation": "Ahmed b. Hanbel, Mihne döneminde ilkeli duruşuyla bilinir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ahmad ibn Hanbal qaysi voqea sababli mashhur bo'lgan?",
+          "choices": [
+            "Qur'onning maxluqligi masalasida qarshiligi (Mihna)",
+            "Dengiz yurishi",
+            "Savdo karvoni",
+            "Haj safari"
+          ],
+          "explanation": "Ahmad ibn Hanbal Mihna davrida tamoyilli turishi bilan tanilgan."
+        }
+      }
+    },
+    {
+      "text": "Mâtürîdî ve Eş'arî ekollerinin ortak adı nedir?",
+      "choices": [
+        "Mu'tezile",
+        "Ehl-i Sünnet vel-Cemâ'at",
+        "Şia",
+        "Hâricîler"
+      ],
+      "correct": 1,
+      "explanation": "Her iki ekol de Ehl-i Sünnet itikadını sistemleştirmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Moturidiy va Ash'ariy maktablarining umumiy nomi nima?",
+          "choices": [
+            "Mu'taziliylar",
+            "Ahli sunna val jamoa",
+            "Shia",
+            "Xorijiylar"
+          ],
+          "explanation": "Ikkala maktab ham Ahli sunna e'tiqodini tizimlashtirgan."
+        }
+      }
+    },
+    {
+      "text": "Mu'tezile mezhebinin öne çıkardığı ilke hangisidir?",
+      "choices": [
+        "Yalnızca rivayet",
+        "Aklı öne alan yorum",
+        "Yalnızca taklit",
+        "Savaşın ilkesi"
+      ],
+      "correct": 1,
+      "explanation": "Mu'tezile, akla geniş yer veren kelâmî bir ekoldür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mu'taziliya mazhabining ilgari surgan tamoyili qaysi?",
+          "choices": [
+            "Faqat rivoyat",
+            "Aqlni oldinga qo'yuvchi sharh",
+            "Faqat taqlid",
+            "Urush tamoyili"
+          ],
+          "explanation": "Mu'taziliya aqlga keng o'rin beradigan kalomiy maktabdir."
+        }
+      }
+    },
+    {
+      "text": "Akaidde 'Tahâvî Akîdesi' hangi mezhep âlimine aittir?",
+      "choices": [
+        "Şâfiî âlimi Nevevî",
+        "Hanefî âlimi Ebû Ca'fer et-Tahâvî",
+        "Hanbelî âlimi İbn Kudâme",
+        "Mâlikî âlimi Karâfî"
+      ],
+      "correct": 1,
+      "explanation": "Akîdetü't-Tahâvî, Hanefî âlimi Tahâvî'nin eseridir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Akidada 'Tahoviy akidasi' qaysi mazhab olimiga tegishli?",
+          "choices": [
+            "Shofe'iy olimi Navaviy",
+            "Hanafiy olimi Abu Ja'far at-Tahoviy",
+            "Hanbaliy olimi Ibn Qudoma",
+            "Moliki olimi Qarofiy"
+          ],
+          "explanation": "Aqidatut Tahoviy Hanafiy olimi Tahoviyning asaridir."
+        }
+      }
+    },
+    {
+      "text": "İslâm hukukunda cumhurun kabul ettiği ve âlimlerin bir konuda görüş birliği etmesine ne denir?",
+      "choices": [
+        "Örf",
+        "İstihsan",
+        "Kıyas",
+        "İcmâ"
+      ],
+      "correct": 3,
+      "explanation": "Bir dönemin müctehidlerinin bir hükümde ittifakına icmâ denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Islom huquqida jumhur qabul qilgan va olimlarning bir masalada fikr birligiga nima deyiladi?",
+          "choices": [
+            "Urf",
+            "Istihson",
+            "Qiyos",
+            "Ijmo'"
+          ],
+          "explanation": "Bir davr mujtahidlarining bir hukmda ittifoqiga ijmo' deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Peygamber'in sünneti kaç ana başlıkta incelenir?",
+      "choices": [
+        "Yalnızca söz",
+        "Yalnızca fiil",
+        "Söz, fiil ve takrir",
+        "Söz ve yazı"
+      ],
+      "correct": 2,
+      "explanation": "Sünnet; Peygamberimiz'in sözleri, fiilleri ve onayları (takrir) olarak incelenir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz sunnati qaysi asosiy bo'limlarda o'rganiladi?",
+          "choices": [
+            "Faqat so'z",
+            "Faqat fe'l",
+            "So'z, fe'l va taqrir",
+            "So'z va yozuv"
+          ],
+          "explanation": "Sunnat Payg'ambarimizning so'zlari, fe'llari va tasdiqlari (taqrir) sifatida o'rganiladi."
+        }
+      }
+    },
+    {
+      "text": "Hadis rivayetinde yalan söyleyenin Peygamberimiz'e göre âkıbeti nedir?",
+      "choices": [
+        "Cehennemdeki yerini hazırlaması",
+        "Af",
+        "Mükâfat",
+        "Şefaat"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz, kasten kendisine yalan nispet edenin yerini cehennemde hazırlayacağını bildirmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hadis rivoyatida yolg'on aytganning Payg'ambarimizga ko'ra oqibati nima?",
+          "choices": [
+            "Jahannamdagi o'rnini tayyorlashi",
+            "Avf",
+            "Mukofot",
+            "Shafoat"
+          ],
+          "explanation": "Payg'ambarimiz qasddan o'ziga yolg'on isnod qilganning o'rnini jahannamda tayyorlashini bildirgan."
+        }
+      }
     }
   ]
 }

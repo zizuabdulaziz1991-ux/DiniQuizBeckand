@@ -520,6 +520,2166 @@
         }
       },
       "level": 2
+    },
+    {
+      "text": "Kur'an-ı Kerim hangi dilde indirilmiştir?",
+      "choices": [
+        "Arapça",
+        "Farsça",
+        "Süryanice",
+        "İbranice"
+      ],
+      "correct": 0,
+      "explanation": "Kur'an-ı Kerim Arapça indirilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karim qaysi tilda nozil bo'lgan?",
+          "choices": [
+            "Arab tilida",
+            "Fors tilida",
+            "Suriy tilida",
+            "Ibroniy tilida"
+          ],
+          "explanation": "Qur'oni karim arab tilida nozil bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Kur'an-ı Kerim'in indirilmesi yaklaşık kaç yıl sürmüştür?",
+      "choices": [
+        "10",
+        "23",
+        "40",
+        "63"
+      ],
+      "correct": 1,
+      "explanation": "Vahiy yaklaşık 23 yıl boyunca parça parça gelmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'oni karimning nozil bo'lishi taxminan necha yil davom etgan?",
+          "choices": [
+            "10",
+            "23",
+            "40",
+            "63"
+          ],
+          "explanation": "Vahiy taxminan 23 yil davomida qismlarga bo'lib kelgan."
+        }
+      }
+    },
+    {
+      "text": "İhlâs Sûresi kaç ayettir?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "İhlâs Sûresi dört ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ixlos surasi necha oyat?",
+          "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "explanation": "Ixlos surasi to'rt oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Kevser Sûresi kaç ayettir?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "Kevser, Kur'an'ın en kısa suresidir ve üç ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Kavsar surasi necha oyat?",
+          "choices": [
+            "3",
+            "5",
+            "7",
+            "10"
+          ],
+          "explanation": "Kavsar Qur'onning eng qisqa surasi bo'lib, uch oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Nâs Sûresi kaç ayettir?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "Nâs Sûresi altı ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Nos surasi necha oyat?",
+          "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "explanation": "Nos surasi olti oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Felak Sûresi kaç ayettir?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Felak Sûresi beş ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Falaq surasi necha oyat?",
+          "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "explanation": "Falaq surasi besh oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Adını 'örümcek' kelimesinden alan sure hangisidir?",
+      "choices": [
+        "Nahl",
+        "Neml",
+        "Ankebût",
+        "Fîl"
+      ],
+      "correct": 2,
+      "explanation": "Ankebût, 'örümcek' anlamına gelir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Nomini 'o'rgimchak' so'zidan olgan sura qaysi?",
+          "choices": [
+            "Nahl",
+            "Naml",
+            "Ankabut",
+            "Fil"
+          ],
+          "explanation": "Ankabut 'o'rgimchak' ma'nosini anglatadi."
+        }
+      }
+    },
+    {
+      "text": "Adını 'karınca' kelimesinden alan sure hangisidir?",
+      "choices": [
+        "Ankebût",
+        "Nahl",
+        "Neml",
+        "Hûd"
+      ],
+      "correct": 2,
+      "explanation": "Neml, 'karınca' anlamına gelir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Nomini 'chumoli' so'zidan olgan sura qaysi?",
+          "choices": [
+            "Ankabut",
+            "Nahl",
+            "Naml",
+            "Hud"
+          ],
+          "explanation": "Naml 'chumoli' ma'nosini anglatadi."
+        }
+      }
+    },
+    {
+      "text": "Adını bir madenden alan ve 'demir' anlamına gelen sure hangisidir?",
+      "choices": [
+        "Nûr",
+        "Tîn",
+        "Hadîd",
+        "Kalem"
+      ],
+      "correct": 2,
+      "explanation": "Hadîd Sûresi 'demir' anlamına gelir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Nomini bir metalldan olgan, 'temir' ma'nosini anglatadigan sura qaysi?",
+          "choices": [
+            "Nur",
+            "Tin",
+            "Hadid",
+            "Qalam"
+          ],
+          "explanation": "Hadid surasi 'temir' ma'nosini anglatadi."
+        }
+      }
+    },
+    {
+      "text": "'Kevser' kelimesi hangi anlama gelir?",
+      "choices": [
+        "Ateş",
+        "Dağ",
+        "Yol",
+        "Çok hayır, bolluk"
+      ],
+      "correct": 3,
+      "explanation": "Kevser, çok hayır ve bolluk demektir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Kavsar' so'zi qanday ma'noni anglatadi?",
+          "choices": [
+            "Olov",
+            "Tog'",
+            "Yo'l",
+            "Ko'p yaxshilik, mo'llik"
+          ],
+          "explanation": "Kavsar ko'p yaxshilik va mo'llik demakdir."
+        }
+      }
+    },
+    {
+      "text": "Âl-i İmrân Sûresi kaç ayettir?",
+      "choices": [
+        "120",
+        "165",
+        "176",
+        "200"
+      ],
+      "correct": 3,
+      "explanation": "Âl-i İmrân Sûresi 200 ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Oli Imron surasi necha oyat?",
+          "choices": [
+            "120",
+            "165",
+            "176",
+            "200"
+          ],
+          "explanation": "Oli Imron surasi 200 oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Nisâ Sûresi kaç ayettir?",
+      "choices": [
+        "120",
+        "176",
+        "200",
+        "286"
+      ],
+      "correct": 1,
+      "explanation": "Nisâ Sûresi 176 ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Niso surasi necha oyat?",
+          "choices": [
+            "120",
+            "176",
+            "200",
+            "286"
+          ],
+          "explanation": "Niso surasi 176 oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Mâide Sûresi kaç ayettir?",
+      "choices": [
+        "100",
+        "120",
+        "165",
+        "176"
+      ],
+      "correct": 1,
+      "explanation": "Mâide Sûresi 120 ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Moida surasi necha oyat?",
+          "choices": [
+            "100",
+            "120",
+            "165",
+            "176"
+          ],
+          "explanation": "Moida surasi 120 oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Yâsîn Sûresi kaç ayettir?",
+      "choices": [
+        "30",
+        "78",
+        "83",
+        "111"
+      ],
+      "correct": 2,
+      "explanation": "Yâsîn Sûresi 83 ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Yosin surasi necha oyat?",
+          "choices": [
+            "30",
+            "78",
+            "83",
+            "111"
+          ],
+          "explanation": "Yosin surasi 83 oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Mülk Sûresi kaç ayettir?",
+      "choices": [
+        "20",
+        "30",
+        "40",
+        "67"
+      ],
+      "correct": 1,
+      "explanation": "Mülk Sûresi 30 ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mulk surasi necha oyat?",
+          "choices": [
+            "20",
+            "30",
+            "40",
+            "67"
+          ],
+          "explanation": "Mulk surasi 30 oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Rahmân Sûresi kaç ayettir?",
+      "choices": [
+        "30",
+        "55",
+        "78",
+        "83"
+      ],
+      "correct": 2,
+      "explanation": "Rahmân Sûresi 78 ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Rahmon surasi necha oyat?",
+          "choices": [
+            "30",
+            "55",
+            "78",
+            "83"
+          ],
+          "explanation": "Rahmon surasi 78 oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Kâfirûn Sûresi kaç ayettir?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "Kâfirûn Sûresi altı ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Kofirun surasi necha oyat?",
+          "choices": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "explanation": "Kofirun surasi olti oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Leheb (Tebbet) Sûresi kaç ayettir?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Leheb Sûresi beş ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Lahab (Tabbat) surasi necha oyat?",
+          "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "explanation": "Lahab surasi besh oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Kadir Sûresi kaç ayettir?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "Kadir Sûresi beş ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qadr surasi necha oyat?",
+          "choices": [
+            "3",
+            "5",
+            "7",
+            "9"
+          ],
+          "explanation": "Qadr surasi besh oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Asr Sûresi kaç ayettir?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "Asr Sûresi üç ayettir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Asr surasi necha oyat?",
+          "choices": [
+            "3",
+            "5",
+            "7",
+            "9"
+          ],
+          "explanation": "Asr surasi uch oyatdir."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da adı geçen aşağıdaki kişilerden hangisi peygamberdir?",
+      "choices": [
+        "Karun",
+        "Firavun",
+        "Hz. Yûnus",
+        "Hâmân"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Yûnus'un adı Kur'an'da peygamber olarak geçer; adını taşıyan bir sure de vardır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda nomi zikr etilgan quyidagi shaxslardan qaysi biri payg'ambar?",
+          "choices": [
+            "Qorun",
+            "Fir'avn",
+            "Hazrati Yunus",
+            "Homon"
+          ],
+          "explanation": "Hazrati Yunusning nomi Qur'onda payg'ambar sifatida zikr etilgan; uning nomi bilan atalgan sura ham bor."
+        }
+      }
+    },
+    {
+      "text": "Hz. Süleyman'ın hikâyesinde konuşan karıncanın anlatıldığı sure hangisidir?",
+      "choices": [
+        "Kehf",
+        "Nahl",
+        "Sebe",
+        "Neml"
+      ],
+      "correct": 3,
+      "explanation": "Neml Sûresi'nde Hz. Süleyman ve karınca vadisi anlatılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Sulaymonning qissasida gapirgan chumoli hikoya qilingan sura qaysi?",
+          "choices": [
+            "Kahf",
+            "Nahl",
+            "Saba",
+            "Naml"
+          ],
+          "explanation": "Naml surasida Hazrati Sulaymon va chumolilar vodiysi hikoya qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Süleyman'a haber getiren kuş hangisidir?",
+      "choices": [
+        "Karga",
+        "Güvercin",
+        "Hüdhüd",
+        "Kartal"
+      ],
+      "correct": 2,
+      "explanation": "Hüdhüd, Sebe Melikesi'nin haberini Hz. Süleyman'a getirmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Sulaymonga xabar keltirgan qush qaysi?",
+          "choices": [
+            "Qarg'a",
+            "Kaptar",
+            "Hudhud",
+            "Burgut"
+          ],
+          "explanation": "Hudhud Saba malikasining xabarini Hazrati Sulaymonga keltirgan."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da kıssası anlatılan Sebe Melikesi'nin adı olarak bilinen isim hangisidir?",
+      "choices": [
+        "Zeynep",
+        "Belkıs",
+        "Hâcer",
+        "Âsiye"
+      ],
+      "correct": 1,
+      "explanation": "Sebe Melikesi gelenekte Belkıs olarak anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda qissasi hikoya qilingan Saba malikasining nomi sifatida mashhur bo'lgan ism qaysi?",
+          "choices": [
+            "Zaynab",
+            "Bilqis",
+            "Hojar",
+            "Osiya"
+          ],
+          "explanation": "Saba malikasi an'anada Bilqis deb ataladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Mûsâ'nın kardeşi ve yardımcısı olan peygamber kimdir?",
+      "choices": [
+        "Hz. Lût",
+        "Hz. Hârûn",
+        "Hz. Şuayb",
+        "Hz. İdrîs"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Hârûn, Hz. Mûsâ'nın kardeşidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Musoning ukasi va yordamchisi bo'lgan payg'ambar kim?",
+          "choices": [
+            "Hazrati Lut",
+            "Hazrati Horun",
+            "Hazrati Shuayb",
+            "Hazrati Idris"
+          ],
+          "explanation": "Hazrati Horun Hazrati Musoning akasi (ukasi)dir."
+        }
+      }
+    },
+    {
+      "text": "Hz. İbrâhim'in oğlu olup babasıyla Kâbe'yi inşa eden peygamber kimdir?",
+      "choices": [
+        "Hz. Yûsuf",
+        "Hz. İshâk",
+        "Hz. Yakûb",
+        "Hz. İsmâil"
+      ],
+      "correct": 3,
+      "explanation": "Hz. İbrâhim ve oğlu Hz. İsmâil Kâbe'yi yükseltmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ibrohimning o'g'li bo'lib, otasi bilan Ka'bani qurgan payg'ambar kim?",
+          "choices": [
+            "Hazrati Yusuf",
+            "Hazrati Ishoq",
+            "Hazrati Ya'qub",
+            "Hazrati Ismoil"
+          ],
+          "explanation": "Hazrati Ibrohim va uning o'g'li Hazrati Ismoil Ka'bani ko'targan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Eyyûb hangi özelliğiyle bilinir?",
+      "choices": [
+        "Gemisiyle",
+        "Ordusuyla",
+        "Asasıyla",
+        "Sabrıyla"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Eyyûb, ağır hastalık ve imtihanlara gösterdiği sabırla bilinir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ayyub qaysi xususiyati bilan tanilgan?",
+          "choices": [
+            "Kemasi bilan",
+            "Qo'shini bilan",
+            "Hassasi bilan",
+            "Sabri bilan"
+          ],
+          "explanation": "Hazrati Ayyub og'ir kasallik va sinovlarga ko'rsatgan sabri bilan tanilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Nûh'un gemisinin durduğu yer olarak Kur'an'da anılan dağ hangisidir?",
+      "choices": [
+        "Sevr",
+        "Cûdî",
+        "Tûr",
+        "Hira"
+      ],
+      "correct": 1,
+      "explanation": "Hûd Sûresi'nde gemi Cûdî üzerine oturmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda Hazrati Nuhning kemasi to'xtagan joy sifatida zikr etilgan tog' qaysi?",
+          "choices": [
+            "Savr",
+            "Judiy",
+            "Tur",
+            "Hiro"
+          ],
+          "explanation": "Hud surasida kema Judiy ustiga o'rnashgani zikr etilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Mûsâ'ya Tevrat hangi dağda verilmiştir?",
+      "choices": [
+        "Nur",
+        "Uhud",
+        "Arafat",
+        "Tûr"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Mûsâ Tûr-ı Sînâ'da vahiy almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Musoga Tavrot qaysi tog'da berilgan?",
+          "choices": [
+            "Nur",
+            "Uhud",
+            "Arafot",
+            "Tur"
+          ],
+          "explanation": "Hazrati Muso Tur-i Sinoda vahiy olgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Yûnus hangi canlının karnında kalmıştır?",
+      "choices": [
+        "Kuş",
+        "Yılan",
+        "Aslan",
+        "Balık"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Yûnus balığın karnında Allah'ı tesbih etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Yunus qaysi jonivorning qornida qolgan?",
+          "choices": [
+            "Qush",
+            "Ilon",
+            "Sher",
+            "Baliq"
+          ],
+          "explanation": "Hazrati Yunus baliqning qornida Allohni tasbeh qilgan."
+        }
+      }
+    },
+    {
+      "text": "Kıssası 'ahsenü'l-kasas' (kıssaların en güzeli) diye anılan peygamber kimdir?",
+      "choices": [
+        "Hz. Yûsuf",
+        "Hz. Hûd",
+        "Hz. Zekeriyyâ",
+        "Hz. İlyas"
+      ],
+      "correct": 0,
+      "explanation": "Yûsuf Sûresi'nde bu kıssa 'kıssaların en güzeli' diye anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qissasi 'ahsanul qasas' (qissalarning eng go'zali) deb ataladigan payg'ambar kim?",
+          "choices": [
+            "Hazrati Yusuf",
+            "Hazrati Hud",
+            "Hazrati Zakariyo",
+            "Hazrati Ilyos"
+          ],
+          "explanation": "Yusuf surasida bu qissa 'qissalarning eng go'zali' deb ataladi."
+        }
+      }
+    },
+    {
+      "text": "Rahmân Sûresi'nde sürekli tekrar edilen ayet hangi anlamdadır?",
+      "choices": [
+        "Zekâtı verin",
+        "Allah en büyüktür",
+        "Rabbinizin hangi nimetini yalanlarsınız?",
+        "Namazı dosdoğru kılın"
+      ],
+      "correct": 2,
+      "explanation": "Bu ayet surede defalarca tekrar edilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Rahmon surasida tez-tez takrorlanadigan oyat qanday ma'noda?",
+          "choices": [
+            "Zakot bering",
+            "Alloh eng buyukdir",
+            "Robbingizning qaysi ne'matini yolg'on deysiz?",
+            "Namozni to'liq o'qing"
+          ],
+          "explanation": "Bu oyat surada ko'p marta takrorlanadi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da 'iki besmele'nin bulunduğu sure hangisidir?",
+      "choices": [
+        "Neml",
+        "Tevbe",
+        "Hûd",
+        "Kehf"
+      ],
+      "correct": 0,
+      "explanation": "Neml Sûresi'nin başındaki besmeleye ek olarak 30. ayette Hz. Süleyman'ın mektubunda da geçer.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda 'ikki basmala' uchraydigan sura qaysi?",
+          "choices": [
+            "Naml",
+            "Tavba",
+            "Hud",
+            "Kahf"
+          ],
+          "explanation": "Naml surasining boshidagi basmalaga qo'shimcha 30-oyatda Hazrati Sulaymonning maktubida ham keladi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ın en uzun ayeti hangi konuyla ilgilidir?",
+      "choices": [
+        "Borçlanma ve yazılı kayıt",
+        "Oruç",
+        "Hac",
+        "Namaz"
+      ],
+      "correct": 0,
+      "explanation": "Bakara 282. ayet, borçlanma ve yazı yazma kurallarını anlatır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onning eng uzun oyati qaysi mavzuga oid?",
+          "choices": [
+            "Qarz olish va yozma qayd",
+            "Ro'za",
+            "Haj",
+            "Namoz"
+          ],
+          "explanation": "Baqara 282-oyat qarz va yozma qayd qoidalarini bayon etadi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da 'Ahmed' ismi hangi surede geçer?",
+      "choices": [
+        "Saff",
+        "Ahzâb",
+        "Fetih",
+        "Muhammed"
+      ],
+      "correct": 0,
+      "explanation": "Saff Sûresi 6. ayette Hz. Îsâ'nın 'Ahmed' adlı bir peygamber müjdelediği bildirilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda 'Ahmad' ismi qaysi surada keladi?",
+          "choices": [
+            "Saf",
+            "Ahzob",
+            "Fath",
+            "Muhammad"
+          ],
+          "explanation": "Saf surasi 6-oyatida Hazrati Iso 'Ahmad' ismli payg'ambarni xushxabar qilgani bildiriladi."
+        }
+      }
+    },
+    {
+      "text": "Zeyd b. Sâbit'in Kur'an'la ilgili görevi nedir?",
+      "choices": [
+        "Müezzinlik",
+        "Kadılık",
+        "Ordu komutanlığı",
+        "Vahiy kâtipliği ve cem"
+      ],
+      "correct": 3,
+      "explanation": "Zeyd b. Sâbit vahiy kâtiplerindendi ve mushafın toplanmasında görev almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Zayd ibn Sobitning Qur'on bilan bog'liq vazifasi nima?",
+          "choices": [
+            "Muazzinlik",
+            "Qozilik",
+            "Qo'shin sarkardaligi",
+            "Vahiy kotibi va jamlash"
+          ],
+          "explanation": "Zayd ibn Sobit vahiy kotiblaridan bo'lib, mushafni jamlashda ishtirok etgan."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ı baştan sona okuyup bitirmeye ne denir?",
+      "choices": [
+        "Hatim",
+        "Tecvid",
+        "Kıraat",
+        "Tilavet"
+      ],
+      "correct": 0,
+      "explanation": "Kur'an'ın tamamını okumaya hatim denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onni boshidan oxirigacha o'qib tugatishga nima deyiladi?",
+          "choices": [
+            "Xatm",
+            "Tajvid",
+            "Qiroat",
+            "Tilovat"
+          ],
+          "explanation": "Qur'onni to'liq o'qib chiqishga xatm deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an harflerini doğru ve güzel okuma ilmine ne ad verilir?",
+      "choices": [
+        "Tecvid",
+        "Kelam",
+        "Fıkıh",
+        "Hadis"
+      ],
+      "correct": 0,
+      "explanation": "Tecvid, harflerin mahreç ve sıfatlarına uygun okunmasını öğretir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'on harflarini to'g'ri va chiroyli o'qish ilmiga nima deyiladi?",
+          "choices": [
+            "Tajvid",
+            "Kalom",
+            "Fiqh",
+            "Hadis"
+          ],
+          "explanation": "Tajvid harflarning maxraj va sifatlariga mos o'qilishini o'rgatadi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ın ilk yazılı nüshalarını çoğaltan halife kimdir?",
+      "choices": [
+        "Hz. Muâviye",
+        "Hz. Osman",
+        "Hz. Ali",
+        "Hz. Ömer"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Osman, Hz. Ebû Bekir döneminde toplanan mushafı çoğaltmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onning dastlabki yozma nusxalarini ko'paytirgan xalifa kim?",
+          "choices": [
+            "Hazrati Muoviya",
+            "Hazrati Usmon",
+            "Hazrati Ali",
+            "Hazrati Umar"
+          ],
+          "explanation": "Hazrati Usmon Hazrati Abu Bakr davrida jamlangan mushafni ko'paytirgan."
+        }
+      }
+    },
+    {
+      "text": "Mushafın 'Ümmü'l-Kitâb' diye anılan suresi hangisidir?",
+      "choices": [
+        "İhlâs",
+        "Fâtiha",
+        "Bakara",
+        "Yâsîn"
+      ],
+      "correct": 1,
+      "explanation": "Fâtiha'ya 'Kitab'ın anası' anlamında Ümmü'l-Kitâb de denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mushafning 'Ummul kitob' deb ataladigan surasi qaysi?",
+          "choices": [
+            "Ixlos",
+            "Fotiha",
+            "Baqara",
+            "Yosin"
+          ],
+          "explanation": "Fotihaga 'Kitobning onasi' ma'nosida Ummul kitob ham deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Zekeriyyâ'nın oğlu olan peygamber kimdir?",
+      "choices": [
+        "Hz. Hârûn",
+        "Hz. Îsâ",
+        "Hz. Mûsâ",
+        "Hz. Yahyâ"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Zekeriyyâ'ya yaşlılığında oğlu Hz. Yahyâ müjdelenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Zakariyoning o'g'li bo'lgan payg'ambar kim?",
+          "choices": [
+            "Hazrati Horun",
+            "Hazrati Iso",
+            "Hazrati Muso",
+            "Hazrati Yahyo"
+          ],
+          "explanation": "Hazrati Zakariyoga keksaygan chog'ida o'g'li Hazrati Yahyo xushxabar qilingan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Îsâ'nın annesi olarak Kur'an'da adı geçen kişi kimdir?",
+      "choices": [
+        "Hacer",
+        "Hatice",
+        "Âsiye",
+        "Meryem"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Îsâ, Hz. Meryem'in oğludur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda Hazrati Isoning onasi sifatida nomi zikr etilgan zot kim?",
+          "choices": [
+            "Hojar",
+            "Xadicha",
+            "Osiya",
+            "Maryam"
+          ],
+          "explanation": "Hazrati Iso Hazrati Maryamning o'g'lidir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Îsâ'ya hangi kitap verilmiştir?",
+      "choices": [
+        "Suhuf",
+        "Tevrat",
+        "İncil",
+        "Zebûr"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Îsâ'ya İncil verilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Isoga qaysi kitob berilgan?",
+          "choices": [
+            "Suhuf",
+            "Tavrot",
+            "Injil",
+            "Zabur"
+          ],
+          "explanation": "Hazrati Isoga Injil berilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Mûsâ'ya verilen kitap hangisidir?",
+      "choices": [
+        "İncil",
+        "Tevrat",
+        "Zebûr",
+        "Furkân"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Mûsâ'ya Tevrat verilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Musoga berilgan kitob qaysi?",
+          "choices": [
+            "Injil",
+            "Tavrot",
+            "Zabur",
+            "Furqon"
+          ],
+          "explanation": "Hazrati Musoga Tavrot berilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. İbrâhim'e verilen sahifelere ne ad verilir?",
+      "choices": [
+        "Furkân",
+        "Suhuf",
+        "Zebûr",
+        "Mushaf"
+      ],
+      "correct": 1,
+      "explanation": "Hz. İbrâhim ve Hz. Mûsâ'ya suhuf (sahifeler) verilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ibrohimga berilgan sahifalarga nima deyiladi?",
+          "choices": [
+            "Furqon",
+            "Suhuf",
+            "Zabur",
+            "Mushaf"
+          ],
+          "explanation": "Hazrati Ibrohim va Hazrati Musoga suhuf (sahifalar) berilgan."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ın Furkân olarak anılmasının sebebi nedir?",
+      "choices": [
+        "Şiirle yazılmış olması",
+        "Çok kısa olması",
+        "Tek seferde inmesi",
+        "Hak ile batılı ayırması"
+      ],
+      "correct": 3,
+      "explanation": "Furkân, hak ile batılı ayıran demektir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onning Furqon deb atalishining sababi nima?",
+          "choices": [
+            "She'r bilan yozilgani",
+            "Juda qisqa bo'lishi",
+            "Bir yo'la nozil bo'lgani",
+            "Haq bilan botilni ajratishi"
+          ],
+          "explanation": "Furqon haq bilan botilni ajratuvchi demakdir."
+        }
+      }
+    },
+    {
+      "text": "Kur'an-ı Kerim'de en çok kıssası anlatılan peygamber kimdir?",
+      "choices": [
+        "Hz. Lût",
+        "Hz. Yûnus",
+        "Hz. Mûsâ",
+        "Hz. Nûh"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Mûsâ'nın adı Kur'an'da en çok geçen peygamber adıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda eng ko'p qissasi hikoya qilingan payg'ambar kim?",
+          "choices": [
+            "Hazrati Lut",
+            "Hazrati Yunus",
+            "Hazrati Muso",
+            "Hazrati Nuh"
+          ],
+          "explanation": "Hazrati Musoning nomi Qur'onda eng ko'p zikr etilgan payg'ambar nomidir."
+        }
+      }
+    },
+    {
+      "text": "Âd kavmine gönderilen peygamber kimdir?",
+      "choices": [
+        "Hz. Hûd",
+        "Hz. Şuayb",
+        "Hz. Lût",
+        "Hz. Sâlih"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Hûd, Âd kavmine peygamber olarak gönderilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Od qavmiga yuborilgan payg'ambar kim?",
+          "choices": [
+            "Hazrati Hud",
+            "Hazrati Shuayb",
+            "Hazrati Lut",
+            "Hazrati Solih"
+          ],
+          "explanation": "Hazrati Hud Od qavmiga payg'ambar qilib yuborilgan."
+        }
+      }
+    },
+    {
+      "text": "Semûd kavmine gönderilen ve dişi devenin mucizesiyle bilinen peygamber kimdir?",
+      "choices": [
+        "Hz. İdrîs",
+        "Hz. Hûd",
+        "Hz. Sâlih",
+        "Hz. Şuayb"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Sâlih'in mucizesi dağdan çıkan dişi devedir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Samud qavmiga yuborilgan va urg'ochi tuya mo'jizasi bilan tanilgan payg'ambar kim?",
+          "choices": [
+            "Hazrati Idris",
+            "Hazrati Hud",
+            "Hazrati Solih",
+            "Hazrati Shuayb"
+          ],
+          "explanation": "Hazrati Solihning mo'jizasi toshdan chiqqan urg'ochi tuyadir."
+        }
+      }
+    },
+    {
+      "text": "Medyen halkına gönderilen peygamber kimdir?",
+      "choices": [
+        "Hz. Sâlih",
+        "Hz. Hûd",
+        "Hz. Şuayb",
+        "Hz. İlyas"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Şuayb, Medyen halkına gönderilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madyan ahliga yuborilgan payg'ambar kim?",
+          "choices": [
+            "Hazrati Solih",
+            "Hazrati Hud",
+            "Hazrati Shuayb",
+            "Hazrati Ilyos"
+          ],
+          "explanation": "Hazrati Shuayb Madyan ahliga yuborilgan."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'a göre insanlığın ilk peygamberi olarak kabul edilen kişi kimdir?",
+      "choices": [
+        "Hz. Nûh",
+        "Hz. Âdem",
+        "Hz. İbrâhim",
+        "Hz. İdrîs"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Âdem ilk insan ve ilk peygamber kabul edilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'on va islomiy e'tiqodga ko'ra insoniyatning birinchi payg'ambari kim?",
+          "choices": [
+            "Hazrati Nuh",
+            "Hazrati Odam",
+            "Hazrati Ibrohim",
+            "Hazrati Idris"
+          ],
+          "explanation": "Hazrati Odam birinchi inson va birinchi payg'ambar hisoblanadi."
+        }
+      }
+    },
+    {
+      "text": "Mekke'de inen surelere ne denir?",
+      "choices": [
+        "Nâsih",
+        "Medenî",
+        "Mensûh",
+        "Mekkî"
+      ],
+      "correct": 3,
+      "explanation": "Hicretten önce inen surelere Mekkî denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Makkada nozil bo'lgan suralarga nima deyiladi?",
+          "choices": [
+            "Nosix",
+            "Madaniy",
+            "Mansux",
+            "Makkiy"
+          ],
+          "explanation": "Hijratdan oldin nozil bo'lgan suralarga Makkiy deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Medine'de inen surelere ne denir?",
+      "choices": [
+        "Medenî",
+        "Mekkî",
+        "Müteşâbih",
+        "Muhkem"
+      ],
+      "correct": 0,
+      "explanation": "Hicretten sonra inen surelere Medenî denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madinada nozil bo'lgan suralarga nima deyiladi?",
+          "choices": [
+            "Madaniy",
+            "Makkiy",
+            "Mutashobih",
+            "Muhkam"
+          ],
+          "explanation": "Hijratdan keyin nozil bo'lgan suralarga Madaniy deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Aşağıdaki surelerden hangisi Medenîdir?",
+      "choices": [
+        "Nisâ",
+        "Yûsuf",
+        "Fîl",
+        "Kevser"
+      ],
+      "correct": 0,
+      "explanation": "Nisâ Sûresi Medine'de inmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Quyidagi suralardan qaysi biri Madaniy?",
+          "choices": [
+            "Niso",
+            "Yusuf",
+            "Fil",
+            "Kavsar"
+          ],
+          "explanation": "Niso surasi Madinada nozil bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Aşağıdaki surelerden hangisi Mekkîdir?",
+      "choices": [
+        "Yûsuf",
+        "Nisâ",
+        "Mâide",
+        "Nasr"
+      ],
+      "correct": 0,
+      "explanation": "Yûsuf Sûresi Mekke döneminde inmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Quyidagi suralardan qaysi biri Makkiy?",
+          "choices": [
+            "Yusuf",
+            "Niso",
+            "Moida",
+            "Nasr"
+          ],
+          "explanation": "Yusuf surasi Makka davrida nozil bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Fetih Sûresi hangi olaydan sonra inmiştir?",
+      "choices": [
+        "Hudeybiye dönüşü",
+        "Hicret",
+        "Bedir Savaşı",
+        "İlk vahiy"
+      ],
+      "correct": 0,
+      "explanation": "Fetih Sûresi Hudeybiye'den dönerken inmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Fath surasi qaysi voqeadan keyin nozil bo'lgan?",
+          "choices": [
+            "Hudaybiyadan qaytishda",
+            "Hijrat",
+            "Badr jangi",
+            "Birinchi vahiy"
+          ],
+          "explanation": "Fath surasi Hudaybiyadan qaytayotganda nozil bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Abese Sûresi hangi sahabeyle ilgili olarak inmiştir?",
+      "choices": [
+        "Bilâl-i Habeşî",
+        "Ammâr b. Yâsir",
+        "Abdullah b. Ümmü Mektûm",
+        "Hz. Ebû Bekir"
+      ],
+      "correct": 2,
+      "explanation": "Abese Sûresi görme engelli sahabe Abdullah b. Ümmü Mektûm'la ilgilidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abasa surasi qaysi sahoba munosabati bilan nozil bo'lgan?",
+          "choices": [
+            "Bilol Habashiy",
+            "Ammor ibn Yosir",
+            "Abdulloh ibn Ummu Maktum",
+            "Hazrati Abu Bakr"
+          ],
+          "explanation": "Abasa surasi ko'zi ojiz sahoba Abdulloh ibn Ummu Maktum bilan bog'liq."
+        }
+      }
+    },
+    {
+      "text": "Nasr Sûresi Kur'an'ın hangi dönemine aittir?",
+      "choices": [
+        "Son inen surelerdendir",
+        "Bedir'dedir",
+        "İlk inen surelerdendir",
+        "Hicretten öncedir"
+      ],
+      "correct": 0,
+      "explanation": "Nasr Sûresi, inen son surelerdendir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Nasr surasi Qur'onning qaysi davriga mansub?",
+          "choices": [
+            "Oxirgi nozil bo'lgan suralardan",
+            "Badr vaqtida",
+            "Dastlabki nozil bo'lgan suralardan",
+            "Hijratdan oldin"
+          ],
+          "explanation": "Nasr surasi oxirgi nozil bo'lgan suralardandir."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da Zülkarneyn'in kıssası hangi surede anlatılır?",
+      "choices": [
+        "Neml",
+        "Kehf",
+        "Yûnus",
+        "Hûd"
+      ],
+      "correct": 1,
+      "explanation": "Zülkarneyn kıssası Kehf Sûresi'nde anlatılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Zulqarnayn qissasi qaysi surada hikoya qilinadi?",
+          "choices": [
+            "Naml",
+            "Kahf",
+            "Yunus",
+            "Hud"
+          ],
+          "explanation": "Zulqarnayn qissasi Kahf surasida hikoya qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da Hz. Mûsâ ile birlikte yolculuk eden ilim sahibi kul kim olarak anılır?",
+      "choices": [
+        "İlyas",
+        "Zülkifl",
+        "Lokmân",
+        "Hızır"
+      ],
+      "correct": 3,
+      "explanation": "Kehf Sûresi'nde Hz. Mûsâ'nın ilim sahibi bir kulla yolculuğu anlatılır; gelenekte Hızır diye anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda Hazrati Muso bilan birga safar qilgan ilm egasi banda kim deb ataladi?",
+          "choices": [
+            "Ilyos",
+            "Zulkifl",
+            "Luqmon",
+            "Xizr"
+          ],
+          "explanation": "Kahf surasida Hazrati Musoning ilm egasi bir banda bilan safari hikoya qilinadi; an'anada Xizr deb ataladi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da adı geçen Lokmân'ın oğluna verdiği öğütler hangi surede yer alır?",
+      "choices": [
+        "Lokmân",
+        "Hûd",
+        "Nûr",
+        "Kehf"
+      ],
+      "correct": 0,
+      "explanation": "Lokmân Sûresi'nde Lokmân'ın oğluna nasihatleri anlatılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Luqmonning o'g'liga bergan nasihatlari qaysi surada kelgan?",
+          "choices": [
+            "Luqmon",
+            "Hud",
+            "Nur",
+            "Kahf"
+          ],
+          "explanation": "Luqmon surasida Luqmonning o'g'liga nasihatlari hikoya qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da kadınların haklarını ve evlilik hükümlerini en geniş biçimde düzenleyen sure hangisidir?",
+      "choices": [
+        "Kamer",
+        "Fetih",
+        "Nisâ",
+        "Saff"
+      ],
+      "correct": 2,
+      "explanation": "Nisâ Sûresi, aile ve miras hükümleriyle bilinir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda ayollar huquqi va nikoh hukmlarini eng keng bayon etgan sura qaysi?",
+          "choices": [
+            "Qamar",
+            "Fath",
+            "Niso",
+            "Saf"
+          ],
+          "explanation": "Niso surasi oila va meros hukmlari bilan mashhur."
+        }
+      }
+    },
+    {
+      "text": "Miras hükümlerinin ayrıntılı anlatıldığı sure hangisidir?",
+      "choices": [
+        "Yâsîn",
+        "Nûr",
+        "Nisâ",
+        "Tevbe"
+      ],
+      "correct": 2,
+      "explanation": "Miras ayetleri Nisâ Sûresi'nin başında yer alır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Meros hukmlari batafsil bayon etilgan sura qaysi?",
+          "choices": [
+            "Yosin",
+            "Nur",
+            "Niso",
+            "Tavba"
+          ],
+          "explanation": "Meros oyatlari Niso surasining boshida keladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Îsâ'nın mucizelerinden biri olarak Kur'an'da bildirilen olay hangisidir?",
+      "choices": [
+        "Allah'ın izniyle ölüleri diriltmesi",
+        "Güneşi durdurması",
+        "Denizi yarması",
+        "Gemi yapması"
+      ],
+      "correct": 0,
+      "explanation": "Âl-i İmrân'da Hz. Îsâ'nın Allah'ın izniyle ölüleri diriltmesi anlatılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda Hazrati Isoning mo'jizalaridan biri sifatida bayon etilgan voqea qaysi?",
+          "choices": [
+            "Alloh izni bilan o'liklarni tiriltirishi",
+            "Quyoshni to'xtatishi",
+            "Dengizni yorishi",
+            "Kema yasashi"
+          ],
+          "explanation": "Oli Imronda Hazrati Isoning Alloh izni bilan o'liklarni tiriltirishi hikoya qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Mûsâ'nın en bilinen mucizelerinden biri hangisidir?",
+      "choices": [
+        "Gemiyi yapması",
+        "Asasının yılana dönüşmesi",
+        "Ateşin serinleşmesi",
+        "Karıncayla konuşması"
+      ],
+      "correct": 1,
+      "explanation": "Asasının yılana dönüşmesi Hz. Mûsâ'nın mucizelerindendir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Musoning eng mashhur mo'jizalaridan biri qaysi?",
+          "choices": [
+            "Kema yasashi",
+            "Hassasining ilonga aylanishi",
+            "Olovning sovib qolishi",
+            "Chumoli bilan gaplashishi"
+          ],
+          "explanation": "Hassasining ilonga aylanishi Hazrati Musoning mo'jizalaridandir."
+        }
+      }
+    },
+    {
+      "text": "Ateşin Hz. İbrâhim için serin ve selâmet olması hangi surede bildirilir?",
+      "choices": [
+        "Enbiyâ",
+        "Kehf",
+        "Meryem",
+        "Kâf"
+      ],
+      "correct": 0,
+      "explanation": "Enbiyâ Sûresi'nde ateşin serin ve selâmet olduğu bildirilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Olovning Hazrati Ibrohim uchun salqin va salomat bo'lgani qaysi surada bildiriladi?",
+          "choices": [
+            "Anbiyo",
+            "Kahf",
+            "Maryam",
+            "Qof"
+          ],
+          "explanation": "Anbiyo surasida olovning salqin va salomat bo'lgani bildiriladi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da kıssası anlatılan Ashâb-ı Uhdûd hangi surede geçer?",
+      "choices": [
+        "Burûc",
+        "Mâûn",
+        "Kehf",
+        "Fîl"
+      ],
+      "correct": 0,
+      "explanation": "Ashâb-ı Uhdûd, Burûc Sûresi'nde anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda qissasi hikoya qilingan Ashobi Uxdud qaysi surada keladi?",
+          "choices": [
+            "Buruj",
+            "Mo'un",
+            "Kahf",
+            "Fil"
+          ],
+          "explanation": "Ashobi Uxdud Buruj surasida zikr etiladi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da 'Bu Kur'an, doğrusu insanları en doğru yola iletir' mealindeki ayet hangi surede yer alır?",
+      "choices": [
+        "İsrâ",
+        "Fetih",
+        "Kamer",
+        "Kâf"
+      ],
+      "correct": 0,
+      "explanation": "Bu ayet İsrâ Sûresi'nde geçer.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda 'Albatta bu Qur'on insonlarni eng to'g'ri yo'lga boshlaydi' ma'nosidagi oyat qaysi surada keladi?",
+          "choices": [
+            "Isro",
+            "Fath",
+            "Qamar",
+            "Qof"
+          ],
+          "explanation": "Bu oyat Isro surasida keladi."
+        }
+      }
+    },
+    {
+      "text": "İsrâ Sûresi'nin konusu hangi olayla da bilinir?",
+      "choices": [
+        "Bedir Savaşı",
+        "Hendek",
+        "Hicret",
+        "Mescid-i Haram'dan Mescid-i Aksâ'ya gece yolculuğu"
+      ],
+      "correct": 3,
+      "explanation": "Sûrenin ilk ayeti İsrâ yolculuğunu bildirir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Isro surasi qaysi voqea bilan ham tanilgan?",
+          "choices": [
+            "Badr jangi",
+            "Xandaq",
+            "Hijrat",
+            "Masjidi Harom'dan Masjidi Aqsoga tungi safar"
+          ],
+          "explanation": "Surening birinchi oyati Isro safarini bildiradi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da 'mîzan' kavramı hangi surede öne çıkar?",
+      "choices": [
+        "Kâf",
+        "Felak",
+        "Rahmân",
+        "Asr"
+      ],
+      "correct": 2,
+      "explanation": "Rahmân Sûresi'nde adalet ve denge anlamında mîzan vurgulanır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda 'mezon' (tarozi) tushunchasi qaysi surada ajralib turadi?",
+          "choices": [
+            "Qof",
+            "Falaq",
+            "Rahmon",
+            "Asr"
+          ],
+          "explanation": "Rahmon surasida adolat va muvozanat ma'nosida mezon ta'kidlanadi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ın tamamını ezberleyen kişiye ne ad verilir?",
+      "choices": [
+        "Müezzin",
+        "Kadı",
+        "Kâtip",
+        "Hâfız"
+      ],
+      "correct": 3,
+      "explanation": "Kur'an'ı baştan sona ezbere bilen kişiye hâfız denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onni to'liq yod olgan kishiga nima deyiladi?",
+          "choices": [
+            "Muazzin",
+            "Qozi",
+            "Kotib",
+            "Hofiz"
+          ],
+          "explanation": "Qur'onni boshidan oxirigacha yod biladigan kishiga hofiz deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Secde ayetlerinin okunması veya dinlenmesi halinde yapılan ibadete ne denir?",
+      "choices": [
+        "Tilavet secdesi",
+        "Veda secdesi",
+        "Sehiv secdesi",
+        "Şükür secdesi"
+      ],
+      "correct": 0,
+      "explanation": "Secde ayetinde yapılan secdeye tilavet secdesi denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Sajda oyatlarini o'qish yoki eshitish chog'ida qilinadigan ibodatga nima deyiladi?",
+          "choices": [
+            "Tilovat sajdasi",
+            "Vido sajdasi",
+            "Sahv sajdasi",
+            "Shukr sajdasi"
+          ],
+          "explanation": "Sajda oyatida qilinadigan sajdaga tilovat sajdasi deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Bir ayetin hükmünün başka bir ayetle kaldırılmasına ne denir?",
+      "choices": [
+        "Tevil",
+        "Nesh",
+        "Kıraat",
+        "Tefsir"
+      ],
+      "correct": 1,
+      "explanation": "Hükmü kaldırılan ayete mensûh, kaldıran ayete nâsih denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Bir oyat hukmining boshqa oyat bilan bekor qilinishiga nima deyiladi?",
+          "choices": [
+            "Ta'vil",
+            "Naskh",
+            "Qiroat",
+            "Tafsir"
+          ],
+          "explanation": "Hukmi bekor qilingan oyatga mansux, bekor qilgan oyatga nosix deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an ayetlerinin açıklanması ilmine ne ad verilir?",
+      "choices": [
+        "Siyer",
+        "Kelam",
+        "Tefsir",
+        "Tecvid"
+      ],
+      "correct": 2,
+      "explanation": "Tefsir, Kur'an ayetlerini açıklayan ilimdir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'on oyatlarini sharhlash ilmiga nima deyiladi?",
+          "choices": [
+            "Siyar",
+            "Kalom",
+            "Tafsir",
+            "Tajvid"
+          ],
+          "explanation": "Tafsir Qur'on oyatlarini sharhlovchi ilmdir."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ın farklı okunuş biçimlerini inceleyen ilme ne denir?",
+      "choices": [
+        "Kıraat",
+        "Fıkıh",
+        "Tefsir",
+        "Hadis"
+      ],
+      "correct": 0,
+      "explanation": "Kıraat ilmi, Kur'an'ın farklı okunuş vecihlerini konu alır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onning turli o'qilish usullarini o'rganadigan ilmga nima deyiladi?",
+          "choices": [
+            "Qiroat",
+            "Fiqh",
+            "Tafsir",
+            "Hadis"
+          ],
+          "explanation": "Qiroat ilmi Qur'onning turli o'qilish usullarini o'rganadi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ın baş tarafındaki 'Elif-Lâm-Mîm' gibi harflere ne ad verilir?",
+      "choices": [
+        "Esmâ-i hüsnâ",
+        "Müteşâbih",
+        "Hurûf-ı mukattaa",
+        "Beyyine"
+      ],
+      "correct": 2,
+      "explanation": "Bazı surelerin başındaki bu harflere hurûf-ı mukattaa denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ba'zi suralar boshidagi 'Alif-Lom-Mim' kabi harflarga nima deyiladi?",
+          "choices": [
+            "Asmoi husno",
+            "Mutashobih",
+            "Huruf-i muqatta'a",
+            "Bayyina"
+          ],
+          "explanation": "Ba'zi suralar boshidagi bu harflarga huruf-i muqatta'a deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Muhammed'in (s.a.v.) mucizesi olarak en çok öne çıkarılan şey nedir?",
+      "choices": [
+        "Asa",
+        "Gemi",
+        "Kur'an-ı Kerim",
+        "Ateşin serinliği"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Peygamber'in en büyük ve kalıcı mucizesi Kur'an'dır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Muhammadning (s.a.v.) mo'jizasi sifatida eng ko'p ta'kidlanadigan narsa nima?",
+          "choices": [
+            "Hassa",
+            "Kema",
+            "Qur'oni karim",
+            "Olovning salqinligi"
+          ],
+          "explanation": "Payg'ambarimizning eng buyuk va abadiy mo'jizasi Qur'ondir."
+        }
+      }
+    },
+    {
+      "text": "Kur'an ilk defa hangi ayda 'indirilmiş' olarak bildirilir?",
+      "choices": [
+        "Ramazan",
+        "Receb",
+        "Muharrem",
+        "Şaban"
+      ],
+      "correct": 0,
+      "explanation": "Bakara 185'te Kur'an'ın Ramazan ayında indirildiği bildirilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'on birinchi bo'lib qaysi oyda 'nozil qilingan' deb bildiriladi?",
+          "choices": [
+            "Ramazon",
+            "Rajab",
+            "Muharram",
+            "Sha'bon"
+          ],
+          "explanation": "Baqara 185-oyatda Qur'onning Ramazon oyida nozil qilingani bildiriladi."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'da Hz. Peygamber'in ahlâkı hakkında 'Sen elbette yüce bir ahlâk üzerindesin' mealindeki ayet hangi surede geçer?",
+      "choices": [
+        "Nûr",
+        "Kâf",
+        "Kalem",
+        "Tâhâ"
+      ],
+      "correct": 2,
+      "explanation": "Kalem Sûresi 4. ayette bu ifade yer alır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onda Payg'ambarimiz xulqi haqida 'Sen albatta ulug' xulq ustidasan' ma'nosidagi oyat qaysi surada keladi?",
+          "choices": [
+            "Nur",
+            "Qof",
+            "Qalam",
+            "Toha"
+          ],
+          "explanation": "Qalam surasi 4-oyatda bu ibora keladi."
+        }
+      }
+    },
+    {
+      "text": "Aşağıdaki surelerden hangisi doğrudan bir peygamberin adını taşır?",
+      "choices": [
+        "Kehf",
+        "Yûsuf",
+        "Nahl",
+        "Hac"
+      ],
+      "correct": 1,
+      "explanation": "Yûsuf, Hûd, Nûh, İbrâhim, Muhammed gibi sureler bir peygamberin adını taşır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Quyidagi suralardan qaysi biri to'g'ridan-to'g'ri bir payg'ambarning nomini olgan?",
+          "choices": [
+            "Kahf",
+            "Yusuf",
+            "Nahl",
+            "Haj"
+          ],
+          "explanation": "Yusuf, Hud, Nuh, Ibrohim, Muhammad kabi suralar payg'ambar nomini olgan."
+        }
+      }
     }
   ]
 }

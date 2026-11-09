@@ -520,6 +520,2166 @@
         }
       },
       "level": 2
+    },
+    {
+      "text": "Peygamberimiz'in hanımı olan Hz. Hafsa kimin kızıdır?",
+      "choices": [
+        "Hz. Ebû Bekir",
+        "Hz. Ali",
+        "Hz. Ömer",
+        "Hz. Osman"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Hafsa, Hz. Ömer'in kızıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning ayoli Hazrati Hafsa kimning qizi?",
+          "choices": [
+            "Hazrati Abu Bakr",
+            "Hazrati Ali",
+            "Hazrati Umar",
+            "Hazrati Usmon"
+          ],
+          "explanation": "Hazrati Hafsa Hazrati Umarning qizidir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Bekir'in asıl (öz) adı nedir?",
+      "choices": [
+        "Ali",
+        "Osman",
+        "Abdullah",
+        "Ömer"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ebû Bekir'in asıl adı Abdullah b. Ebî Kuhâfe'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakrning asl ismi nima?",
+          "choices": [
+            "Ali",
+            "Usmon",
+            "Abdulloh",
+            "Umar"
+          ],
+          "explanation": "Hazrati Abu Bakrning asl ismi Abdulloh ibn Abu Quhofadir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hatice'nin lakabı nedir?",
+      "choices": [
+        "Sıddîka",
+        "Fârûk",
+        "Tâhire",
+        "Zehrâ"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Hatice 'Tâhire' (tertemiz) lakabıyla anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Xadichaning laqabi nima?",
+          "choices": [
+            "Siddiqa",
+            "Foruq",
+            "Tohira",
+            "Zahro"
+          ],
+          "explanation": "Hazrati Xadicha 'Tohira' (pokiza) laqabi bilan ataladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Fâtıma'nın lakabı nedir?",
+      "choices": [
+        "Sıddîka",
+        "Zehrâ",
+        "Tâhire",
+        "Habîbe"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Fâtıma'ya 'Zehrâ' lakabı verilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Fotimaning laqabi nima?",
+          "choices": [
+            "Siddiqa",
+            "Zahro",
+            "Tohira",
+            "Habiba"
+          ],
+          "explanation": "Hazrati Fotimaga 'Zahro' laqabi berilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Osman'ın, Peygamberimiz'in hangi iki kızıyla evlendiği bilinir?",
+      "choices": [
+        "Zeynep ve Fâtıma",
+        "Rukiyye ve Ümmü Gülsüm",
+        "Zeynep ve Rukiyye",
+        "Fâtıma ve Ümmü Gülsüm"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Osman önce Rukiyye ile, onun vefatından sonra Ümmü Gülsüm ile evlenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Usmon Payg'ambarimizning qaysi ikki qiziga uylangani ma'lum?",
+          "choices": [
+            "Zaynab va Fotima",
+            "Ruqayya va Ummu Kulsum",
+            "Zaynab va Ruqayya",
+            "Fotima va Ummu Kulsum"
+          ],
+          "explanation": "Hazrati Usmon avval Ruqayyaga, uning vafotidan keyin Ummu Kulsumga uylangan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hasan ve Hz. Hüseyin için Peygamberimiz hangi ifadeyi kullanmıştır?",
+      "choices": [
+        "Mescidin direkleri",
+        "Ümmetin âlimleri",
+        "Cennet gençlerinin efendileri",
+        "Ensârın büyükleri"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz onları 'cennet gençlerinin efendileri' diye anmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz Hazrati Hasan va Husayn uchun qanday iborani ishlatgan?",
+          "choices": [
+            "Masjid ustunlari",
+            "Ummatning olimlari",
+            "Jannat yoshlarining sarvarlari",
+            "Ansorning kattalari"
+          ],
+          "explanation": "Payg'ambarimiz ularni 'jannat yoshlarining sarvarlari' deb atagan."
+        }
+      }
+    },
+    {
+      "text": "'Peygamberimiz'in hizmetçisi' olarak bilinen ve uzun yıllar ona hizmet eden sahabi kimdir?",
+      "choices": [
+        "Zeyd b. Sâbit",
+        "Enes b. Mâlik",
+        "Ebû Hüreyre",
+        "Abdullah b. Mes'ud"
+      ],
+      "correct": 1,
+      "explanation": "Enes b. Mâlik, çocuk yaştan itibaren yaklaşık on yıl Peygamberimiz'e hizmet etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Payg'ambarimizning xizmatkori' deb tanilgan va uzoq yillar unga xizmat qilgan sahoba kim?",
+          "choices": [
+            "Zayd ibn Sobit",
+            "Anas ibn Molik",
+            "Abu Hurayra",
+            "Abdulloh ibn Mas'ud"
+          ],
+          "explanation": "Anas ibn Molik bolaligidan taxminan o'n yil Payg'ambarimizga xizmat qilgan."
+        }
+      }
+    },
+    {
+      "text": "'Ümmetin Emîni' (güvenilir kişisi) lakabıyla anılan sahabi kimdir?",
+      "choices": [
+        "Zübeyr b. Avvâm",
+        "Ebû Ubeyde b. Cerrâh",
+        "Sa'd b. Ebî Vakkâs",
+        "Talha b. Ubeydullah"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz Ebû Ubeyde'ye 'bu ümmetin emîni' demiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Ummatning Omini' (ishonchli kishisi) laqabi bilan ataladigan sahoba kim?",
+          "choices": [
+            "Zubayr ibn Avvom",
+            "Abu Ubayda ibn Jarroh",
+            "Sa'd ibn Abu Vaqqos",
+            "Talha ibn Ubaydulloh"
+          ],
+          "explanation": "Payg'ambarimiz Abu Ubaydaga 'bu ummatning omini' degan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Âişe hangi alanda öne çıkmış bir sahabedir?",
+      "choices": [
+        "Denizcilikte",
+        "Hadis ve fıkıh ilminde",
+        "Ticarette",
+        "Askerî komutanlıkta"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Âişe, çok sayıda hadis rivayet etmiş ve fetva vermiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Oisha qaysi sohada ajralib turgan sahobiy ayol?",
+          "choices": [
+            "Dengizchilikda",
+            "Hadis va fiqh ilmida",
+            "Savdoda",
+            "Harbiy sarkardalikda"
+          ],
+          "explanation": "Hazrati Oisha ko'p hadis rivoyat qilgan va fatvo bergan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Zeyd b. Hârise ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Hz. Ömer'in kardeşidir",
+        "Mekke'nin fatihidir",
+        "Kur'an'da adı geçen tek sahabîdir",
+        "Habeşistan elçisidir"
+      ],
+      "correct": 2,
+      "explanation": "Zeyd b. Hârise'nin adı Ahzâb Sûresi'nde geçer.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Zayd ibn Horisa haqida quyidagilardan qaysi biri to'g'ri?",
+          "choices": [
+            "Hazrati Umarning ukasidir",
+            "Makkaning fotihidir",
+            "Qur'onda nomi zikr etilgan yagona sahobiydir",
+            "Habashiston elchisidir"
+          ],
+          "explanation": "Zayd ibn Horisaning nomi Ahzob surasida zikr etilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in Müslüman olmasında Peygamberimiz'in hangi duası etkili olmuştur?",
+      "choices": [
+        "Savaş duası",
+        "İslâm'ı iki Ömer'den biriyle güçlendirmesi",
+        "Rüzgâr duası",
+        "Sevgi duası"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz 'Allah'ım İslâm'ı iki Ömer'den biriyle güçlendir' diye dua etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umarning musulmon bo'lishida Payg'ambarimizning qaysi duosi ta'sir qilgan?",
+          "choices": [
+            "Urush duosi",
+            "Islomni ikki Umardan biri bilan kuchaytirishi",
+            "Shamol duosi",
+            "Muhabbat duosi"
+          ],
+          "explanation": "Payg'ambarimiz 'Ey Alloh, Islomni ikki Umardan biri bilan kuchaytir' deb duo qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Bekir, Tebük Seferi'nde Peygamberimiz'e ne kadar mal getirmiştir?",
+      "choices": [
+        "Yarısını",
+        "Onda birini",
+        "Üçte birini",
+        "Malının tamamını"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Ebû Bekir malının tamamını getirmiş, 'Ehlime Allah ve Resûlü'nü bıraktım' demiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakr Tabuk yurishida Payg'ambarimizga qancha mol keltirgan?",
+          "choices": [
+            "Yarmini",
+            "O'ndan birini",
+            "Uchdan birini",
+            "Molining hammasini"
+          ],
+          "explanation": "Hazrati Abu Bakr molining hammasini keltirib, 'Ahlimga Alloh va Rasulini qoldirdim' degan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer, Tebük Seferi'nde malının ne kadarını getirmiştir?",
+      "choices": [
+        "Onda birini",
+        "Tamamını",
+        "Yarısını",
+        "Hiçbirini"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ömer malının yarısını getirmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar Tabuk yurishida molining qancha qismini keltirgan?",
+          "choices": [
+            "O'ndan birini",
+            "Hammasini",
+            "Yarmini",
+            "Hech birini"
+          ],
+          "explanation": "Hazrati Umar molining yarmini keltirgan."
+        }
+      }
+    },
+    {
+      "text": "Medine'de Rûme Kuyusu'nu satın alıp Müslümanlara vakfeden sahabi kimdir?",
+      "choices": [
+        "Ebû Zerr",
+        "Hz. Osman",
+        "Hz. Ömer",
+        "Hz. Ali"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Osman Rûme Kuyusu'nu satın alıp Müslümanların kullanımına bırakmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madinada Ruma quduqini sotib olib musulmonlarga vaqf qilgan sahoba kim?",
+          "choices": [
+            "Abu Zarr",
+            "Hazrati Usmon",
+            "Hazrati Umar",
+            "Hazrati Ali"
+          ],
+          "explanation": "Hazrati Usmon Ruma quduqini sotib olib musulmonlar foydalanishiga qoldirgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Zerr el-Gıfârî hangi özelliğiyle bilinir?",
+      "choices": [
+        "Kâtiplik",
+        "Ticaret",
+        "Askerî komutanlık",
+        "Zühd ve sadelik"
+      ],
+      "correct": 3,
+      "explanation": "Ebû Zerr, sade yaşamı ve doğruluğuyla meşhurdur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Zarr al-G'iforiy qaysi xususiyati bilan tanilgan?",
+          "choices": [
+            "Kotiblik",
+            "Savdo",
+            "Harbiy sarkardalik",
+            "Zuhd va oddiylik"
+          ],
+          "explanation": "Abu Zarr oddiy hayoti va to'g'riligi bilan mashhur."
+        }
+      }
+    },
+    {
+      "text": "Mushaf'ın ilk nüshasının Hz. Ebû Bekir'den sonra muhafaza edildiği hanım sahabi kimdir?",
+      "choices": [
+        "Hz. Hafsa",
+        "Hz. Sevde",
+        "Hz. Fâtıma",
+        "Hz. Âişe"
+      ],
+      "correct": 0,
+      "explanation": "Toplanan sahifeler Hz. Ömer'den sonra Hz. Hafsa'da saklanmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mushafning dastlabki nusxasi Hazrati Abu Bakrdan keyin saqlangan ayol sahoba kim?",
+          "choices": [
+            "Hazrati Hafsa",
+            "Hazrati Savda",
+            "Hazrati Fotima",
+            "Hazrati Oisha"
+          ],
+          "explanation": "Jamlangan sahifalar Hazrati Umardan keyin Hazrati Hafsada saqlangan."
+        }
+      }
+    },
+    {
+      "text": "Abdullah b. Abbâs hangi alandaki bilgisiyle meşhurdur?",
+      "choices": [
+        "Denizcilik",
+        "Ticaret",
+        "Mimarlık",
+        "Tefsir"
+      ],
+      "correct": 3,
+      "explanation": "Abdullah b. Abbâs 'Tercümânü'l-Kur'ân' (Kur'an'ın tercümanı) diye anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abdulloh ibn Abbos qaysi sohadagi bilimi bilan mashhur?",
+          "choices": [
+            "Dengizchilik",
+            "Savdo",
+            "Me'morchilik",
+            "Tafsir"
+          ],
+          "explanation": "Abdulloh ibn Abbos 'Tarjimonul Qur'on' (Qur'onning tarjimoni) deb ataladi."
+        }
+      }
+    },
+    {
+      "text": "Abdullah b. Mes'ûd, Mekke'de ilk kimdir ki Kur'an'ı müşriklerin yanında yüksek sesle okumuştur?",
+      "choices": [
+        "Mus'ab b. Umeyr",
+        "Habbâb b. Eret",
+        "Ammâr b. Yâsir",
+        "Abdullah b. Mes'ûd"
+      ],
+      "correct": 3,
+      "explanation": "Abdullah b. Mes'ûd, Kâbe'nin yanında Kur'an'ı yüksek sesle okuyan ilk sahabidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Makkada Qur'onni mushriklar oldida baland ovozda birinchi o'qigan sahoba kim?",
+          "choices": [
+            "Mus'ab ibn Umayr",
+            "Xabbob ibn Arat",
+            "Ammor ibn Yosir",
+            "Abdulloh ibn Mas'ud"
+          ],
+          "explanation": "Abdulloh ibn Mas'ud Ka'ba yonida Qur'onni baland ovozda o'qigan birinchi sahobadir."
+        }
+      }
+    },
+    {
+      "text": "Muâz b. Cebel, Peygamberimiz tarafından hangi bölgeye gönderilmiştir?",
+      "choices": [
+        "Yemen",
+        "Mısır",
+        "Habeşistan",
+        "Şam"
+      ],
+      "correct": 0,
+      "explanation": "Muâz b. Cebel, Yemen'e kadı ve muallim olarak gönderilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Muoz ibn Jabal Payg'ambarimiz tomonidan qaysi hududga yuborilgan?",
+          "choices": [
+            "Yaman",
+            "Misr",
+            "Habashiston",
+            "Shom"
+          ],
+          "explanation": "Muoz ibn Jabal Yamanga qozi va muallim sifatida yuborilgan."
+        }
+      }
+    },
+    {
+      "text": "Übey b. Kâ'b hangi alandaki üstünlüğüyle tanınır?",
+      "choices": [
+        "Kur'an kıraati",
+        "Ok atma",
+        "Denizcilik",
+        "Ticaret"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz Übey b. Kâ'b'ı Kur'an'ı en iyi okuyanlardan biri olarak anmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ubay ibn Ka'b qaysi sohadagi ustunligi bilan tanilgan?",
+          "choices": [
+            "Qur'on qiroati",
+            "O'q otish",
+            "Dengizchilik",
+            "Savdo"
+          ],
+          "explanation": "Payg'ambarimiz Ubay ibn Ka'bni Qur'onni eng yaxshi o'qiganlardan biri sifatida zikr etgan."
+        }
+      }
+    },
+    {
+      "text": "Talha b. Ubeydullah, Uhud Savaşı'nda neyle ön plana çıkmıştır?",
+      "choices": [
+        "Peygamberimiz'i vücuduyla korumasıyla",
+        "Okçu komutanlığıyla",
+        "Sancaktarlığıyla",
+        "Şiir okumasıyla"
+      ],
+      "correct": 0,
+      "explanation": "Talha, Uhud'da Peygamberimiz'i koruyarak yaralanmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Talha ibn Ubaydulloh Uhud jangida nima bilan ajralib turgan?",
+          "choices": [
+            "Payg'ambarimizni tanasi bilan himoya qilishi bilan",
+            "Merganlar sarkardaligi bilan",
+            "Bayroqdorligi bilan",
+            "She'r o'qishi bilan"
+          ],
+          "explanation": "Talha Uhudda Payg'ambarimizni himoya qilib yaralangan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in 'havârîsi' diye andığı sahabi kimdir?",
+      "choices": [
+        "Zübeyr b. Avvâm",
+        "Sa'd b. Ebî Vakkâs",
+        "Halid b. Velid",
+        "Abdurrahman b. Avf"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz, 'Her peygamberin bir havârîsi vardır, benim havârîm Zübeyr'dir' buyurmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz 'havoriysi' deb ataganligi sahoba kim?",
+          "choices": [
+            "Zubayr ibn Avvom",
+            "Sa'd ibn Abu Vaqqos",
+            "Xolid ibn Valid",
+            "Abdurahmon ibn Avf"
+          ],
+          "explanation": "Payg'ambarimiz: 'Har bir payg'ambarning havoriysi bor, mening havoriyim Zubayrdir' degan."
+        }
+      }
+    },
+    {
+      "text": "Kadisiye Savaşı'nda İslâm ordusunun komutanı kimdir?",
+      "choices": [
+        "Halid b. Velid",
+        "Sa'd b. Ebî Vakkâs",
+        "Amr b. Âs",
+        "Ebû Ubeyde"
+      ],
+      "correct": 1,
+      "explanation": "Kadisiye'de komutan Sa'd b. Ebî Vakkâs'tır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qodisiya jangida Islom qo'shinining sarkardasi kim?",
+          "choices": [
+            "Xolid ibn Valid",
+            "Sa'd ibn Abu Vaqqos",
+            "Amr ibn Os",
+            "Abu Ubayda"
+          ],
+          "explanation": "Qodisiyada sarkarda Sa'd ibn Abu Vaqqosdir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer döneminde Mısır'ın fatihi olarak bilinen sahabi kimdir?",
+      "choices": [
+        "Halid b. Velid",
+        "Amr b. Âs",
+        "Ebû Ubeyde",
+        "Sa'd b. Ebî Vakkâs"
+      ],
+      "correct": 1,
+      "explanation": "Mısır'ı Amr b. Âs fethetmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar davrida Misrning fotihi sifatida tanilgan sahoba kim?",
+          "choices": [
+            "Xolid ibn Valid",
+            "Amr ibn Os",
+            "Abu Ubayda",
+            "Sa'd ibn Abu Vaqqos"
+          ],
+          "explanation": "Misrni Amr ibn Os fath etgan."
+        }
+      }
+    },
+    {
+      "text": "Suriye'nin fethinde önemli rol alan ve 'Ümmetin Emîni' olarak bilinen komutan kimdir?",
+      "choices": [
+        "Zeyd b. Hârise",
+        "Mus'ab b. Umeyr",
+        "Bilâl-i Habeşî",
+        "Ebû Ubeyde b. Cerrâh"
+      ],
+      "correct": 3,
+      "explanation": "Ebû Ubeyde, Suriye'nin fethinde başkomutan olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Shomning fathida muhim rol olgan va 'Ummatning Omini' deb tanilgan sarkarda kim?",
+          "choices": [
+            "Zayd ibn Horisa",
+            "Mus'ab ibn Umayr",
+            "Bilol Habashiy",
+            "Abu Ubayda ibn Jarroh"
+          ],
+          "explanation": "Abu Ubayda Shomning fathida bosh sarkarda bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Esmâ bint Ebî Bekir hangi lakapla anılır?",
+      "choices": [
+        "Tâhire",
+        "Zehrâ",
+        "Sıddîka",
+        "Zâtü'n-Nitâkayn"
+      ],
+      "correct": 3,
+      "explanation": "Hicret yolculuğunda belindeki kuşağı ikiye bölüp azık bağladığı için bu lakabı almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Asmo binti Abu Bakr qaysi laqab bilan ataladi?",
+          "choices": [
+            "Tohira",
+            "Zahro",
+            "Siddiqa",
+            "Zotun nitoqayn"
+          ],
+          "explanation": "Hijrat safarida belbog'ini ikkiga bo'lib, ozuqa bog'lagani uchun bu laqabni olgan."
+        }
+      }
+    },
+    {
+      "text": "Medine'de Muhâcirler arasında doğan ilk çocuk kimdir?",
+      "choices": [
+        "Hüseyin",
+        "Hasan",
+        "Abdullah b. Zübeyr",
+        "Abdullah b. Abbâs"
+      ],
+      "correct": 2,
+      "explanation": "Hicretten sonra Muhâcirlerin ilk doğan çocuğu Abdullah b. Zübeyr'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madinada muhojirlar orasida tug'ilgan birinchi bola kim?",
+          "choices": [
+            "Husayn",
+            "Hasan",
+            "Abdulloh ibn Zubayr",
+            "Abdulloh ibn Abbos"
+          ],
+          "explanation": "Hijratdan keyin muhojirlarning birinchi tug'ilgan farzandi Abdulloh ibn Zubayrdir."
+        }
+      }
+    },
+    {
+      "text": "Uhud'da Peygamberimiz'i savunan kadın sahabi kimdir?",
+      "choices": [
+        "Hz. Sevde",
+        "Hz. Fâtıma",
+        "Hz. Hatice",
+        "Ümmü Ammâre (Nesîbe)"
+      ],
+      "correct": 3,
+      "explanation": "Ümmü Ammâre, Uhud'da Peygamberimiz'i koruyanlar arasında yer almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Uhudda Payg'ambarimizni himoya qilgan ayol sahoba kim?",
+          "choices": [
+            "Hazrati Savda",
+            "Hazrati Fotima",
+            "Hazrati Xadicha",
+            "Ummu Ammora (Nusayba)"
+          ],
+          "explanation": "Ummu Ammora Uhudda Payg'ambarimizni himoya qilganlar orasida bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Kur'an'ın ilk defa toplanması için Zeyd b. Sâbit'i görevlendiren halife kimdir?",
+      "choices": [
+        "Hz. Muâviye",
+        "Hz. Ali",
+        "Hz. Ebû Bekir",
+        "Hz. Osman"
+      ],
+      "correct": 2,
+      "explanation": "Kur'an'ın toplanması görevini Hz. Ebû Bekir, Zeyd b. Sâbit'e vermiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qur'onning birinchi marta jamlanishi uchun Zayd ibn Sobitni vazifalantirgan xalifa kim?",
+          "choices": [
+            "Hazrati Muoviya",
+            "Hazrati Ali",
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon"
+          ],
+          "explanation": "Qur'onning jamlanish vazifasini Hazrati Abu Bakr Zayd ibn Sobitga topshirgan."
+        }
+      }
+    },
+    {
+      "text": "Ebû Hüreyre'nin lakabı olan 'Hüreyre' hangi anlama gelir?",
+      "choices": [
+        "Küçük kedi",
+        "Güneş",
+        "Yıldız",
+        "Aslan"
+      ],
+      "correct": 0,
+      "explanation": "Ebû Hüreyre, 'küçük kedinin babası' anlamındaki lakabıyla anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abu Hurayraning laqabi bo'lgan 'Hurayra' qanday ma'noni anglatadi?",
+          "choices": [
+            "Kichik mushuk",
+            "Quyosh",
+            "Yulduz",
+            "Sher"
+          ],
+          "explanation": "Abu Hurayra 'kichik mushukning otasi' ma'nosidagi laqabi bilan ataladi."
+        }
+      }
+    },
+    {
+      "text": "Habeşistan'a ilk hicret eden Müslüman çiftlerden biri hangisidir?",
+      "choices": [
+        "Hz. Osman ve Rukiyye",
+        "Hz. Ebû Bekir ve Âişe",
+        "Hz. Ali ve Fâtıma",
+        "Hz. Ömer ve Hafsa"
+      ],
+      "correct": 0,
+      "explanation": "Habeşistan'a ilk hicret edenler arasında Hz. Osman ve Hz. Rukiyye vardır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Habashistonga birinchi hijrat qilgan musulmon juftliklaridan biri qaysi?",
+          "choices": [
+            "Hazrati Usmon va Ruqayya",
+            "Hazrati Abu Bakr va Oisha",
+            "Hazrati Ali va Fotima",
+            "Hazrati Umar va Hafsa"
+          ],
+          "explanation": "Habashistonga birinchi hijrat qilganlar orasida Hazrati Usmon va Hazrati Ruqayya bor."
+        }
+      }
+    },
+    {
+      "text": "Habeşistan'da Necâşî'ye Meryem Sûresi'ni okuyan sahabi kimdir?",
+      "choices": [
+        "Ebû Zerr",
+        "Mus'ab b. Umeyr",
+        "Cafer b. Ebû Tâlib",
+        "Ammâr b. Yâsir"
+      ],
+      "correct": 2,
+      "explanation": "Cafer, Necâşî'nin huzurunda Meryem Sûresi'nin ayetlerini okumuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Habashistonda Najoshiy huzurida Maryam surasini o'qigan sahoba kim?",
+          "choices": [
+            "Abu Zarr",
+            "Mus'ab ibn Umayr",
+            "Ja'far ibn Abu Tolib",
+            "Ammor ibn Yosir"
+          ],
+          "explanation": "Ja'far Najoshiy huzurida Maryam surasi oyatlarini o'qigan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Bilâl, Peygamberimiz'in vefatından sonra hangi bölgeye gitmiştir?",
+      "choices": [
+        "Mısır",
+        "Yemen",
+        "Şam",
+        "Mekke"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Bilâl, Peygamberimiz'in vefatından sonra ezan okuyamamış ve Şam'a gitmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Bilol Payg'ambarimiz vafotidan keyin qaysi hududga ketgan?",
+          "choices": [
+            "Misr",
+            "Yaman",
+            "Shom",
+            "Makka"
+          ],
+          "explanation": "Hazrati Bilol Payg'ambarimiz vafotidan keyin azon ayta olmagan va Shomga ketgan."
+        }
+      }
+    },
+    {
+      "text": "Ammâr b. Yâsir'in annesi ve Müslümanlıkta ilk şehit olan kadın kimdir?",
+      "choices": [
+        "Hafsa",
+        "Sümeyye",
+        "Hatice",
+        "Sevde"
+      ],
+      "correct": 1,
+      "explanation": "Sümeyye, Ebû Cehil'in işkencesiyle şehit edilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ammor ibn Yosirning onasi va Islomda birinchi shahid bo'lgan ayol kim?",
+          "choices": [
+            "Hafsa",
+            "Sumayya",
+            "Xadicha",
+            "Savda"
+          ],
+          "explanation": "Sumayya Abu Jahlning qiynoqlari bilan shahid qilingan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hamza hangi lakapla anılır?",
+      "choices": [
+        "Zinnûreyn",
+        "Esedullah (Allah'ın aslanı)",
+        "Seyfullah",
+        "Fârûk"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Hamza 'Allah'ın ve Resûlü'nün aslanı' diye anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Hamza qaysi laqab bilan ataladi?",
+          "choices": [
+            "Zunnurayn",
+            "Asadulloh (Allohning sheri)",
+            "Sayfulloh",
+            "Foruq"
+          ],
+          "explanation": "Hazrati Hamza 'Alloh va Rasulining sheri' deb ataladi."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in amcası Hz. Abbas hangi savaşta esir düşmüştür?",
+      "choices": [
+        "Hendek",
+        "Bedir",
+        "Hayber",
+        "Uhud"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Abbas, Bedir Savaşı'nda müşriklerin safında esir düşmüş, sonra Müslüman olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning amakisi Hazrati Abbos qaysi jangda asir tushgan?",
+          "choices": [
+            "Xandaq",
+            "Badr",
+            "Xayber",
+            "Uhud"
+          ],
+          "explanation": "Hazrati Abbos Badr jangida mushriklar safida asir tushgan, keyin musulmon bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Ebû Süfyân, Müslüman olmadan önce Mekkelilerin hangi savaşlarına komuta etmiştir?",
+      "choices": [
+        "Mûte ve Huneyn",
+        "Hayber ve Fetih",
+        "Uhud ve Hendek",
+        "Bedir ve Tebük"
+      ],
+      "correct": 2,
+      "explanation": "Ebû Süfyân, Uhud ve Hendek'te Mekke ordusunun başındaydı.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abu Sufyon musulmon bo'lishidan oldin Makkaliklarning qaysi janglariga sarkardalik qilgan?",
+          "choices": [
+            "Mu'ta va Hunayn",
+            "Xayber va Fath",
+            "Uhud va Xandaq",
+            "Badr va Tabuk"
+          ],
+          "explanation": "Abu Sufyon Uhud va Xandaqda Makka qo'shinining boshida edi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in kızı Hafsa'nın ilk eşi olan ve Bedir'de yaralanıp vefat eden sahabi kimdir?",
+      "choices": [
+        "Hüneys b. Huzâfe",
+        "Osman b. Maz'ûn",
+        "Zeyd b. Hârise",
+        "Abdullah b. Cahş"
+      ],
+      "correct": 0,
+      "explanation": "Hüneys b. Huzâfe, Hz. Hafsa'nın ilk eşidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umarning qizi Hafsaning birinchi eri bo'lgan, Badrda yaralanib vafot etgan sahoba kim?",
+          "choices": [
+            "Xunays ibn Huzofa",
+            "Usmon ibn Maz'un",
+            "Zayd ibn Horisa",
+            "Abdulloh ibn Jahsh"
+          ],
+          "explanation": "Xunays ibn Huzofa Hazrati Hafsaning birinchi eridir."
+        }
+      }
+    },
+    {
+      "text": "Medine'de Mescid-i Nebevî'nin inşasında Peygamberimiz'le birlikte taş taşıyan sahabeler hangileridir?",
+      "choices": [
+        "Muhâcirler ve Ensâr birlikte",
+        "Yalnızca çocuklar",
+        "Yalnızca Ensâr",
+        "Yalnızca kadınlar"
+      ],
+      "correct": 0,
+      "explanation": "Mescid inşasında Muhâcir ve Ensâr birlikte çalışmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madinada Masjidi Nabaviy qurilishida Payg'ambarimiz bilan birga tosh tashigan sahobalar kimlar?",
+          "choices": [
+            "Muhojir va Ansor birga",
+            "Faqat bolalar",
+            "Faqat Ansor",
+            "Faqat ayollar"
+          ],
+          "explanation": "Masjid qurilishida Muhojir va Ansor birga ishlagan."
+        }
+      }
+    },
+    {
+      "text": "Habbâb b. Eret hangi işkencelere maruz kalmıştır?",
+      "choices": [
+        "Esarete",
+        "Sürgüne",
+        "Boykota",
+        "Müşriklerin ateşle işkencesine"
+      ],
+      "correct": 3,
+      "explanation": "Habbâb, Mekke'de müşriklerin korlu ateşte işkencelerine uğramıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Xabbob ibn Arat qanday qiynoqlarga uchragan?",
+          "choices": [
+            "Asirlikka",
+            "Surgunga",
+            "Boykotga",
+            "Mushriklarning olov bilan qiynoqlariga"
+          ],
+          "explanation": "Xabbob Makkada mushriklarning cho'g'li olovda qiynoqlariga uchragan."
+        }
+      }
+    },
+    {
+      "text": "Sa'd b. Muâz, hangi kabilenin hakemi olarak Hendek sonrası karar vermiştir?",
+      "choices": [
+        "Benî Kaynukâ",
+        "Havâzin",
+        "Benî Kurayza",
+        "Benî Nadîr"
+      ],
+      "correct": 2,
+      "explanation": "Benî Kurayza hakkında hakem Sa'd b. Muâz'ın hükmü uygulanmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Sa'd ibn Mu'oz Xandaqdan keyin qaysi qabila haqida hakam sifatida hukm chiqargan?",
+          "choices": [
+            "Banu Qaynuqo",
+            "Havozin",
+            "Banu Quraiza",
+            "Banu Nazir"
+          ],
+          "explanation": "Banu Quraiza haqida hakam Sa'd ibn Mu'ozning hukmi amalga oshirilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali'nin lakaplarından 'Ebû Türâb' ne anlama gelir?",
+      "choices": [
+        "Aslan babası",
+        "Bilgenin babası",
+        "Toprağın babası",
+        "Kılıç sahibi"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz Hz. Ali'ye 'Ebû Türâb' (toprak babası) lakabını vermiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Alining laqablaridan 'Abu Turob' qanday ma'noni anglatadi?",
+          "choices": [
+            "Sher otasi",
+            "Donishmand otasi",
+            "Tuproqning otasi",
+            "Qilich egasi"
+          ],
+          "explanation": "Payg'ambarimiz Hazrati Aliga 'Abu Turob' (tuproq otasi) laqabini bergan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali'ye kahramanlığı nedeniyle verilen lakaplardan biri hangisidir?",
+      "choices": [
+        "Fârûk",
+        "Zinnûreyn",
+        "Haydar",
+        "Seyfullah"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ali, kahramanlığıyla 'Haydar' (aslan) lakabıyla da anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Aliga qahramonligi sababli berilgan laqablardan biri qaysi?",
+          "choices": [
+            "Foruq",
+            "Zunnurayn",
+            "Haydar",
+            "Sayfulloh"
+          ],
+          "explanation": "Hazrati Ali qahramonligi bilan 'Haydar' (sher) laqabi bilan ham ataladi."
+        }
+      }
+    },
+    {
+      "text": "Ebû Dücâne'nin Uhud'da Peygamberimiz'den kılıcı alarak ne yaptığı rivayet edilir?",
+      "choices": [
+        "Kılıcın hakkını vererek savaşması",
+        "Kılıcı gömmesi",
+        "Kılıcı kırması",
+        "Kılıcı satması"
+      ],
+      "correct": 0,
+      "explanation": "Ebû Dücâne, Peygamberimiz'in kılıcını alıp hakkını vererek savaşmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abu Dujona Uhudda Payg'ambarimizdan qilichni olib nima qilgani rivoyat qilinadi?",
+          "choices": [
+            "Qilichning haqqini ado etib jang qilgan",
+            "Qilichni ko'mgan",
+            "Qilichni sindirgan",
+            "Qilichni sotgan"
+          ],
+          "explanation": "Abu Dujona Payg'ambarimizning qilichini olib, haqqini ado etib jang qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in oğlu olan ve hadis ilminde öne çıkan sahabi kimdir?",
+      "choices": [
+        "Abdullah b. Mes'ud",
+        "Abdullah b. Ömer",
+        "Abdullah b. Zübeyr",
+        "Abdullah b. Abbâs"
+      ],
+      "correct": 1,
+      "explanation": "Abdullah b. Ömer, çok hadis rivayet eden sahabilerdendir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umarning o'g'li bo'lgan va hadis ilmida ajralib turgan sahoba kim?",
+          "choices": [
+            "Abdulloh ibn Mas'ud",
+            "Abdulloh ibn Umar",
+            "Abdulloh ibn Zubayr",
+            "Abdulloh ibn Abbos"
+          ],
+          "explanation": "Abdulloh ibn Umar ko'p hadis rivoyat qilgan sahobalardandir."
+        }
+      }
+    },
+    {
+      "text": "Ümmü Süleym, hangi meşhur sahabinin annesidir?",
+      "choices": [
+        "Abdullah b. Abbâs",
+        "Câbir b. Abdullah",
+        "Ebû Hüreyre",
+        "Enes b. Mâlik"
+      ],
+      "correct": 3,
+      "explanation": "Ümmü Süleym, Enes b. Mâlik'in annesidir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ummu Sulaym qaysi mashhur sahobaning onasi?",
+          "choices": [
+            "Abdulloh ibn Abbos",
+            "Jobir ibn Abdulloh",
+            "Abu Hurayra",
+            "Anas ibn Molik"
+          ],
+          "explanation": "Ummu Sulaym Anas ibn Molikning onasidir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Bekir, Mekke döneminde Müslümanlara yardım için hangi işi yapmıştır?",
+      "choices": [
+        "Medrese açmıştır",
+        "Hendek kazmıştır",
+        "Köleleri satın alıp özgürlüğüne kavuşturmuştur",
+        "Kervan düzenlemiştir"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ebû Bekir, işkence gören köleleri satın alıp azat etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakr Makka davrida musulmonlarga yordam uchun qaysi ishni qilgan?",
+          "choices": [
+            "Madrasa ochgan",
+            "Xandaq qazigan",
+            "Qullarni sotib olib ozod qilgan",
+            "Karvon uyushtirgan"
+          ],
+          "explanation": "Hazrati Abu Bakr qiynoqqa solingan qullarni sotib olib ozod qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Osman'ın hilâfeti döneminde Kur'an'ın çoğaltılmasında komisyon başkanı kimdir?",
+      "choices": [
+        "Abdullah b. Abbâs",
+        "Zeyd b. Sâbit",
+        "Abdullah b. Mes'ud",
+        "Übey b. Kâ'b"
+      ],
+      "correct": 1,
+      "explanation": "Mushafın çoğaltılması işi Zeyd b. Sâbit başkanlığındaki heyete verilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Usmon xilofati davrida Qur'onni ko'paytirish komissiyasining raisi kim?",
+          "choices": [
+            "Abdulloh ibn Abbos",
+            "Zayd ibn Sobit",
+            "Abdulloh ibn Mas'ud",
+            "Ubay ibn Ka'b"
+          ],
+          "explanation": "Mushafni ko'paytirish ishi Zayd ibn Sobit boshchiligidagi hay'atga topshirilgan."
+        }
+      }
+    },
+    {
+      "text": "Bilâl-i Habeşî ezanı Peygamberimiz'in vefatından sonra nerede bir kez okumuştur?",
+      "choices": [
+        "Şam",
+        "Basra",
+        "Mekke",
+        "Kudüs"
+      ],
+      "correct": 0,
+      "explanation": "Bilâl, Şam'dayken rüyasında Peygamberimiz'i görüp ezan okumuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Bilol Habashiy Payg'ambarimiz vafotidan keyin azonni qayerda bir marta aytgan?",
+          "choices": [
+            "Shom",
+            "Basra",
+            "Makka",
+            "Quddus"
+          ],
+          "explanation": "Bilol Shomda ekanida tushida Payg'ambarimizni ko'rib azon aytgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Âişe'nin annesi kimdir?",
+      "choices": [
+        "Fâtıma",
+        "Hatice",
+        "Sevde",
+        "Ümmü Rûmân"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Âişe'nin annesi Ümmü Rûmân'dır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Oishaning onasi kim?",
+          "choices": [
+            "Fotima",
+            "Xadicha",
+            "Savda",
+            "Ummu Ruman"
+          ],
+          "explanation": "Hazrati Oishaning onasi Ummu Rumondir."
+        }
+      }
+    },
+    {
+      "text": "Aşere-i Mübeşşere'den sayılan ve 'Hayr' lakabıyla anılan sahabi kimdir?",
+      "choices": [
+        "Talha b. Ubeydullah",
+        "Ebû Hüreyre",
+        "Enes b. Mâlik",
+        "Halid b. Velid"
+      ],
+      "correct": 0,
+      "explanation": "Talha b. Ubeydullah, cömertliğiyle 'Talhatü'l-Hayr' diye anılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ashara-i Mubashsharadan sanalgan va 'Xayr' laqabi bilan ataladigan sahoba kim?",
+          "choices": [
+            "Talha ibn Ubaydulloh",
+            "Abu Hurayra",
+            "Anas ibn Molik",
+            "Xolid ibn Valid"
+          ],
+          "explanation": "Talha ibn Ubaydulloh saxovati bilan 'Talhatul Xayr' deb atalgan."
+        }
+      }
+    },
+    {
+      "text": "Aşere-i Mübeşşere'den olan ve Kadisiye komutanı olan sahabi kimdir?",
+      "choices": [
+        "Sa'd b. Ebî Vakkâs",
+        "Saîd b. Zeyd",
+        "Ebû Ubeyde b. Cerrâh",
+        "Zübeyr b. Avvâm"
+      ],
+      "correct": 0,
+      "explanation": "Sa'd b. Ebî Vakkâs hem Aşere'dendir hem Kadisiye komutanıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ashara-i Mubashsharadan bo'lgan va Qodisiya sarkardasi bo'lgan sahoba kim?",
+          "choices": [
+            "Sa'd ibn Abu Vaqqos",
+            "Said ibn Zayd",
+            "Abu Ubayda ibn Jarroh",
+            "Zubayr ibn Avvom"
+          ],
+          "explanation": "Sa'd ibn Abu Vaqqos ham Asharadan, ham Qodisiya sarkardasidir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Âişe'nin lakaplarından biri aşağıdakilerden hangisidir?",
+      "choices": [
+        "Tâhire",
+        "Fârûk",
+        "Sıddîka",
+        "Zehrâ"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Âişe 'Sıddîka' (doğrulayıcı kadın) lakabıyla anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Oishaning laqablaridan biri quyidagilardan qaysi?",
+          "choices": [
+            "Tohira",
+            "Foruq",
+            "Siddiqa",
+            "Zahro"
+          ],
+          "explanation": "Hazrati Oisha 'Siddiqa' laqabi bilan ataladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali'nin oğullarından, Kerbelâ'da şehit edilen kimdir?",
+      "choices": [
+        "Hz. Hasan",
+        "Muhammed b. Hanefiyye",
+        "Hz. Hüseyin",
+        "Abbâs"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Hüseyin, hicri 61'de Kerbelâ'da şehit edilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Alining o'g'illaridan Karbaloda shahid qilingani kim?",
+          "choices": [
+            "Hazrati Hasan",
+            "Muhammad ibn Hanafiyya",
+            "Hazrati Husayn",
+            "Abbos"
+          ],
+          "explanation": "Hazrati Husayn hijriy 61-yilda Karbaloda shahid qilingan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Muâviye hangi sahabedir?",
+      "choices": [
+        "Hz. Osman'ın oğlu",
+        "Hz. Ali'nin kardeşi",
+        "Ebû Süfyân'ın oğlu ve vahiy kâtibi",
+        "Hz. Ömer'in oğlu"
+      ],
+      "correct": 2,
+      "explanation": "Muâviye, Ebû Süfyân'ın oğludur ve vahiy kâtipleri arasında anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Muoviya qanday sahoba?",
+          "choices": [
+            "Hazrati Usmonning o'g'li",
+            "Hazrati Alining ukasi",
+            "Abu Sufyonning o'g'li va vahiy kotibi",
+            "Hazrati Umarning o'g'li"
+          ],
+          "explanation": "Muoviya Abu Sufyonning o'g'li bo'lib, vahiy kotiblari orasida zikr etiladi."
+        }
+      }
+    },
+    {
+      "text": "Ammâr b. Yâsir hangi savaşta şehit düşmüştür?",
+      "choices": [
+        "Cemel",
+        "Sıffîn",
+        "Hendek",
+        "Yermük"
+      ],
+      "correct": 1,
+      "explanation": "Ammâr b. Yâsir, Sıffîn Savaşı'nda şehit olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ammor ibn Yosir qaysi jangda shahid bo'lgan?",
+          "choices": [
+            "Jamal",
+            "Siffin",
+            "Xandaq",
+            "Yarmuk"
+          ],
+          "explanation": "Ammor ibn Yosir Siffin jangida shahid bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Selmân-ı Fârisî hangi memleketten gelmiştir?",
+      "choices": [
+        "Habeşistan",
+        "Mısır",
+        "İran (Fars)",
+        "Yemen"
+      ],
+      "correct": 2,
+      "explanation": "Selmân, İran kökenli olup doğruyu arayış yolculuğuyla Medine'ye gelmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Salmon Forsiy qaysi yurtdan kelgan?",
+          "choices": [
+            "Habashiston",
+            "Misr",
+            "Eron (Fors)",
+            "Yaman"
+          ],
+          "explanation": "Salmon Eron kelib chiqishli bo'lib, haqiqat izlash safari bilan Madinaga kelgan."
+        }
+      }
+    },
+    {
+      "text": "Ebû Eyyûb el-Ensârî'nin kabri hangi şehirdedir?",
+      "choices": [
+        "Medine",
+        "Şam",
+        "İstanbul",
+        "Kudüs"
+      ],
+      "correct": 2,
+      "explanation": "Ebû Eyyûb, İstanbul kuşatmasında vefat etmiş, kabri İstanbul'dadır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abu Ayyub al-Ansoriyning qabri qaysi shaharda?",
+          "choices": [
+            "Madina",
+            "Shom",
+            "Istanbul",
+            "Quddus"
+          ],
+          "explanation": "Abu Ayyub Istanbul qamalida vafot etgan, qabri Istanbuldadir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Fâtıma'nın çocukları arasında olmayan kişi hangisidir?",
+      "choices": [
+        "Abdullah",
+        "Hüseyin",
+        "Zeynep",
+        "Hasan"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Fâtıma'nın çocukları Hasan, Hüseyin, Zeynep ve Ümmü Gülsüm'dür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Fotimaning farzandlari orasida bo'lmagan kishi qaysi?",
+          "choices": [
+            "Abdulloh",
+            "Husayn",
+            "Zaynab",
+            "Hasan"
+          ],
+          "explanation": "Hazrati Fotimaning farzandlari Hasan, Husayn, Zaynab va Ummu Kulsumdir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in künyesi (kunyesi) nedir?",
+      "choices": [
+        "Ebû Hüreyre",
+        "Ebû Hafs",
+        "Ebû Abdullah",
+        "Ebû Bekir"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Ömer'in künyesi Ebû Hafs'tır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umarning kunyasi nima?",
+          "choices": [
+            "Abu Hurayra",
+            "Abu Hafs",
+            "Abu Abdulloh",
+            "Abu Bakr"
+          ],
+          "explanation": "Hazrati Umarning kunyasi Abu Hafsdir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in lakabı 'el-Fârûk'u Peygamberimiz'e hangi nedenle verilmiştir?",
+      "choices": [
+        "Savaş gücü",
+        "Hak ile batılı ayırması",
+        "Şiir yeteneği",
+        "Zenginliği"
+      ],
+      "correct": 1,
+      "explanation": "Müslüman olması İslâm'ın açıkça duyurulmasına vesile olduğundan 'Fârûk' denmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umarning 'al-Foruq' laqabi qaysi sababdan berilgan?",
+          "choices": [
+            "Jang kuchi",
+            "Haq bilan botilni ajratgani",
+            "She'r qobiliyati",
+            "Boyligi"
+          ],
+          "explanation": "Uning musulmon bo'lishi Islomning ochiq e'lon qilinishiga sabab bo'lgani uchun 'Foruq' deyilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Bekir'in vefatından önce halife olarak bıraktığı kişi kimdir?",
+      "choices": [
+        "Hz. Ali",
+        "Hz. Osman",
+        "Hz. Talha",
+        "Hz. Ömer"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Ebû Bekir, vefatından önce Hz. Ömer'i halife tayin etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakr vafotidan oldin xalifa sifatida kimni tayinlagan?",
+          "choices": [
+            "Hazrati Ali",
+            "Hazrati Usmon",
+            "Hazrati Talha",
+            "Hazrati Umar"
+          ],
+          "explanation": "Hazrati Abu Bakr vafotidan oldin Hazrati Umarni xalifa etib tayinlagan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'den sonra halifeyi seçmek için kurulan heyete ne ad verilir?",
+      "choices": [
+        "Divan",
+        "Meclis-i Mebusân",
+        "Şûrâ (altı kişilik heyet)",
+        "Hilâfet divanı"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ömer, altı kişilik bir şûrâ heyeti belirlemiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umardan keyin xalifani tanlash uchun tuzilgan hay'atga nima deyiladi?",
+          "choices": [
+            "Devon",
+            "Mebusan majlisi",
+            "Shuro (olti kishilik hay'at)",
+            "Xilofat devoni"
+          ],
+          "explanation": "Hazrati Umar olti kishilik shuro hay'atini belgilagan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Osman'ı halife seçen şûrâ içindeki seçimi koordine eden sahabi kimdir?",
+      "choices": [
+        "Zübeyr b. Avvâm",
+        "Sa'd b. Ebî Vakkâs",
+        "Talha b. Ubeydullah",
+        "Abdurrahman b. Avf"
+      ],
+      "correct": 3,
+      "explanation": "Seçim sürecini Abdurrahman b. Avf yürütmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Usmonni xalifa qilib saylagan shuro ichidagi saylovni muvofiqlashtirgan sahoba kim?",
+          "choices": [
+            "Zubayr ibn Avvom",
+            "Sa'd ibn Abu Vaqqos",
+            "Talha ibn Ubaydulloh",
+            "Abdurahmon ibn Avf"
+          ],
+          "explanation": "Saylov jarayonini Abdurahmon ibn Avf olib borgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in köleleriyle ve halkıyla adil davranışıyla bilinen bir uygulaması hangisidir?",
+      "choices": [
+        "Gece sokakları dolaşıp halkın ihtiyaçlarına bakması",
+        "Yalnızca sarayda kalması",
+        "Elçi göndermesi",
+        "Vergi toplaması"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Ömer geceleri dolaşarak halkın halini kontrol ederdi.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umarning xalqqa adolatli munosabati bilan tanilgan qaysi amali bor?",
+          "choices": [
+            "Kechalari ko'chalarni aylanib xalqning ehtiyojlariga qarashi",
+            "Faqat saroyda qolishi",
+            "Elchi yuborishi",
+            "Soliq yig'ishi"
+          ],
+          "explanation": "Hazrati Umar kechalari aylanib, xalqning ahvolini tekshirar edi."
+        }
+      }
+    },
+    {
+      "text": "Abdullah b. Mes'ud hangi ilimdeki yetkinliğiyle anılır?",
+      "choices": [
+        "Matematik",
+        "Kur'an ve fıkıh",
+        "Tıp",
+        "Denizcilik"
+      ],
+      "correct": 1,
+      "explanation": "İbn Mes'ud, Kur'an kıraati ve fıkıhta öne çıkan sahabilerdendir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abdulloh ibn Mas'ud qaysi ilmdagi yetukligi bilan tanilgan?",
+          "choices": [
+            "Matematika",
+            "Qur'on va fiqh",
+            "Tibbiyot",
+            "Dengizchilik"
+          ],
+          "explanation": "Ibn Mas'ud Qur'on qiroati va fiqhda ajralib turgan sahobalardandir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali, Hz. Ömer'in hilâfeti döneminde hangi görevde bulunmuştur?",
+      "choices": [
+        "Komutan olarak yalnızca",
+        "Müezzin olarak",
+        "Danışman ve kadı olarak",
+        "Elçi olarak"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ali, Hz. Ömer'in danışmanlarındandı.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Ali Hazrati Umar xilofati davrida qanday vazifada bo'lgan?",
+          "choices": [
+            "Faqat sarkarda sifatida",
+            "Muazzin sifatida",
+            "Maslahatchi va qozi sifatida",
+            "Elchi sifatida"
+          ],
+          "explanation": "Hazrati Ali Hazrati Umarning maslahatchilaridan edi."
+        }
+      }
+    },
+    {
+      "text": "Sa'd b. Ebî Vakkâs'ın Peygamberimiz'den aldığı dua hangi özelliğiyle ilgilidir?",
+      "choices": [
+        "Duasının kabul edilmesi",
+        "Hızlı koşusu",
+        "Ticareti",
+        "Ok atışı"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz Sa'd için 'duası kabul edilsin' diye dua etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Sa'd ibn Abu Vaqqos Payg'ambarimizdan olgan duo qaysi xususiyati bilan bog'liq?",
+          "choices": [
+            "Duolarining ijobat bo'lishi",
+            "Tez yugurishi",
+            "Savdosi",
+            "O'q otishi"
+          ],
+          "explanation": "Payg'ambarimiz Sa'd uchun 'duosi ijobat bo'lsin' deb duo qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer, hilâfeti sırasında Kudüs'e giderken yanında kim vardı?",
+      "choices": [
+        "Bir hizmetkâr ve tek deve",
+        "Hiçbiri",
+        "Büyük bir ordu",
+        "Heyet ve saray erkânı"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Ömer, hizmetkârıyla sırayla deveye binerek Kudüs'e gitmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar xilofati paytida Quddusga borayotganda yonida kim bor edi?",
+          "choices": [
+            "Bir xizmatkor va bitta tuya",
+            "Hech kim",
+            "Katta qo'shin",
+            "Hay'at va saroy a'yonlari"
+          ],
+          "explanation": "Hazrati Umar xizmatkori bilan navbat bilan tuyaga minib Quddusga borgan."
+        }
+      }
+    },
+    {
+      "text": "Ebû Hüreyre, hangi yılda Müslüman olmuştur?",
+      "choices": [
+        "Bedir'den önce",
+        "Mekke'de ilk yıllarda",
+        "Veda Haccı'ndan sonra",
+        "Hayber döneminde (hicri 7)"
+      ],
+      "correct": 3,
+      "explanation": "Ebû Hüreyre, Hayber dönemine yakın zamanda Müslüman olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Abu Hurayra qaysi yilda musulmon bo'lgan?",
+          "choices": [
+            "Badrdan oldin",
+            "Makkadagi dastlabki yillarda",
+            "Vido hajidan keyin",
+            "Xayber davrida (hijriy 7)"
+          ],
+          "explanation": "Abu Hurayra Xayber davriga yaqin vaqtda musulmon bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer döneminde Kudüs'ün teslim alınışında şehrin patriği Sofronius ile görüşen halife kimdir?",
+      "choices": [
+        "Hz. Ebû Bekir",
+        "Hz. Ali",
+        "Hz. Ömer",
+        "Hz. Osman"
+      ],
+      "correct": 2,
+      "explanation": "Kudüs, Hz. Ömer'in şahsen gelmesiyle barış yoluyla teslim alınmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar davrida Quddus taslim olganda shahar patriarxi Sofroniy bilan uchrashgan xalifa kim?",
+          "choices": [
+            "Hazrati Abu Bakr",
+            "Hazrati Ali",
+            "Hazrati Umar",
+            "Hazrati Usmon"
+          ],
+          "explanation": "Quddus Hazrati Umarning shaxsan kelishi bilan sulh yo'li bilan taslim bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali'nin halifeliği döneminde başkenti Kûfe'ye taşıması hangi sonucu doğurmuştur?",
+      "choices": [
+        "Hilâfetin kalkması",
+        "Merkezin Medine'den Irak'a kayması",
+        "Savaşın sona ermesi",
+        "Fetihlerin artması"
+      ],
+      "correct": 1,
+      "explanation": "Merkezin Irak'a taşınması Medine'nin siyasi merkez olma özelliğini azaltmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Alining xilofati davrida poytaxtni Kufaga ko'chirishi qanday natija bergan?",
+          "choices": [
+            "Xilofatning bekor bo'lishi",
+            "Markazning Madinadan Iroqqa o'tishi",
+            "Urushning tugashi",
+            "Fathlarning ko'payishi"
+          ],
+          "explanation": "Markazning Iroqqa ko'chirilishi Madinaning siyosiy markaz bo'lish xususiyatini kamaytirgan."
+        }
+      }
+    },
+    {
+      "text": "Sakîfe-i Benî Sâide'de Hz. Ebû Bekir'e ilk biat eden sahabi kimdir?",
+      "choices": [
+        "Hz. Osman",
+        "Hz. Ömer",
+        "Hz. Ali",
+        "Hz. Talha"
+      ],
+      "correct": 1,
+      "explanation": "Sakîfe'de ilk biat eden Hz. Ömer'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Saqifai Bani Soidada Hazrati Abu Bakrga birinchi bay'at qilgan sahoba kim?",
+          "choices": [
+            "Hazrati Usmon",
+            "Hazrati Umar",
+            "Hazrati Ali",
+            "Hazrati Talha"
+          ],
+          "explanation": "Saqifada birinchi bay'at qilgan Hazrati Umardir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Osman'ın hilâfeti yaklaşık kaç yıl sürmüştür?",
+      "choices": [
+        "6",
+        "10",
+        "12",
+        "25"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Osman'ın hilâfeti yaklaşık 12 yıl sürmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Usmonning xilofati taxminan necha yil davom etgan?",
+          "choices": [
+            "6",
+            "10",
+            "12",
+            "25"
+          ],
+          "explanation": "Hazrati Usmonning xilofati taxminan 12 yil davom etgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Bekir'in hilâfeti yaklaşık kaç yıl sürmüştür?",
+      "choices": [
+        "2",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "Hz. Ebû Bekir'in hilâfeti yaklaşık iki yıl sürmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakrning xilofati taxminan necha yil davom etgan?",
+          "choices": [
+            "2",
+            "5",
+            "10",
+            "12"
+          ],
+          "explanation": "Hazrati Abu Bakrning xilofati taxminan ikki yil davom etgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in hilâfeti yaklaşık kaç yıl sürmüştür?",
+      "choices": [
+        "2",
+        "10",
+        "12",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Ömer'in hilâfeti yaklaşık on yıl sürmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umarning xilofati taxminan necha yil davom etgan?",
+          "choices": [
+            "2",
+            "10",
+            "12",
+            "25"
+          ],
+          "explanation": "Hazrati Umarning xilofati taxminan o'n yil davom etgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Muâviye'nin Şam valiliği hangi halifeler döneminde sürmüştür?",
+      "choices": [
+        "Hz. Ali ve Hasan",
+        "Hz. Ömer ve Hz. Osman",
+        "Yalnızca Yezid",
+        "Yalnızca Hz. Ebû Bekir"
+      ],
+      "correct": 1,
+      "explanation": "Muâviye, Hz. Ömer ve Hz. Osman döneminde Şam valisi olarak görev yapmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Muoviyaning Shom hokimligi qaysi xalifalar davrida davom etgan?",
+          "choices": [
+            "Hazrati Ali va Hasan",
+            "Hazrati Umar va Hazrati Usmon",
+            "Faqat Yazid",
+            "Faqat Hazrati Abu Bakr"
+          ],
+          "explanation": "Muoviya Hazrati Umar va Hazrati Usmon davrida Shom hokimi bo'lib xizmat qilgan."
+        }
+      }
+    },
+    {
+      "text": "Sahabeden sonraki nesle ne ad verilir?",
+      "choices": [
+        "Tâbiûn",
+        "Muhâcirûn",
+        "Mühtedî",
+        "Ensâr"
+      ],
+      "correct": 0,
+      "explanation": "Sahabeyi görenlere ve onlardan öğrenenlere Tâbiûn denir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Sahobalardan keyingi avlodga nima deyiladi?",
+          "choices": [
+            "Tobe'in",
+            "Muhojirun",
+            "Muhtadiy",
+            "Ansor"
+          ],
+          "explanation": "Sahobalarni ko'rganlar va ulardan o'rganganlarga Tobe'in deyiladi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ali'nin hilâfeti yaklaşık kaç yıl sürmüştür?",
+      "choices": [
+        "2 yıl",
+        "10 yıl",
+        "12 yıl",
+        "Yaklaşık 4,5 yıl"
+      ],
+      "correct": 3,
+      "explanation": "Hz. Ali'nin hilâfeti yaklaşık dört buçuk yıl sürmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Alining xilofati taxminan necha yil davom etgan?",
+          "choices": [
+            "2 yil",
+            "10 yil",
+            "12 yil",
+            "Taxminan 4,5 yil"
+          ],
+          "explanation": "Hazrati Alining xilofati taxminan to'rt yarim yil davom etgan."
+        }
+      }
+    },
+    {
+      "text": "Sahabe için kullanılan 'radıyallâhu anh' ifadesi ne anlama gelir?",
+      "choices": [
+        "Allah ondan razı olsun",
+        "Allah onu korusun",
+        "Allah ona rahmet etsin",
+        "Allah ona selâm etsin"
+      ],
+      "correct": 0,
+      "explanation": "'Radıyallâhu anh' Allah'ın ondan razı olması duasıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Sahobalar uchun ishlatiladigan 'roziyallohu anh' iborasi qanday ma'noni anglatadi?",
+          "choices": [
+            "Alloh undan rozi bo'lsin",
+            "Alloh uni asrasin",
+            "Alloh unga rahmat qilsin",
+            "Alloh unga salom bersin"
+          ],
+          "explanation": "'Roziyallohu anh' Allohning undan rozi bo'lishi duosidir."
+        }
+      }
     }
   ]
 }

@@ -92,7 +92,9 @@ class Command(BaseCommand):
                 "difficulty": q.get("difficulty", 1),
                 "level": q.get("level", 1),
             }
-            if approve:
+            # "approved": false olan taslak sorular --approve ile bile onaylanmaz; onay admin'den verilir.
+            # Onaylanmış bir soru bu komutla asla geri çekilmez.
+            if approve and q.get("approved", True) is not False:
                 values["is_approved"] = True
             changed = _sync(question, values)
             changed |= self._sync_choices(question, choices, correct)

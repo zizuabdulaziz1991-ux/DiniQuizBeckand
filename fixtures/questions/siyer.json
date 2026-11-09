@@ -520,6 +520,2166 @@
         }
       },
       "level": 2
+    },
+    {
+      "text": "Peygamberimiz'in babasının adı nedir?",
+      "choices": [
+        "Abdülmenâf",
+        "Abdülmuttalib",
+        "Ebû Tâlib",
+        "Abdullah"
+      ],
+      "correct": 3,
+      "explanation": "Babası Abdullah, Peygamberimiz doğmadan önce vefat etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning otasining ismi nima?",
+          "choices": [
+            "Abdulmanof",
+            "Abdulmuttalib",
+            "Abu Tolib",
+            "Abdulloh"
+          ],
+          "explanation": "Otasi Abdulloh Payg'ambarimiz tug'ilmasidan oldin vafot etgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz hangi kabileye mensuptur?",
+      "choices": [
+        "Havâzin",
+        "Gatafân",
+        "Kureyş",
+        "Sakîf"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz Kureyş kabilesinin Hâşimoğulları koluna mensuptur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz qaysi qabilaga mansub?",
+          "choices": [
+            "Havozin",
+            "G'atafon",
+            "Quraysh",
+            "Saqif"
+          ],
+          "explanation": "Payg'ambarimiz Quraysh qabilasining Hoshim o'g'illari tarmog'iga mansub."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in dedesinin adı nedir?",
+      "choices": [
+        "Ebû Leheb",
+        "Abdülmuttalib",
+        "Ebû Tâlib",
+        "Abdullah"
+      ],
+      "correct": 1,
+      "explanation": "Dedesi Abdülmuttalib, Peygamberimiz'i bir süre himayesine almıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning bobosining ismi nima?",
+          "choices": [
+            "Abu Lahab",
+            "Abdulmuttalib",
+            "Abu Tolib",
+            "Abdulloh"
+          ],
+          "explanation": "Bobosi Abdulmuttalib Payg'ambarimizni bir muddat o'z homiyligiga olgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in dört kızından biri aşağıdakilerden hangisidir?",
+      "choices": [
+        "Hz. Sevde",
+        "Hz. Zeynep",
+        "Hz. Hafsa",
+        "Hz. Âişe"
+      ],
+      "correct": 1,
+      "explanation": "Kızları Zeynep, Rukiyye, Ümmü Gülsüm ve Fâtıma'dır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning to'rt qizidan biri quyidagilardan qaysi?",
+          "choices": [
+            "Hazrati Savda",
+            "Hazrati Zaynab",
+            "Hazrati Hafsa",
+            "Hazrati Oisha"
+          ],
+          "explanation": "Qizlari Zaynab, Ruqayya, Ummu Kulsum va Fotimadir."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz Hz. Hatice ile evlendiğinde kaç yaşındaydı?",
+      "choices": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz 25 yaşında Hz. Hatice ile evlenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz Hazrati Xadicha bilan turmush qurganda necha yoshda edi?",
+          "choices": [
+            "20",
+            "25",
+            "30",
+            "40"
+          ],
+          "explanation": "Payg'ambarimiz 25 yoshida Hazrati Xadicha bilan turmush qurgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz gençliğinde hangi işi yapmıştır?",
+      "choices": [
+        "Demircilik",
+        "Çobanlık ve ticaret",
+        "Müezzinlik",
+        "Kadılık"
+      ],
+      "correct": 1,
+      "explanation": "Gençliğinde çobanlık yapmış, sonra ticaretle uğraşmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz yoshligida qanday ish bilan shug'ullangan?",
+          "choices": [
+            "Temirchilik",
+            "Cho'ponlik va savdo",
+            "Muazzinlik",
+            "Qozilik"
+          ],
+          "explanation": "Yoshligida cho'ponlik qilgan, keyin savdo bilan shug'ullangan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in oğlu İbrâhim'in annesi kimdir?",
+      "choices": [
+        "Âişe",
+        "Mâriye",
+        "Hatice",
+        "Hafsa"
+      ],
+      "correct": 1,
+      "explanation": "Oğlu İbrâhim, Mâriye'den dünyaya gelmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning o'g'li Ibrohimning onasi kim?",
+          "choices": [
+            "Oisha",
+            "Mariya",
+            "Xadicha",
+            "Hafsa"
+          ],
+          "explanation": "O'g'li Ibrohim Mariyadan tug'ilgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in bineği olan ve meşhur olan devesinin adı nedir?",
+      "choices": [
+        "Düldül",
+        "Burak",
+        "Aczâ",
+        "Kusvâ"
+      ],
+      "correct": 3,
+      "explanation": "Hicret yolculuğunda da Peygamberimiz'in devesi Kusvâ'ydı.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning mashhur tuyasining nomi nima?",
+          "choices": [
+            "Duldul",
+            "Buroq",
+            "Ajzo",
+            "Qusvo"
+          ],
+          "explanation": "Hijrat safarida ham Payg'ambarimizning tuyasi Qusvo edi."
+        }
+      }
+    },
+    {
+      "text": "Hz. Peygamber, Kâbe'nin yenilenmesi sırasında Hacerülesved'i yerine koyarken hangi görevi üstlenmiştir?",
+      "choices": [
+        "Kâtiplik",
+        "Elçilik",
+        "Hakemlik",
+        "Komutanlık"
+      ],
+      "correct": 2,
+      "explanation": "Kureyş kabileleri arasındaki anlaşmazlığı çözerek hakem olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Payg'ambar Ka'ba yangilanayotganda Hajarul asvadni joyiga qo'yishda qanday vazifani o'z zimmasiga olgan?",
+          "choices": [
+            "Kotiblik",
+            "Elchilik",
+            "Hakamlik",
+            "Sarkardalik"
+          ],
+          "explanation": "Quraysh qabilalari o'rtasidagi kelishmovchilikni hal qilib, hakam bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'e vahiy gelmeden önce kendisini nitelendiren lakap hangisidir?",
+      "choices": [
+        "Seyfullah",
+        "el-Fârûk",
+        "el-Emîn (güvenilir)",
+        "Zinnûreyn"
+      ],
+      "correct": 2,
+      "explanation": "Dürüstlüğü ve güvenilirliği nedeniyle ona el-Emîn denirdi.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 3,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizga vahiydan oldin berilgan laqab qaysi?",
+          "choices": [
+            "Sayfulloh",
+            "al-Foruq",
+            "al-Amin (ishonchli)",
+            "Zunnurayn"
+          ],
+          "explanation": "Halolligi va ishonchliligi tufayli unga al-Amin deyilgan."
+        }
+      }
+    },
+    {
+      "text": "İlk müslümanların gizlice toplandığı ve eğitildiği ev hangisidir?",
+      "choices": [
+        "Mescid-i Nebevî",
+        "Kuba Mescidi",
+        "Dârü'n-Nedve",
+        "Dârü'l-Erkam"
+      ],
+      "correct": 3,
+      "explanation": "Dârü'l-Erkam, ilk dönem Müslümanlarının buluşma merkeziydi.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Dastlabki musulmonlar yashirincha yig'ilgan va ta'lim olgan uy qaysi?",
+          "choices": [
+            "Masjidi Nabaviy",
+            "Quba masjidi",
+            "Doran Nadva",
+            "Doral Arqam"
+          ],
+          "explanation": "Doral Arqam dastlabki davr musulmonlarining uchrashuv markazi edi."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz açık davete hangi tepeden başlamıştır?",
+      "choices": [
+        "Sevr",
+        "Uhud",
+        "Hira",
+        "Safâ"
+      ],
+      "correct": 3,
+      "explanation": "Safâ Tepesi'nde Kureyş'i imana davet etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz ochiq da'vatni qaysi tepalikdan boshlagan?",
+          "choices": [
+            "Savr",
+            "Uhud",
+            "Hiro",
+            "Safo"
+          ],
+          "explanation": "Safo tepaligida Qurayshni iymonga da'vat qilgan."
+        }
+      }
+    },
+    {
+      "text": "Müslümanların ilk hicret ettiği, adil hükümdarıyla tanınan ülke neresidir?",
+      "choices": [
+        "Habeşistan",
+        "Şam",
+        "Yemen",
+        "Mısır"
+      ],
+      "correct": 0,
+      "explanation": "Hükümdar Necâşî Müslümanları himaye etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Musulmonlar birinchi marta hijrat qilgan, odil hukmdori bilan tanilgan yurt qaysi?",
+          "choices": [
+            "Habashiston",
+            "Shom",
+            "Yaman",
+            "Misr"
+          ],
+          "explanation": "Hukmdor Najoshiy musulmonlarni himoya qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hatice ve Ebû Tâlib'in vefatıyla geçen yıla ne denir?",
+      "choices": [
+        "Hüzün Yılı",
+        "Fetih Yılı",
+        "Hicret Yılı",
+        "Fil Yılı"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz bu yıl iki büyük destekçisini kaybetmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Xadicha va Abu Tolibning vafoti bilan o'tgan yilga nima deyiladi?",
+          "choices": [
+            "G'am yili",
+            "Fath yili",
+            "Hijrat yili",
+            "Fil yili"
+          ],
+          "explanation": "Payg'ambarimiz bu yil ikki katta tayanchini yo'qotgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz davet için hangi şehre gitmiş ve orada taşlanmıştır?",
+      "choices": [
+        "Yemen",
+        "Şam",
+        "Kudüs",
+        "Tâif"
+      ],
+      "correct": 3,
+      "explanation": "Tâif'te halk Peygamberimiz'i taşlamış, buna rağmen beddua etmemiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz da'vat uchun qaysi shaharga borib, u yerda toshbo'ron qilingan?",
+          "choices": [
+            "Yaman",
+            "Shom",
+            "Quddus",
+            "Toif"
+          ],
+          "explanation": "Toifda xalq Payg'ambarimizni toshbo'ron qilgan, shunga qaramay u baddua qilmagan."
+        }
+      }
+    },
+    {
+      "text": "Müşriklerin Müslümanlara uyguladığı toplumsal boykot yaklaşık kaç yıl sürmüştür?",
+      "choices": [
+        "1",
+        "3",
+        "7",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "Şi'b-i Ebû Tâlib'deki boykot yaklaşık üç yıl sürmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mushriklarning musulmonlarga qo'llagan ijtimoiy boykoti taxminan necha yil davom etgan?",
+          "choices": [
+            "1",
+            "3",
+            "7",
+            "10"
+          ],
+          "explanation": "Shi'bi Abu Tolibdagi boykot taxminan uch yil davom etgan."
+        }
+      }
+    },
+    {
+      "text": "Akabe biatlarından ilkinde Medine'den gelen heyet yaklaşık kaç kişiydi?",
+      "choices": [
+        "5",
+        "12",
+        "40",
+        "73"
+      ],
+      "correct": 1,
+      "explanation": "Birinci Akabe Biatı'nda 12 kişi biat etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Aqaba bay'atlarining birinchisida Madinadan kelgan hay'at taxminan necha kishi edi?",
+          "choices": [
+            "5",
+            "12",
+            "40",
+            "73"
+          ],
+          "explanation": "Birinchi Aqaba bay'atida 12 kishi bay'at qilgan."
+        }
+      }
+    },
+    {
+      "text": "Medine'nin İslâm'dan önceki adı nedir?",
+      "choices": [
+        "Yesrib",
+        "Kuba",
+        "Bekke",
+        "Taif"
+      ],
+      "correct": 0,
+      "explanation": "Medine'ye Hicret'ten sonra 'Medinetü'n-Nebî' denmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madinaning Islomdan oldingi nomi nima?",
+          "choices": [
+            "Yasrib",
+            "Quba",
+            "Bakka",
+            "Toif"
+          ],
+          "explanation": "Hijratdan keyin Madinaga 'Madinatun Nabiy' deyilgan."
+        }
+      }
+    },
+    {
+      "text": "Hicret'ten sonra Muhâcirler ile Ensâr arasında kurulan bağa ne ad verilir?",
+      "choices": [
+        "Biat",
+        "Zekât",
+        "Muâhât (kardeşlik)",
+        "Fidye"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz Muhâcir ve Ensâr arasında kardeşlik bağı kurmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijratdan keyin Muhojir va Ansor o'rtasida o'rnatilgan rishtaga nima deyiladi?",
+          "choices": [
+            "Bay'at",
+            "Zakot",
+            "Muoxot (birodarlik)",
+            "Fidya"
+          ],
+          "explanation": "Payg'ambarimiz Muhojir va Ansor o'rtasida birodarlik rishtasi o'rnatgan."
+        }
+      }
+    },
+    {
+      "text": "Mekkeli müşriklerin en azılı düşmanlarından biri ve Bedir'de ölen lider kimdir?",
+      "choices": [
+        "Ebû Bekir",
+        "Abdülmuttalib",
+        "Ebû Tâlib",
+        "Ebû Cehil"
+      ],
+      "correct": 3,
+      "explanation": "Ebû Cehil Bedir Savaşı'nda ölmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 4,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Makkalik mushriklarning eng shafqatsiz dushmanlaridan biri va Badrda o'lgan sarkarda kim?",
+          "choices": [
+            "Abu Bakr",
+            "Abdulmuttalib",
+            "Abu Tolib",
+            "Abu Jahl"
+          ],
+          "explanation": "Abu Jahl Badr jangida o'lgan."
+        }
+      }
+    },
+    {
+      "text": "Kıblenin Mescid-i Aksâ'dan Kâbe'ye çevrilmesi hangi yılda gerçekleşmiştir?",
+      "choices": [
+        "Hicretin 2. yılı",
+        "Hicretin 10. yılı",
+        "Hicretin 8. yılı",
+        "Hicretin 5. yılı"
+      ],
+      "correct": 0,
+      "explanation": "Kıble değişikliği hicretin 2. yılında olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Qiblaning Masjidi Aqsodan Ka'baga o'zgartirilishi qaysi yilda sodir bo'lgan?",
+          "choices": [
+            "Hijratning 2-yili",
+            "Hijratning 10-yili",
+            "Hijratning 8-yili",
+            "Hijratning 5-yili"
+          ],
+          "explanation": "Qibla o'zgarishi hijratning 2-yilida bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Bedir Savaşı'nda Müslümanların sayısı yaklaşık kaçtır?",
+      "choices": [
+        "313",
+        "700",
+        "1000",
+        "3000"
+      ],
+      "correct": 0,
+      "explanation": "Müslümanlar yaklaşık 313 kişiydi; müşrikler yaklaşık bin kişiydi.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Badr jangida musulmonlarning soni taxminan qancha edi?",
+          "choices": [
+            "313",
+            "700",
+            "1000",
+            "3000"
+          ],
+          "explanation": "Musulmonlar taxminan 313 kishi, mushriklar taxminan ming kishi edi."
+        }
+      }
+    },
+    {
+      "text": "Uhud Savaşı'nda okçulara hangi komutan başkanlık etmiştir?",
+      "choices": [
+        "Zeyd b. Hârise",
+        "Halid b. Velid",
+        "Hz. Ali",
+        "Abdullah b. Cübeyr"
+      ],
+      "correct": 3,
+      "explanation": "Abdullah b. Cübeyr, Aynenyn tepesindeki okçuların başındaydı.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Uhud jangida merganlarga qaysi sarkarda boshchilik qilgan?",
+          "choices": [
+            "Zayd ibn Horisa",
+            "Xolid ibn Valid",
+            "Hazrati Ali",
+            "Abdulloh ibn Jubayr"
+          ],
+          "explanation": "Abdulloh ibn Jubayr Aynayn tepaligidagi merganlar boshlig'i edi."
+        }
+      }
+    },
+    {
+      "text": "Uhud Savaşı'nda kaç Müslüman şehit olmuştur (yaklaşık)?",
+      "choices": [
+        "14",
+        "70",
+        "200",
+        "500"
+      ],
+      "correct": 1,
+      "explanation": "Uhud'da yaklaşık 70 sahabe şehit olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Uhud jangida taxminan nechta musulmon shahid bo'lgan?",
+          "choices": [
+            "14",
+            "70",
+            "200",
+            "500"
+          ],
+          "explanation": "Uhudda taxminan 70 sahoba shahid bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Medine'de farklı din ve kabilelerin birlikte yaşaması için hazırlanan belgeye ne ad verilir?",
+      "choices": [
+        "Hudeybiye Antlaşması",
+        "Medine Vesikası",
+        "Veda Hutbesi",
+        "Akabe Biatı"
+      ],
+      "correct": 1,
+      "explanation": "Medine Vesikası, ilk yazılı anayasa örneği kabul edilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madinada turli din va qabilalarning birga yashashi uchun tayyorlangan hujjatga nima deyiladi?",
+          "choices": [
+            "Hudaybiya bitimi",
+            "Madina vasiqasi",
+            "Vido xutbasi",
+            "Aqaba bay'ati"
+          ],
+          "explanation": "Madina vasiqasi birinchi yozma konstitutsiya namunasi hisoblanadi."
+        }
+      }
+    },
+    {
+      "text": "Hendek Savaşı hicretin kaçıncı yılında yapılmıştır?",
+      "choices": [
+        "2",
+        "5",
+        "8",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "Hendek (Ahzâb) Savaşı hicretin 5. yılında yapılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Xandaq jangi hijratning nechanchi yilida bo'lgan?",
+          "choices": [
+            "2",
+            "5",
+            "8",
+            "10"
+          ],
+          "explanation": "Xandaq (Ahzob) jangi hijratning 5-yilida bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Hudeybiye Antlaşması hicretin kaçıncı yılında yapılmıştır?",
+      "choices": [
+        "2",
+        "6",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "Hudeybiye Antlaşması hicretin 6. yılında yapılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hudaybiya sulhi hijratning nechanchi yilida tuzilgan?",
+          "choices": [
+            "2",
+            "6",
+            "9",
+            "10"
+          ],
+          "explanation": "Hudaybiya sulhi hijratning 6-yilida tuzilgan."
+        }
+      }
+    },
+    {
+      "text": "Müslümanların Hayber'i fethettiği yıl hicretin kaçıncı yılıdır?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "Hayber hicretin 7. yılında fethedilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Musulmonlar Xayberni fath etgan yil hijratning nechanchi yili?",
+          "choices": [
+            "3",
+            "5",
+            "7",
+            "10"
+          ],
+          "explanation": "Xayber hijratning 7-yilida fath etilgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in katıldığı son sefer hangisidir?",
+      "choices": [
+        "Hayber",
+        "Huneyn",
+        "Uhud",
+        "Tebük"
+      ],
+      "correct": 3,
+      "explanation": "Peygamberimiz'in son seferi Tebük'tür (hicri 9).",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz ishtirok etgan oxirgi yurish qaysi?",
+          "choices": [
+            "Xayber",
+            "Hunayn",
+            "Uhud",
+            "Tabuk"
+          ],
+          "explanation": "Payg'ambarimizning oxirgi yurishi Tabukdir (hijriy 9)."
+        }
+      }
+    },
+    {
+      "text": "Mûte Savaşı'nda İslâm ordusunun ilk komutanı kimdir?",
+      "choices": [
+        "Amr b. Âs",
+        "Hz. Ali",
+        "Halid b. Velid",
+        "Zeyd b. Hârise"
+      ],
+      "correct": 3,
+      "explanation": "Sırasıyla Zeyd, Cafer ve Abdullah b. Revâha komutan olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mu'ta jangida Islom qo'shinining birinchi sarkardasi kim edi?",
+          "choices": [
+            "Amr ibn Os",
+            "Hazrati Ali",
+            "Xolid ibn Valid",
+            "Zayd ibn Horisa"
+          ],
+          "explanation": "Ketma-ket Zayd, Ja'far va Abdulloh ibn Ravoha sarkarda bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in torunları Hasan ve Hüseyin kimin çocuklarıdır?",
+      "choices": [
+        "Hz. Ebû Bekir ve Hz. Âişe",
+        "Hz. Ömer ve Hz. Hafsa",
+        "Hz. Osman ve Hz. Rukiyye",
+        "Hz. Ali ve Hz. Fâtıma"
+      ],
+      "correct": 3,
+      "explanation": "Hasan ve Hüseyin, Hz. Ali ile Hz. Fâtıma'nın oğullarıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning nevaralari Hasan va Husayn kimning farzandlari?",
+          "choices": [
+            "Hazrati Abu Bakr va Hazrati Oisha",
+            "Hazrati Umar va Hazrati Hafsa",
+            "Hazrati Usmon va Hazrati Ruqayya",
+            "Hazrati Ali va Hazrati Fotima"
+          ],
+          "explanation": "Hasan va Husayn Hazrati Ali bilan Hazrati Fotimaning o'g'illaridir."
+        }
+      }
+    },
+    {
+      "text": "Mekke fethinde Kâbe çevresinde yaklaşık kaç put bulunduğu rivayet edilir?",
+      "choices": [
+        "40",
+        "100",
+        "360",
+        "1000"
+      ],
+      "correct": 2,
+      "explanation": "Rivayetlere göre 360 put temizlenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Makka fathida Ka'ba atrofida taxminan nechta but bo'lgani rivoyat qilinadi?",
+          "choices": [
+            "40",
+            "100",
+            "360",
+            "1000"
+          ],
+          "explanation": "Rivoyatlarga ko'ra 360 but tozalangan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz kaç yaşında vefat etmiştir?",
+      "choices": [
+        "40",
+        "53",
+        "63",
+        "73"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz 63 yaşında vefat etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz necha yoshda vafot etgan?",
+          "choices": [
+            "40",
+            "53",
+            "63",
+            "73"
+          ],
+          "explanation": "Payg'ambarimiz 63 yoshida vafot etgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz hicretin kaçıncı yılında vefat etmiştir?",
+      "choices": [
+        "6",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz hicretin 11. yılında vefat etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz hijratning nechanchi yilida vafot etgan?",
+          "choices": [
+            "6",
+            "9",
+            "11",
+            "13"
+          ],
+          "explanation": "Payg'ambarimiz hijratning 11-yilida vafot etgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz Hz. Hatice'nin vefatından sonra evlendiği ilk hanım kimdir?",
+      "choices": [
+        "Âişe",
+        "Sevde bint Zem'a",
+        "Zeynep bint Cahş",
+        "Hafsa"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Hatice'den sonra ilk olarak Sevde ile evlenmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz Hazrati Xadicha vafotidan keyin birinchi turmush qurgan ayol kim?",
+          "choices": [
+            "Oisha",
+            "Savda binti Zam'a",
+            "Zaynab binti Jahsh",
+            "Hafsa"
+          ],
+          "explanation": "Hazrati Xadichadan keyin birinchi bo'lib Savda bilan turmush qurgan."
+        }
+      }
+    },
+    {
+      "text": "Mirac gecesinde Müslümanlara farz kılınan ibadet hangisidir?",
+      "choices": [
+        "Oruç",
+        "Beş vakit namaz",
+        "Zekât",
+        "Hac"
+      ],
+      "correct": 1,
+      "explanation": "Beş vakit namaz Mirac'ta farz kılınmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Me'roj kechasida musulmonlarga farz qilingan ibodat qaysi?",
+          "choices": [
+            "Ro'za",
+            "Besh vaqt namoz",
+            "Zakot",
+            "Haj"
+          ],
+          "explanation": "Besh vaqt namoz Me'rojda farz qilingan."
+        }
+      }
+    },
+    {
+      "text": "Mirac'ta Peygamberimiz'in ulaştığı yer olarak anılan makam hangisidir?",
+      "choices": [
+        "Sidretü'l-Müntehâ",
+        "Arafat",
+        "Cûdî",
+        "Hira"
+      ],
+      "correct": 0,
+      "explanation": "Sidretü'l-Müntehâ, Mirac'ın en yüksek noktalarından biri olarak anılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Me'rojda Payg'ambarimiz yetgan joy sifatida zikr etilgan maqom qaysi?",
+          "choices": [
+            "Sidratul muntaho",
+            "Arafot",
+            "Judiy",
+            "Hiro"
+          ],
+          "explanation": "Sidratul muntaho Me'rojning eng yuqori nuqtalaridan biri sifatida zikr etiladi."
+        }
+      }
+    },
+    {
+      "text": "Hicret gecesi Peygamberimiz'in yatağında yatan kişi kimdir?",
+      "choices": [
+        "Hz. Osman",
+        "Hz. Hamza",
+        "Hz. Ali",
+        "Hz. Ömer"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ali, Peygamberimiz'in yatağında yatarak onu korumuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijrat kechasi Payg'ambarimizning o'rnida yotgan zot kim?",
+          "choices": [
+            "Hazrati Usmon",
+            "Hazrati Hamza",
+            "Hazrati Ali",
+            "Hazrati Umar"
+          ],
+          "explanation": "Hazrati Ali Payg'ambarimizning o'rnida yotib, uni himoya qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hicret sırasında Peygamberimiz'i yakalamak için peşinden giden kişi kimdir?",
+      "choices": [
+        "Ebû Süfyân",
+        "Ebû Cehil",
+        "Ebû Leheb",
+        "Sürâka b. Mâlik"
+      ],
+      "correct": 3,
+      "explanation": "Sürâka b. Mâlik yakalayamamış, sonra Müslüman olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijrat chog'ida Payg'ambarimizni qo'lga olish uchun ta'qib qilgan kishi kim?",
+          "choices": [
+            "Abu Sufyon",
+            "Abu Jahl",
+            "Abu Lahab",
+            "Suroqa ibn Molik"
+          ],
+          "explanation": "Suroqa ibn Molik qo'lga ola olmagan, keyin musulmon bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Peygamber'in Medine'de yaptığı mescidin arsası kimlerden satın alınmıştır?",
+      "choices": [
+        "Sehl ve Süheyl adlı yetimlerden",
+        "Ebû Zerr'den",
+        "Hz. Ömer'den",
+        "Ebû Eyyûb'dan"
+      ],
+      "correct": 0,
+      "explanation": "Mescid-i Nebevî'nin arsası iki yetimden satın alınmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 6,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Payg'ambar Madinada qurgan masjidning maydoni kimlardan sotib olingan?",
+          "choices": [
+            "Sahl va Suhayl ismli yetimlardan",
+            "Abu Zarrdan",
+            "Hazrati Umardan",
+            "Abu Ayyubdan"
+          ],
+          "explanation": "Masjidi Nabaviyning maydoni ikki yetimdan sotib olingan."
+        }
+      }
+    },
+    {
+      "text": "Hudeybiye'de Müslümanların Peygamberimiz'e ağaç altında verdikleri biata ne ad verilir?",
+      "choices": [
+        "Akabe Biati",
+        "Rıdvan Biati",
+        "Akabe-i Sânî",
+        "Mîsâk"
+      ],
+      "correct": 1,
+      "explanation": "Rıdvan Biati Hudeybiye'de ağaç altında verilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hudaybiyada musulmonlar Payg'ambarimizga daraxt ostida bergan bay'atga nima deyiladi?",
+          "choices": [
+            "Aqaba bay'ati",
+            "Ridvon bay'ati",
+            "Aqabai soniy",
+            "Misoq"
+          ],
+          "explanation": "Ridvon bay'ati Hudaybiyada daraxt ostida berilgan."
+        }
+      }
+    },
+    {
+      "text": "Hudeybiye Antlaşması'nda ateşkes yaklaşık kaç yıl için kararlaştırılmıştır?",
+      "choices": [
+        "2",
+        "5",
+        "10",
+        "20"
+      ],
+      "correct": 2,
+      "explanation": "Taraflar 10 yıl savaşmama konusunda anlaşmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hudaybiya sulhida sulh taxminan necha yilga kelishilgan?",
+          "choices": [
+            "2",
+            "5",
+            "10",
+            "20"
+          ],
+          "explanation": "Tomonlar 10 yil urushmaslik haqida kelishgan."
+        }
+      }
+    },
+    {
+      "text": "Hendek Savaşı sonrası kuşatılan Yahudi kabilesi hangisidir?",
+      "choices": [
+        "Benî Nadîr",
+        "Benî Kurayza",
+        "Benî Kaynukâ",
+        "Havâzin"
+      ],
+      "correct": 1,
+      "explanation": "Hendek'ten sonra Benî Kurayza kuşatılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Xandaq jangidan keyin qamal qilingan yahudiy qabilasi qaysi?",
+          "choices": [
+            "Banu Nazir",
+            "Banu Quraiza",
+            "Banu Qaynuqo",
+            "Havozin"
+          ],
+          "explanation": "Xandaqdan keyin Banu Quraiza qamal qilingan."
+        }
+      }
+    },
+    {
+      "text": "Huneyn Savaşı'nda Müslümanlara karşı savaşan kabile hangisidir?",
+      "choices": [
+        "Benî Nadîr",
+        "Kureyş",
+        "Havâzin",
+        "Gıfâr"
+      ],
+      "correct": 2,
+      "explanation": "Huneyn'de Havâzin ve Sakîf kabileleri karşı durmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hunayn jangida musulmonlarga qarshi jang qilgan qabila qaysi?",
+          "choices": [
+            "Banu Nazir",
+            "Quraysh",
+            "Havozin",
+            "G'ifor"
+          ],
+          "explanation": "Hunaynda Havozin va Saqif qabilalari qarshi turgan."
+        }
+      }
+    },
+    {
+      "text": "Mekke fethi sırasında 'Ebû Süfyân'ın evine giren emniyettedir' sözü neyi gösterir?",
+      "choices": [
+        "Savaş emrini",
+        "Kuşatma hazırlığını",
+        "Ganimet taksimini",
+        "Bağışlayıcılığı"
+      ],
+      "correct": 3,
+      "explanation": "Peygamberimiz Mekke'yi kan dökmeden fethetmiş ve geniş bir af ilan etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Makka fathida 'Abu Sufyonning uyiga kirgan omondir' degan so'z nimani ko'rsatadi?",
+          "choices": [
+            "Urush buyrug'ini",
+            "Qamal tayyorgarligini",
+            "O'ljani taqsimlashni",
+            "Kechirimliligini"
+          ],
+          "explanation": "Payg'ambarimiz Makkani qon to'kmasdan fath etib, keng avf e'lon qilgan."
+        }
+      }
+    },
+    {
+      "text": "Kâbe'nin anahtarı Mekke fethinde kime teslim edilmiştir?",
+      "choices": [
+        "Hz. Ali",
+        "Bilâl-i Habeşî",
+        "Osman b. Talha",
+        "Hz. Ömer"
+      ],
+      "correct": 2,
+      "explanation": "Peygamberimiz anahtarı Osman b. Talha'ya geri vermiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ka'baning kaliti Makka fathida kimga topshirilgan?",
+          "choices": [
+            "Hazrati Ali",
+            "Bilol Habashiy",
+            "Usmon ibn Talha",
+            "Hazrati Umar"
+          ],
+          "explanation": "Payg'ambarimiz kalitni Usmon ibn Talhaga qaytarib bergan."
+        }
+      }
+    },
+    {
+      "text": "Tebük Seferi'ne ordu hazırlığı için büyük bağışta bulunan sahabe kimdir?",
+      "choices": [
+        "Ebû Zerr",
+        "Hz. Osman",
+        "Hz. Ömer",
+        "Hz. Ali"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Osman, Cey'şü'l-Usre'nin hazırlanmasına büyük katkı yapmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Tabuk yurishi uchun qo'shin tayyorlashga katta xayriya qilgan sahoba kim?",
+          "choices": [
+            "Abu Zarr",
+            "Hazrati Usmon",
+            "Hazrati Umar",
+            "Hazrati Ali"
+          ],
+          "explanation": "Hazrati Usmon Jayshul usra tayyorlanishiga katta hissa qo'shgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz hükümdarlara İslâm'a davet mektupları yazdığında kullandığı mührün yazısı nedir?",
+      "choices": [
+        "Muhammedün Resûlullah",
+        "Lâ ilâhe illallah",
+        "Allahü Ekber",
+        "Bismillâh"
+      ],
+      "correct": 0,
+      "explanation": "Mühürde 'Muhammedün Resûlullah' yazılıdır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz hukmdorlarga Islomga da'vat maktublari yozganda ishlatgan muhrning yozuvi nima?",
+          "choices": [
+            "Muhammadur Rasulullah",
+            "La ilaha illalloh",
+            "Allohu akbar",
+            "Bismillah"
+          ],
+          "explanation": "Muhrda 'Muhammadur Rasulullah' yozilgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in İslâm'a davet mektubu gönderdiği Bizans imparatoru kimdir?",
+      "choices": [
+        "Kisrâ",
+        "Mukavkıs",
+        "Herakleios",
+        "Necâşî"
+      ],
+      "correct": 2,
+      "explanation": "Bizans İmparatoru Herakleios'a mektup gönderilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz Islomga da'vat maktubi yuborgan Vizantiya imperatori kim?",
+          "choices": [
+            "Kisro",
+            "Muqavqis",
+            "Irakliy (Herakleios)",
+            "Najoshiy"
+          ],
+          "explanation": "Vizantiya imperatori Iraklyga maktub yuborilgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in mektup gönderdiği Mısır hükümdarının unvanı nedir?",
+      "choices": [
+        "Necâşî",
+        "Mukavkıs",
+        "Kisrâ",
+        "Kayser"
+      ],
+      "correct": 1,
+      "explanation": "Mısır'ın idarecisi Mukavkıs'a mektup gönderilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 7,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz maktub yuborgan Misr hukmdorining unvoni nima?",
+          "choices": [
+            "Najoshiy",
+            "Muqavqis",
+            "Kisro",
+            "Qaysar"
+          ],
+          "explanation": "Misr hukmdori Muqavqisga maktub yuborilgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in ilk vahiyden sonra bir süre vahyin kesilmesine ne denir?",
+      "choices": [
+        "İsrâ",
+        "Fetret-i vahiy",
+        "Mirac",
+        "Şakk-ı sadr"
+      ],
+      "correct": 1,
+      "explanation": "İlk vahiyden sonra bir süre vahiy kesilmiş, buna fetret-i vahiy denmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Birinchi vahiydan keyin bir muddat vahiyning to'xtashiga nima deyiladi?",
+          "choices": [
+            "Isro",
+            "Fatrati vahiy",
+            "Me'roj",
+            "Shaqqi sadr"
+          ],
+          "explanation": "Birinchi vahiydan keyin bir muddat vahiy to'xtagan, bunga fatrati vahiy deyilgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz küçükken kalbinin yarılıp temizlenmesi olayı hangi isimle anılır?",
+      "choices": [
+        "Fetret",
+        "İsrâ",
+        "Şakk-ı sadr",
+        "Hicret"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Halime'nin yanındayken göğsünün yarılıp temizlendiği rivayet edilir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz kichikligida ko'ksining yorilib tozalanishi voqeasi qanday ataladi?",
+          "choices": [
+            "Fatrat",
+            "Isro",
+            "Shaqqi sadr",
+            "Hijrat"
+          ],
+          "explanation": "Hazrati Halima yonida paytida ko'ksi yorilib tozalangani rivoyat qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz gençken amcasıyla Şam yolculuğunda kendisiyle karşılaşan rahip kimdir?",
+      "choices": [
+        "Selmân",
+        "Bahîrâ",
+        "Necâşî",
+        "Varaka b. Nevfel"
+      ],
+      "correct": 1,
+      "explanation": "Bahîrâ rahibi, Peygamberimiz'in ileride peygamber olacağına dair işaretler görmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz yoshligida amakisi bilan Shomga safarida uchrashgan rohib kim?",
+          "choices": [
+            "Salmon",
+            "Bahiro",
+            "Najoshiy",
+            "Varaqa ibn Navfal"
+          ],
+          "explanation": "Rohib Bahiro Payg'ambarimizning kelajakda payg'ambar bo'lishiga oid alomatlarni ko'rgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hatice'nin amcaoğlu ve ilk vahiy sonrasında Peygamberimiz'e destek veren kişi kimdir?",
+      "choices": [
+        "Abdullah b. Selâm",
+        "Bahîrâ",
+        "Ebû Tâlib",
+        "Varaka b. Nevfel"
+      ],
+      "correct": 3,
+      "explanation": "Varaka b. Nevfel, Hz. Hatice'nin amcaoğlu olup önceki kitapları bilen biriydi.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Xadichaning amakivachchasi va birinchi vahiydan keyin Payg'ambarimizga qo'llab-quvvatlash bergan kishi kim?",
+          "choices": [
+            "Abdulloh ibn Salom",
+            "Bahiro",
+            "Abu Tolib",
+            "Varaqa ibn Navfal"
+          ],
+          "explanation": "Varaqa ibn Navfal Hazrati Xadichaning amakivachchasi bo'lib, avvalgi kitoblarni biladigan kishi edi."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz gençliğinde katıldığı, mazlumu koruma amacıyla kurulan topluluğa ne ad verilir?",
+      "choices": [
+        "Dârü'n-Nedve",
+        "Mîsâk-ı Medine",
+        "Hılfü'l-Fudûl",
+        "Rıdvan"
+      ],
+      "correct": 2,
+      "explanation": "Hılfü'l-Fudûl, haksızlığa uğrayanları korumak için kurulmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz yoshligida qatnashgan, mazlumni himoya qilish maqsadida tuzilgan uyushmaga nima deyiladi?",
+          "choices": [
+            "Doran nadva",
+            "Misoqi Madina",
+            "Hilful fudul",
+            "Ridvon"
+          ],
+          "explanation": "Hilful fudul nohaqlikka uchraganlarni himoya qilish uchun tuzilgan."
+        }
+      }
+    },
+    {
+      "text": "İkinci Akabe Biatı'nda kaç erkek (yaklaşık) ve iki kadın biat etmiştir?",
+      "choices": [
+        "12",
+        "40",
+        "73",
+        "300"
+      ],
+      "correct": 2,
+      "explanation": "İkinci Akabe Biatı'nda 73 erkek ve 2 kadın biat etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Ikkinchi Aqaba bay'atida taxminan nechta erkak va ikki ayol bay'at qilgan?",
+          "choices": [
+            "12",
+            "40",
+            "73",
+            "300"
+          ],
+          "explanation": "Ikkinchi Aqaba bay'atida 73 erkak va 2 ayol bay'at qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hicret'te Peygamberimiz ve Hz. Ebû Bekir'in yolda uğradığı, çadırında süt ikram eden kadın kimdir?",
+      "choices": [
+        "Hz. Fâtıma",
+        "Ümmü Ma'bed",
+        "Ümmü Eymen",
+        "Hz. Hatice"
+      ],
+      "correct": 1,
+      "explanation": "Hicret yolunda Ümmü Ma'bed'in çadırı meşhurdur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijratda Payg'ambarimiz va Hazrati Abu Bakr yo'lda to'xtagan, chodirida sut ikrom qilgan ayol kim?",
+          "choices": [
+            "Hazrati Fotima",
+            "Ummu Ma'bad",
+            "Ummu Ayman",
+            "Hazrati Xadicha"
+          ],
+          "explanation": "Hijrat yo'lida Ummu Ma'badning chodiri mashhur."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz ve Hz. Ebû Bekir hicret sırasında Sevr Mağarası'nda kaç gün kalmıştır?",
+      "choices": [
+        "1",
+        "3",
+        "7",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "Sevr Mağarası'nda üç gün kalmışlardır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz va Hazrati Abu Bakr hijrat chog'ida Savr g'orida necha kun qolgan?",
+          "choices": [
+            "1",
+            "3",
+            "7",
+            "10"
+          ],
+          "explanation": "Savr g'orida uch kun qolishgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz Tâif dönüşünde Mekke'ye hangi kişinin himayesinde girmiştir?",
+      "choices": [
+        "Ebû Leheb",
+        "Ebû Süfyân",
+        "Ebû Cehil",
+        "Mut'im b. Adî"
+      ],
+      "correct": 3,
+      "explanation": "Mut'im b. Adî, Peygamberimiz'e himaye vermiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz Toifdan qaytganda Makkaga kimning himoyasida kirgan?",
+          "choices": [
+            "Abu Lahab",
+            "Abu Sufyon",
+            "Abu Jahl",
+            "Mut'im ibn Adiy"
+          ],
+          "explanation": "Mut'im ibn Adiy Payg'ambarimizga himoya bergan."
+        }
+      }
+    },
+    {
+      "text": "Hicret öncesi Mekkeli müşriklerin Peygamberimiz'i öldürme kararını aldığı toplantı yeri hangisidir?",
+      "choices": [
+        "Hira",
+        "Dârü'l-Erkam",
+        "Dârü'n-Nedve",
+        "Safâ"
+      ],
+      "correct": 2,
+      "explanation": "Kureyş, Dârü'n-Nedve'de toplanmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 2,
+      "level": 8,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijratdan oldin Makkalik mushriklar Payg'ambarimizni o'ldirish qarorini qabul qilgan yig'in joyi qaysi?",
+          "choices": [
+            "Hiro",
+            "Doral Arqam",
+            "Doran nadva",
+            "Safo"
+          ],
+          "explanation": "Quraysh Doran nadvada yig'ilgan."
+        }
+      }
+    },
+    {
+      "text": "Uhud Savaşı'nda Peygamberimiz'in kırılan uzvu hangisidir?",
+      "choices": [
+        "Dişi",
+        "Kolu",
+        "Gözü",
+        "Ayağı"
+      ],
+      "correct": 0,
+      "explanation": "Uhud'da Peygamberimiz'in mübarek dişi kırılmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Uhud jangida Payg'ambarimizning sinishi qayd etilgan a'zosi qaysi?",
+          "choices": [
+            "Tishi",
+            "Qo'li",
+            "Ko'zi",
+            "Oyog'i"
+          ],
+          "explanation": "Uhudda Payg'ambarimizning muborak tishi singan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Hamza'yı Uhud'da şehit eden kişi kimdir?",
+      "choices": [
+        "Vahşî",
+        "Ebû Süfyân",
+        "Halid b. Velid",
+        "Ebû Cehil"
+      ],
+      "correct": 0,
+      "explanation": "Vahşî, Hz. Hamza'yı şehit etmiştir; sonradan Müslüman olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Hamzani Uhudda shahid qilgan kishi kim?",
+          "choices": [
+            "Vahshiy",
+            "Abu Sufyon",
+            "Xolid ibn Valid",
+            "Abu Jahl"
+          ],
+          "explanation": "Vahshiy Hazrati Hamzani shahid qilgan; keyinchalik musulmon bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Uhud'da Müslümanların sancaktarı olan sahabe kimdir?",
+      "choices": [
+        "Mus'ab b. Umeyr",
+        "Hz. Hamza",
+        "Hz. Ali",
+        "Zübeyr b. Avvâm"
+      ],
+      "correct": 0,
+      "explanation": "Mus'ab b. Umeyr sancaktardı ve şehit olmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Uhudda musulmonlarning bayroqdori bo'lgan sahoba kim?",
+          "choices": [
+            "Mus'ab ibn Umayr",
+            "Hazrati Hamza",
+            "Hazrati Ali",
+            "Zubayr ibn Avvom"
+          ],
+          "explanation": "Mus'ab ibn Umayr bayroqdor edi va shahid bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Mûte Savaşı'nda ordunun komutasını devralıp Müslümanları kurtaran komutan kimdir?",
+      "choices": [
+        "Halid b. Velid",
+        "Hz. Ali",
+        "Amr b. Âs",
+        "Sa'd b. Ebî Vakkâs"
+      ],
+      "correct": 0,
+      "explanation": "Halid b. Velid, ordunun geri çekilmesini başarıyla yürütmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Mu'ta jangida qo'shin qo'mondonligini o'z qo'liga olib musulmonlarni qutqargan sarkarda kim?",
+          "choices": [
+            "Xolid ibn Valid",
+            "Hazrati Ali",
+            "Amr ibn Os",
+            "Sa'd ibn Abu Vaqqos"
+          ],
+          "explanation": "Xolid ibn Valid qo'shinning chekinishini muvaffaqiyatli boshqargan."
+        }
+      }
+    },
+    {
+      "text": "Mekke fethinde Peygamberimiz Kâbe'yi neyden temizlemiştir?",
+      "choices": [
+        "Kumlardan",
+        "Putlardan",
+        "Hayvanlardan",
+        "Silahlardan"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz Kâbe'yi putlardan temizlemiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Makka fathida Payg'ambarimiz Ka'bani nimadan tozalagan?",
+          "choices": [
+            "Qumlardan",
+            "Butlardan",
+            "Hayvonlardan",
+            "Qurollardan"
+          ],
+          "explanation": "Payg'ambarimiz Ka'bani butlardan tozalagan."
+        }
+      }
+    },
+    {
+      "text": "Veda Hutbesi'nde Peygamberimiz'in vurguladığı konulardan biri hangisidir?",
+      "choices": [
+        "Savaş hazırlığı",
+        "Kan ve mal dokunulmazlığı",
+        "Ticaret yolları",
+        "Hilâfet seçimi"
+      ],
+      "correct": 1,
+      "explanation": "Hutbede can, mal ve namus dokunulmazlığı vurgulanmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Vido xutbasida Payg'ambarimiz ta'kidlagan masalalardan biri qaysi?",
+          "choices": [
+            "Urush tayyorgarligi",
+            "Jon va mol daxlsizligi",
+            "Savdo yo'llari",
+            "Xalifalik saylovi"
+          ],
+          "explanation": "Xutbada jon, mol va nomus daxlsizligi ta'kidlangan."
+        }
+      }
+    },
+    {
+      "text": "'Bugün size dininizi kemale erdirdim' meâlindeki ayet nerede inmiştir?",
+      "choices": [
+        "Medine",
+        "Arafat",
+        "Hudeybiye",
+        "Mina"
+      ],
+      "correct": 1,
+      "explanation": "Mâide 3. ayet, Veda Haccı'nda Arafat'ta inmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Bugun sizlarga dinlaringizni mukammal qildim' ma'nosidagi oyat qayerda nozil bo'lgan?",
+          "choices": [
+            "Madina",
+            "Arafot",
+            "Hudaybiya",
+            "Mino"
+          ],
+          "explanation": "Moida 3-oyat Vido hajida Arafotda nozil bo'lgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz hastalığında kimi namaz imamlığına geçirmiştir?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ebû Bekir",
+        "Hz. Osman",
+        "Hz. Ali"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz hastalığında imamlığı Hz. Ebû Bekir'e bırakmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz kasalligida namoz imomligini kimga topshirgan?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Abu Bakr",
+            "Hazrati Usmon",
+            "Hazrati Ali"
+          ],
+          "explanation": "Payg'ambarimiz kasalligida imomlikni Hazrati Abu Bakrga qoldirgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz hangi gün vefat etmiştir?",
+      "choices": [
+        "Salı",
+        "Pazartesi",
+        "Perşembe",
+        "Cuma"
+      ],
+      "correct": 1,
+      "explanation": "Peygamberimiz Pazartesi günü vefat etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz qaysi kuni vafot etgan?",
+          "choices": [
+            "Seshanba",
+            "Dushanba",
+            "Payshanba",
+            "Juma"
+          ],
+          "explanation": "Payg'ambarimiz dushanba kuni vafot etgan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz nerede defnedilmiştir?",
+      "choices": [
+        "Hz. Âişe'nin odasında",
+        "Uhud'da",
+        "Mescid-i Kuba'da",
+        "Bakî'de"
+      ],
+      "correct": 0,
+      "explanation": "Peygamberimiz, vefat ettiği Hz. Âişe'nin odasına defnedilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimiz qayerda dafn etilgan?",
+          "choices": [
+            "Hazrati Oishaning hujrasida",
+            "Uhudda",
+            "Quba masjidida",
+            "Baqiyda"
+          ],
+          "explanation": "Payg'ambarimiz vafot etgan Hazrati Oishaning hujrasiga dafn etilgan."
+        }
+      }
+    },
+    {
+      "text": "'En yakın akrabalarını uyar' mealindeki ayet hangi surededir?",
+      "choices": [
+        "Nâs",
+        "İhlâs",
+        "Şuarâ",
+        "Fâtiha"
+      ],
+      "correct": 2,
+      "explanation": "Şuarâ 214. ayet üzerine Peygamberimiz yakın akrabalarını imana davet etmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "'Eng yaqin qarindoshlaringni ogohlantir' ma'nosidagi oyat qaysi surada?",
+          "choices": [
+            "Nos",
+            "Ixlos",
+            "Shuaro",
+            "Fotiha"
+          ],
+          "explanation": "Shuaro 214-oyat ustiga Payg'ambarimiz yaqin qarindoshlarini iymonga da'vat qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ömer'in Müslüman olmasından önce Müslüman olan ve kız kardeşinin kocası olan sahabi kimdir?",
+      "choices": [
+        "Hz. Hamza",
+        "Saîd b. Zeyd",
+        "Ebû Zerr",
+        "Hz. Osman"
+      ],
+      "correct": 1,
+      "explanation": "Hz. Ömer'in kız kardeşi Fâtıma ve eşi Saîd b. Zeyd daha önce Müslüman olmuştu.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Umar musulmon bo'lishidan oldin musulmon bo'lgan va singlisining eri bo'lgan sahoba kim?",
+          "choices": [
+            "Hazrati Hamza",
+            "Said ibn Zayd",
+            "Abu Zarr",
+            "Hazrati Usmon"
+          ],
+          "explanation": "Hazrati Umarning singlisi Fotima va eri Said ibn Zayd ilgari musulmon bo'lgan edi."
+        }
+      }
+    },
+    {
+      "text": "Mekke'de Müslümanların işkenceye maruz kaldığı sırada ilk şehit olan kadın sahabi kimdir?",
+      "choices": [
+        "Hz. Fâtıma",
+        "Hz. Âişe",
+        "Hz. Hatice",
+        "Sümeyye bint Hayyât"
+      ],
+      "correct": 3,
+      "explanation": "Sümeyye, Müslümanlıkta ilk şehit olan kadındır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Makkada musulmonlar qiynoqqa solingan paytda birinchi shahid bo'lgan ayol sahoba kim?",
+          "choices": [
+            "Hazrati Fotima",
+            "Hazrati Oisha",
+            "Hazrati Xadicha",
+            "Sumayya binti Xayyot"
+          ],
+          "explanation": "Sumayya Islomda birinchi shahid bo'lgan ayoldir."
+        }
+      }
+    },
+    {
+      "text": "Hz. Ebû Bekir, Mekke döneminde hangi sahabiyi satın alarak özgür bırakmıştır?",
+      "choices": [
+        "Ammâr b. Yâsir",
+        "Salmân",
+        "Bilâl-i Habeşî",
+        "Hz. Ali"
+      ],
+      "correct": 2,
+      "explanation": "Hz. Ebû Bekir, Bilâl-i Habeşî'yi satın alıp özgür bırakmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hazrati Abu Bakr Makka davrida qaysi sahobani sotib olib ozod qilgan?",
+          "choices": [
+            "Ammor ibn Yosir",
+            "Salmon",
+            "Bilol Habashiy",
+            "Hazrati Ali"
+          ],
+          "explanation": "Hazrati Abu Bakr Bilol Habashiyni sotib olib ozod qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hicretin ilk yıllarında Medine'de Peygamberimiz tarafından kurulan ve fakir muhacirlerin kaldığı yer neresidir?",
+      "choices": [
+        "Safâ",
+        "Kuba",
+        "Dârü'l-Erkam",
+        "Suffe"
+      ],
+      "correct": 3,
+      "explanation": "Mescid-i Nebevî'nin bir bölümü olan Suffe'de fakir muhacirler kalırdı.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijratning dastlabki yillarida Madinada kambag'al muhojirlar yashagan joy qaysi?",
+          "choices": [
+            "Safo",
+            "Quba",
+            "Doral Arqam",
+            "Suffa"
+          ],
+          "explanation": "Masjidi Nabaviyning bir qismi bo'lgan Suffada kambag'al muhojirlar yashagan."
+        }
+      }
+    },
+    {
+      "text": "Medine'de ezanın meşrû kılınmasından önce Abdullah b. Zeyd'in gördüğü rüya neyle ilgilidir?",
+      "choices": [
+        "Kıble değişikliği",
+        "Zekât",
+        "Ezan lafızları",
+        "Hac"
+      ],
+      "correct": 2,
+      "explanation": "Abdullah b. Zeyd, ezan lafızlarını rüyasında görmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Madinada azon joriy qilinishidan oldin Abdulloh ibn Zayd ko'rgan tush nima bilan bog'liq?",
+          "choices": [
+            "Qibla o'zgarishi",
+            "Zakot",
+            "Azon lafzlari",
+            "Haj"
+          ],
+          "explanation": "Abdulloh ibn Zayd azon lafzlarini tushida ko'rgan."
+        }
+      }
+    },
+    {
+      "text": "Müşrik elçi olarak Hudeybiye'de Peygamberimiz'le anlaşma yapan Kureyş temsilcisi kimdir?",
+      "choices": [
+        "Süheyl b. Amr",
+        "Utbe b. Rebîa",
+        "Ebû Süfyân",
+        "Ebû Cehil"
+      ],
+      "correct": 0,
+      "explanation": "Antlaşma metnini Kureyş adına Süheyl b. Amr görüşmüştür.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hudaybiyada Payg'ambarimiz bilan kelishuv tuzgan Quraysh vakili kim?",
+          "choices": [
+            "Suhayl ibn Amr",
+            "Utba ibn Rabia",
+            "Abu Sufyon",
+            "Abu Jahl"
+          ],
+          "explanation": "Bitim matnini Quraysh nomidan Suhayl ibn Amr muzokara qilgan."
+        }
+      }
+    },
+    {
+      "text": "Hayber Savaşı'nda Kamûs Kalesi'nin fethiyle öne çıkan sahabe kimdir?",
+      "choices": [
+        "Hz. Ömer",
+        "Hz. Ali",
+        "Hz. Osman",
+        "Zeyd b. Hârise"
+      ],
+      "correct": 1,
+      "explanation": "Kamûs Kalesi'nin fethinde Hz. Ali'nin liderliği öne çıkmıştır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Xayber jangida Qamus qal'asining fathi bilan ajralib turgan sahoba kim?",
+          "choices": [
+            "Hazrati Umar",
+            "Hazrati Ali",
+            "Hazrati Usmon",
+            "Zayd ibn Horisa"
+          ],
+          "explanation": "Qamus qal'asining fathida Hazrati Alining yetakchiligi ajralib turgan."
+        }
+      }
+    },
+    {
+      "text": "Tebük Seferi'nde mazeretsiz geri kalan ve sonra tövbesi kabul edilen üç sahabeden biri kimdir?",
+      "choices": [
+        "Kâ'b b. Mâlik",
+        "Bilâl",
+        "Hz. Ömer",
+        "Hz. Osman"
+      ],
+      "correct": 0,
+      "explanation": "Kâ'b b. Mâlik, Hilâl b. Ümeyye ve Mürâre b. Rebî'in tövbesi kabul edilmiştir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Tabuk yurishida uzrsiz qolib, keyin tavbasi qabul qilingan uch sahobadan biri kim?",
+          "choices": [
+            "Ka'b ibn Molik",
+            "Bilol",
+            "Hazrati Umar",
+            "Hazrati Usmon"
+          ],
+          "explanation": "Ka'b ibn Molik, Hilol ibn Umayya va Murora ibn Rabi'ning tavbasi qabul qilingan."
+        }
+      }
+    },
+    {
+      "text": "Peygamberimiz'in Veda Haccı'nda yaklaşık kaç kişinin onunla birlikte bulunduğu rivayet edilir?",
+      "choices": [
+        "3.000",
+        "313",
+        "700",
+        "100.000'den fazla"
+      ],
+      "correct": 3,
+      "explanation": "Rivayetlere göre yüz binden fazla kişi hazır bulunmuştur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Payg'ambarimizning Vido hajida u bilan birga taxminan necha kishi bo'lgani rivoyat qilinadi?",
+          "choices": [
+            "3 000",
+            "313",
+            "700",
+            "100 000 dan ortiq"
+          ],
+          "explanation": "Rivoyatlarga ko'ra yuz mingdan ortiq kishi hozir bo'lgan."
+        }
+      }
     }
   ]
 }
