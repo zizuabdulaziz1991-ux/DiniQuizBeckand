@@ -1872,7 +1872,7 @@
       }
     },
     {
-      "text": "Kur'an'a göre insanlığın ilk peygamberi olarak kabul edilen kişi kimdir?",
+      "text": "Yeryüzü halkına gönderilen ilk resûl olarak kabul edilen kişi kimdir?",
       "choices": [
         "Hz. Nûh",
         "Hz. Âdem",
@@ -1887,7 +1887,7 @@
       "approved": false,
       "translations": {
         "uz": {
-          "text": "Qur'on va islomiy e'tiqodga ko'ra insoniyatning birinchi payg'ambari kim?",
+          "text": "Yer yuzi ahliga yuborilgan birinchi rasul hisoblangan zot kim?",
           "choices": [
             "Hazrati Nuh",
             "Hazrati Odam",
@@ -1896,7 +1896,8 @@
           ],
           "explanation": "Hazrati Nuh yer yuzi ahliga yuborilgan birinchi rasul hisoblanadi."
         }
-      }
+      },
+      "renamed_from": "Kur'an'a göre insanlığın ilk peygamberi olarak kabul edilen kişi kimdir?"
     },
     {
       "text": "Mekke'de inen surelere ne denir?",

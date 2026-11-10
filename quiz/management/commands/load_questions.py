@@ -82,6 +82,17 @@ class Command(BaseCommand):
                 errors.append(f"{where}: 'level' 1-{settings.QUIZ_LEVELS} arasında olmalı")
                 continue
 
+            # "renamed_from": soru metni değiştiyse eski kaydı (id ve onay korunarak) yeniden adlandır
+            renamed = False
+            old_text = q.get("renamed_from")
+            if old_text and old_text != q["text"]:
+                if not Question.objects.filter(category=category, text=q["text"]).exists():
+                    old = Question.objects.filter(category=category, text=old_text).first()
+                    if old:
+                        old.text = q["text"]
+                        old.save(update_fields=["text", "updated_at"])
+                        renamed = True
+
             question, was_created = Question.objects.get_or_create(
                 category=category, text=q["text"]
             )
@@ -96,7 +107,7 @@ class Command(BaseCommand):
             # Onaylanmış bir soru bu komutla asla geri çekilmez.
             if approve and q.get("approved", True) is not False:
                 values["is_approved"] = True
-            changed = _sync(question, values)
+            changed = _sync(question, values) or renamed
             changed |= self._sync_choices(question, choices, correct)
             tr_changed, tr_errors = self._sync_translations(
                 question, q.get("translations", {}), where
