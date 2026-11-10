@@ -1062,33 +1062,6 @@
       }
     },
     {
-      "text": "Dört Sünnî fıkıh mezhebinin imamları arasında yer almayan kişi kimdir?",
-      "choices": [
-        "İbn Teymiyye",
-        "Şâfiî",
-        "Ebû Hanîfe",
-        "Mâlik b. Enes"
-      ],
-      "correct": 0,
-      "explanation": "Dört mezhep imamı Ebû Hanîfe, Mâlik, Şâfiî ve Ahmed b. Hanbel'dir.",
-      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
-      "difficulty": 1,
-      "level": 5,
-      "approved": false,
-      "translations": {
-        "uz": {
-          "text": "To'rt sunniy fiqh mazhabi imomlari orasida bo'lmagan kishi kim?",
-          "choices": [
-            "Ibn Taymiyya",
-            "Shofe'iy",
-            "Abu Hanifa",
-            "Molik ibn Anas"
-          ],
-          "explanation": "To'rt mazhab imomi Abu Hanifa, Molik, Shofe'iy va Ahmad ibn Hanbaldir."
-        }
-      }
-    },
-    {
       "text": "Mâlikî mezhebinin imamı hangi şehirde yaşamıştır?",
       "choices": [
         "Medine",
@@ -2331,33 +2304,6 @@
       }
     },
     {
-      "text": "Osmanlı döneminde hazırlanan ve Hanefî fıkhına dayanan hukuk kanunnamesi hangisidir?",
-      "choices": [
-        "Kânûnnâme-i Âl-i Osmân",
-        "Islahat Fermanı",
-        "Tanzîmât Fermanı",
-        "Mecelle"
-      ],
-      "correct": 3,
-      "explanation": "Mecelle-i Ahkâm-ı Adliyye, Hanefî fıkhına dayalı medenî kanundur.",
-      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
-      "difficulty": 3,
-      "level": 9,
-      "approved": false,
-      "translations": {
-        "uz": {
-          "text": "Usmonlilar davrida tayyorlangan va Hanafiy fiqhiga asoslangan huquq qonunnomasi qaysi?",
-          "choices": [
-            "Qonunnomai Ali Usmon",
-            "Islohot farmoni",
-            "Tanzimot farmoni",
-            "Majalla"
-          ],
-          "explanation": "Majallai ahkomi adliya Hanafiy fiqhiga asoslangan fuqarolik kodeksidir."
-        }
-      }
-    },
-    {
       "text": "Hz. Ömer b. Abdülazîz, hadisle ilgili hangi önemli girişimi başlatmıştır?",
       "choices": [
         "Hadislerin yasaklanması",
@@ -2520,60 +2466,6 @@
       }
     },
     {
-      "text": "Mâtürîdî ve Eş'arî ekollerinin ortak adı nedir?",
-      "choices": [
-        "Mu'tezile",
-        "Ehl-i Sünnet vel-Cemâ'at",
-        "Şia",
-        "Hâricîler"
-      ],
-      "correct": 1,
-      "explanation": "Her iki ekol de Ehl-i Sünnet itikadını sistemleştirmiştir.",
-      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
-      "difficulty": 3,
-      "level": 10,
-      "approved": false,
-      "translations": {
-        "uz": {
-          "text": "Moturidiy va Ash'ariy maktablarining umumiy nomi nima?",
-          "choices": [
-            "Mu'taziliylar",
-            "Ahli sunna val jamoa",
-            "Shia",
-            "Xorijiylar"
-          ],
-          "explanation": "Ikkala maktab ham Ahli sunna e'tiqodini tizimlashtirgan."
-        }
-      }
-    },
-    {
-      "text": "Mu'tezile mezhebinin öne çıkardığı ilke hangisidir?",
-      "choices": [
-        "Yalnızca rivayet",
-        "Aklı öne alan yorum",
-        "Yalnızca taklit",
-        "Savaşın ilkesi"
-      ],
-      "correct": 1,
-      "explanation": "Mu'tezile, akla geniş yer veren kelâmî bir ekoldür.",
-      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
-      "difficulty": 3,
-      "level": 10,
-      "approved": false,
-      "translations": {
-        "uz": {
-          "text": "Mu'taziliya mazhabining ilgari surgan tamoyili qaysi?",
-          "choices": [
-            "Faqat rivoyat",
-            "Aqlni oldinga qo'yuvchi sharh",
-            "Faqat taqlid",
-            "Urush tamoyili"
-          ],
-          "explanation": "Mu'taziliya aqlga keng o'rin beradigan kalomiy maktabdir."
-        }
-      }
-    },
-    {
       "text": "Akaidde 'Tahâvî Akîdesi' hangi mezhep âlimine aittir?",
       "choices": [
         "Şâfiî âlimi Nevevî",
@@ -2678,6 +2570,114 @@
             "Shafoat"
           ],
           "explanation": "Payg'ambarimiz qasddan o'ziga yolg'on isnod qilganning o'rnini jahannamda tayyorlashini bildirgan."
+        }
+      }
+    },
+    {
+      "text": "Abdest alırken eller nereye kadar yıkanır?",
+      "choices": [
+        "Bileklere kadar",
+        "Omuzlara kadar",
+        "Dirseklerle birlikte",
+        "Parmak uçlarına kadar"
+      ],
+      "correct": 2,
+      "explanation": "Mâide Sûresi 6. ayete göre eller dirseklerle birlikte yıkanır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Tahorat olayotganda qo'llar qayergacha yuviladi?",
+          "choices": [
+            "Bilaklargacha",
+            "Yelkalargacha",
+            "Tirsaklar bilan birga",
+            "Barmoq uchlarigacha"
+          ],
+          "explanation": "Moida surasi 6-oyatiga ko'ra qo'llar tirsaklar bilan birga yuviladi."
+        }
+      }
+    },
+    {
+      "text": "Arafat'ta vakfe Zilhicce ayının kaçıncı günü yapılır?",
+      "choices": [
+        "1. günü",
+        "12. günü",
+        "9. günü",
+        "10. günü"
+      ],
+      "correct": 2,
+      "explanation": "Arafat vakfesi Zilhicce'nin 9. günü (Arefe günü) yapılır.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 9,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Arafotda vuquf Zulhijja oyining nechanchi kuni qilinadi?",
+          "choices": [
+            "1-kuni",
+            "12-kuni",
+            "9-kuni",
+            "10-kuni"
+          ],
+          "explanation": "Arafot vuqufi Zulhijjaning 9-kuni (Arafa kuni) qilinadi."
+        }
+      }
+    },
+    {
+      "text": "Tavafa Kâbe'de hangi yerden başlanır?",
+      "choices": [
+        "Safâ Tepesi",
+        "Zemzem kuyusu",
+        "Makâm-ı İbrâhim",
+        "Hacerülesved"
+      ],
+      "correct": 3,
+      "explanation": "Tavaf Hacerülesved hizasından başlar ve orada biter.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Tavofga Ka'bada qaysi joydan boshlanadi?",
+          "choices": [
+            "Safo tepaligi",
+            "Zamzam quduqi",
+            "Maqomi Ibrohim",
+            "Hajarul asvad"
+          ],
+          "explanation": "Tavof Hajarul asvad ro'parasidan boshlanadi va shu yerda tugaydi."
+        }
+      }
+    },
+    {
+      "text": "Cuma namazından önce okunan konuşmaya ne denir?",
+      "choices": [
+        "Tesbih",
+        "Ezan",
+        "Hutbe",
+        "Kamet"
+      ],
+      "correct": 2,
+      "explanation": "Cuma namazından önce imam tarafından hutbe okunur.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Juma namozidan oldin o'qiladigan nutqqa nima deyiladi?",
+          "choices": [
+            "Tasbeh",
+            "Azon",
+            "Xutba",
+            "Iqomat"
+          ],
+          "explanation": "Juma namozidan oldin imom tomonidan xutba o'qiladi."
         }
       }
     }

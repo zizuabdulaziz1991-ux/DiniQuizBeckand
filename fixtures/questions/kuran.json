@@ -1879,8 +1879,8 @@
         "Hz. İbrâhim",
         "Hz. İdrîs"
       ],
-      "correct": 1,
-      "explanation": "Hz. Âdem ilk insan ve ilk peygamber kabul edilir.",
+      "correct": 0,
+      "explanation": "Hz. Nûh, yeryüzü halkına gönderilen ilk resûl olarak kabul edilir.",
       "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
       "difficulty": 2,
       "level": 8,
@@ -1894,7 +1894,7 @@
             "Hazrati Ibrohim",
             "Hazrati Idris"
           ],
-          "explanation": "Hazrati Odam birinchi inson va birinchi payg'ambar hisoblanadi."
+          "explanation": "Hazrati Nuh yer yuzi ahliga yuborilgan birinchi rasul hisoblanadi."
         }
       }
     },

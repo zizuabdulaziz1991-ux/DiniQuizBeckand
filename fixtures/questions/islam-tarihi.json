@@ -1170,33 +1170,6 @@
       }
     },
     {
-      "text": "Beytü'l-Hikme'nin en parlak dönemini yaşadığı Abbâsî halifesi kimdir?",
-      "choices": [
-        "Mansûr",
-        "Me'mûn",
-        "Mütevekkil",
-        "Mu'tasım"
-      ],
-      "correct": 1,
-      "explanation": "Beytü'l-Hikme Me'mûn zamanında çeviri ve bilim faaliyetleriyle parlamıştır.",
-      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
-      "difficulty": 1,
-      "level": 5,
-      "approved": false,
-      "translations": {
-        "uz": {
-          "text": "Baytul hikma eng gullagan davrini boshdan kechirgan Abbosiy xalifa kim?",
-          "choices": [
-            "Mansur",
-            "Ma'mun",
-            "Mutavakkil",
-            "Mu'tasim"
-          ],
-          "explanation": "Baytul hikma Ma'mun zamonida tarjima va ilmiy faoliyat bilan gullab-yashnagan."
-        }
-      }
-    },
-    {
       "text": "Hârizmî hangi alanda yaptığı çalışmalarla tanınır?",
       "choices": [
         "Cebir ve matematik",
@@ -2466,60 +2439,6 @@
       }
     },
     {
-      "text": "Sıffîn Savaşı'ndan sonra Hz. Ali'nin ordusundan ayrılan gruba ne ad verilir?",
-      "choices": [
-        "Ensâr",
-        "Şiîler",
-        "Hâricîler",
-        "Mu'tezile"
-      ],
-      "correct": 2,
-      "explanation": "Hakem olayını kabul etmeyenler Hâricîler adıyla anılmıştır.",
-      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
-      "difficulty": 3,
-      "level": 10,
-      "approved": false,
-      "translations": {
-        "uz": {
-          "text": "Siffin jangidan keyin Hazrati Alining qo'shinidan ajralgan guruhga nima deyiladi?",
-          "choices": [
-            "Ansor",
-            "Shialar",
-            "Xorijiylar",
-            "Mu'taziliy"
-          ],
-          "explanation": "Hakam voqeasini qabul qilmaganlar Xorijiylar nomi bilan atalgan."
-        }
-      }
-    },
-    {
-      "text": "Hz. Ali ile Hâricîler arasındaki savaş hangisidir?",
-      "choices": [
-        "Nehrevân",
-        "Kadisiye",
-        "Bedir",
-        "Yermük"
-      ],
-      "correct": 0,
-      "explanation": "Nehrevân'da Hz. Ali Hâricîleri yenmiştir.",
-      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
-      "difficulty": 3,
-      "level": 10,
-      "approved": false,
-      "translations": {
-        "uz": {
-          "text": "Hazrati Ali bilan Xorijiylar o'rtasidagi jang qaysi?",
-          "choices": [
-            "Nahravon",
-            "Qodisiya",
-            "Badr",
-            "Yarmuk"
-          ],
-          "explanation": "Nahravonda Hazrati Ali Xorijiylarni yengdi."
-        }
-      }
-    },
-    {
       "text": "Hz. Ömer'in şehit edildiği yer neresidir?",
       "choices": [
         "Mescid-i Nebevî",
@@ -2678,6 +2597,87 @@
             "Parchalanish va beyliklar davri"
           ],
           "explanation": "Sanjarning vafoti bilan Buyuk Saljuqiylar davlati parchalangan."
+        }
+      }
+    },
+    {
+      "text": "Fatih Sultan Mehmed, İstanbul'un fethinde kaç yaşındaydı?",
+      "choices": [
+        "15",
+        "21",
+        "30",
+        "40"
+      ],
+      "correct": 1,
+      "explanation": "Fatih, 1453'te henüz 21 yaşındaydı.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 1,
+      "level": 5,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Fotih Sulton Mehmed Istanbul fathida necha yoshda edi?",
+          "choices": [
+            "15",
+            "21",
+            "30",
+            "40"
+          ],
+          "explanation": "Fotih 1453-yilda hali 21 yoshda edi."
+        }
+      }
+    },
+    {
+      "text": "Hicrî takvimin ilk ayı hangisidir?",
+      "choices": [
+        "Safer",
+        "Muharrem",
+        "Ramazan",
+        "Recep"
+      ],
+      "correct": 1,
+      "explanation": "Hicrî yılın ilk ayı Muharrem'dir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Hijriy taqvimning birinchi oyi qaysi?",
+          "choices": [
+            "Safar",
+            "Muharram",
+            "Ramazon",
+            "Rajab"
+          ],
+          "explanation": "Hijriy yilning birinchi oyi Muharramdir."
+        }
+      }
+    },
+    {
+      "text": "Mescid-i Aksâ hangi şehirdedir?",
+      "choices": [
+        "Kudüs",
+        "Mekke",
+        "Şam",
+        "Medine"
+      ],
+      "correct": 0,
+      "explanation": "Mescid-i Aksâ Kudüs'tedir.",
+      "source": "Taslak (Genel İslâmî kaynaklar) — uzman kontrolü gerekli",
+      "difficulty": 3,
+      "level": 10,
+      "approved": false,
+      "translations": {
+        "uz": {
+          "text": "Masjidi Aqso qaysi shaharda?",
+          "choices": [
+            "Quddus",
+            "Makka",
+            "Shom",
+            "Madina"
+          ],
+          "explanation": "Masjidi Aqso Quddusda."
         }
       }
     }
