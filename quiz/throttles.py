@@ -16,3 +16,15 @@ class AnswerThrottle(_IPThrottle):
 
 class NameThrottle(_IPThrottle):
     scope = "name"
+
+
+class DuelCreateThrottle(_IPThrottle):
+    scope = "duel_create"
+
+
+class DuelStatusThrottle(_IPThrottle):
+    scope = "duel_status"
+
+
+class DuelAnswerThrottle(_IPThrottle):
+    scope = "duel_answer"

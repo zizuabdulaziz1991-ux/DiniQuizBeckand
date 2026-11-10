@@ -91,6 +91,7 @@ CORS_ALLOW_HEADERS = [
     "origin",
     "x-session-token",
     "x-player-id",
+    "x-duel-token",
 ]
 
 REST_FRAMEWORK = {
@@ -102,6 +103,9 @@ REST_FRAMEWORK = {
         "session_create": "30/hour",
         "answer": "120/min",
         "name": "30/hour",
+        "duel_create": "60/hour",
+        "duel_status": "600/min",
+        "duel_answer": "240/min",
     },
 }
 
@@ -124,3 +128,9 @@ QUIZ_MAX_SPEED_BONUS = 50
 # Diller (kod: görünen ad). Yeni dil eklemek için buraya eklemek ve çevirileri girmek yeterli.
 QUIZ_LANGUAGES = {"tr": "Türkçe", "uz": "Oʻzbekcha"}
 QUIZ_DEFAULT_LANGUAGE = "tr"
+
+# Düello
+DUEL_COUNTDOWN_SECONDS = 4
+DUEL_REVEAL_SECONDS = 3
+DUEL_LOBBY_TTL_SECONDS = 1800
+DUEL_CONNECTED_SECONDS = 10

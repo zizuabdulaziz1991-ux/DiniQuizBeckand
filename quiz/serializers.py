@@ -34,3 +34,17 @@ class NameSerializer(serializers.Serializer):
             return validate_player_name(value)
         except DjangoValidationError as exc:
             raise serializers.ValidationError(exc.messages)
+
+
+class DuelCreateSerializer(serializers.Serializer):
+    category = serializers.SlugField()
+    level = serializers.IntegerField(required=False, default=1)
+    language = serializers.CharField(max_length=10, required=False, allow_blank=True)
+    player_id = serializers.UUIDField()
+    player_name = serializers.CharField(max_length=100)
+
+
+class DuelJoinSerializer(serializers.Serializer):
+    player_id = serializers.UUIDField()
+    player_name = serializers.CharField(max_length=100)
+    language = serializers.CharField(max_length=10, required=False, allow_blank=True)

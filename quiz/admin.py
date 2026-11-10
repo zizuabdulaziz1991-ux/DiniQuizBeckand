@@ -10,6 +10,7 @@ from quiz.models import (
     Category,
     CategoryTranslation,
     Choice,
+    Duel,
     LevelProgress,
     PlayerScore,
     Question,
@@ -157,3 +158,23 @@ class LevelProgressAdmin(admin.ModelAdmin):
 
     def has_add_permission(self, request):
         return False
+
+
+class DuelPlayerInline(admin.TabularInline):
+    model = __import__("quiz.models", fromlist=["DuelPlayer"]).DuelPlayer
+    extra = 0
+    can_delete = False
+    readonly_fields = ("role", "player_id", "name", "language", "last_seen")
+    exclude = ("token",)
+
+    def has_add_permission(self, request, obj=None):
+        return False
+
+
+@admin.register(Duel)
+class DuelAdmin(admin.ModelAdmin):
+    list_display = ("code", "category", "level", "status", "created_at", "finished_at")
+    list_filter = ("status", "category", "level")
+    search_fields = ("code",)
+    readonly_fields = ("code", "question_order", "created_at", "starts_at", "finished_at")
+    inlines = [DuelPlayerInline]

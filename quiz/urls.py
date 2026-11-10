@@ -32,5 +32,9 @@ urlpatterns = [
         views.SessionNameView.as_view(),
         name="session-name",
     ),
+    path("duels/", views.DuelCreateView.as_view(), name="duel-create"),
+    path("duels/<str:code>/join/", views.DuelJoinView.as_view(), name="duel-join"),
+    path("duels/<str:code>/answer/", views.DuelAnswerView.as_view(), name="duel-answer"),
+    path("duels/<str:code>/", views.DuelStateView.as_view(), name="duel-state"),
     path("leaderboard/", views.LeaderboardView.as_view(), name="leaderboard"),
 ]

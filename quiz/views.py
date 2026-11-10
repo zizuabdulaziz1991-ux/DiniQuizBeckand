@@ -12,12 +12,22 @@ from quiz.permissions import HasSessionToken
 from quiz.serializers import (
     AnswerSerializer,
     CategorySerializer,
+    DuelCreateSerializer,
+    DuelJoinSerializer,
     NameSerializer,
     StartSessionSerializer,
 )
+from quiz.services import duel as duel_svc
 from quiz.services import i18n
 from quiz.services import session as svc
-from quiz.throttles import AnswerThrottle, NameThrottle, SessionCreateThrottle
+from quiz.throttles import (
+    AnswerThrottle,
+    DuelAnswerThrottle,
+    DuelCreateThrottle,
+    DuelStatusThrottle,
+    NameThrottle,
+    SessionCreateThrottle,
+)
 
 
 class QuizErrorMixin:
@@ -213,3 +223,70 @@ class LeaderboardView(APIView):
                 for i, r in enumerate(rows, start=1)
             ]
         return Response({"category": slug or None, "mode": mode, "entries": entries})
+
+
+class DuelCreateView(QuizErrorMixin, APIView):
+    throttle_classes = [DuelCreateThrottle]
+
+    @extend_schema(request=DuelCreateSerializer, responses=dict)
+    def post(self, request):
+        data = DuelCreateSerializer(data=request.data)
+        data.is_valid(raise_exception=True)
+        v = data.validated_data
+        language = i18n.resolve_language(v.get("language"), request.headers.get("Accept-Language"))
+        duel, host = duel_svc.create_duel(
+            v["category"], v["level"], language, v["player_id"], v["player_name"]
+        )
+        return Response(
+            {
+                "code": duel.code,
+                "role": host.role,
+                "token": host.token,
+                "status": duel.status,
+                "category": duel.category.slug,
+                "level": duel.level,
+                "total_questions": len(duel.question_order),
+                "time_limit_seconds": settings.QUIZ_TIME_LIMIT_SECONDS,
+                "expires_in_seconds": settings.DUEL_LOBBY_TTL_SECONDS,
+            },
+            status=status.HTTP_201_CREATED,
+        )
+
+
+class DuelJoinView(QuizErrorMixin, APIView):
+    throttle_classes = [DuelCreateThrottle]
+
+    @extend_schema(request=DuelJoinSerializer, responses=dict)
+    def post(self, request, code):
+        data = DuelJoinSerializer(data=request.data)
+        data.is_valid(raise_exception=True)
+        v = data.validated_data
+        language = i18n.resolve_language(v.get("language"), request.headers.get("Accept-Language"))
+        duel, guest = duel_svc.join_duel(code, v["player_id"], v["player_name"], language)
+        return Response(
+            {"code": duel.code, "role": guest.role, "token": guest.token, "status": duel.status}
+        )
+
+
+class DuelStateView(QuizErrorMixin, APIView):
+    throttle_classes = [DuelStatusThrottle]
+
+    @extend_schema(responses=dict)
+    def get(self, request, code):
+        return Response(duel_svc.get_state(code, request.headers.get("X-Duel-Token", "")))
+
+
+class DuelAnswerView(QuizErrorMixin, APIView):
+    throttle_classes = [DuelAnswerThrottle]
+
+    @extend_schema(request=AnswerSerializer, responses=dict)
+    def post(self, request, code):
+        data = AnswerSerializer(data=request.data)
+        data.is_valid(raise_exception=True)
+        result = duel_svc.submit_answer(
+            code,
+            request.headers.get("X-Duel-Token", ""),
+            data.validated_data["question_id"],
+            data.validated_data["choice_id"],
+        )
+        return Response(result)

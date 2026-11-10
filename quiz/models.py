@@ -193,3 +193,82 @@ class LevelProgress(models.Model):
 
     def __str__(self):
         return f"{self.player_id} · {self.category.slug} · L{self.level} · {'✓' if self.passed else '…'}"
+
+
+def generate_duel_code():
+    # 0/O/1/I gibi karışan karakterler yok
+    alphabet = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"
+    return "".join(secrets.choice(alphabet) for _ in range(6))
+
+
+class Duel(models.Model):
+    """İki kişilik canlı yarış: aynı sorular, kilit adımlı (lock-step) turlar."""
+
+    class Status(models.TextChoices):
+        WAITING = "waiting", "Rakip bekleniyor"
+        ACTIVE = "active", "Devam ediyor"
+        FINISHED = "finished", "Bitti"
+        EXPIRED = "expired", "Süresi doldu"
+
+    code = models.CharField(max_length=6, unique=True, default=generate_duel_code)
+    category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name="duels")
+    level = models.PositiveSmallIntegerField(default=1)
+    question_order = models.JSONField(default=list)
+    status = models.CharField(max_length=10, choices=Status.choices, default=Status.WAITING)
+    created_at = models.DateTimeField(auto_now_add=True)
+    starts_at = models.DateTimeField(null=True, blank=True)
+    index = models.PositiveSmallIntegerField(default=0)
+    round_started_at = models.DateTimeField(null=True, blank=True)
+    reveal_until = models.DateTimeField(null=True, blank=True)
+    finished_at = models.DateTimeField(null=True, blank=True)
+
+    class Meta:
+        ordering = ["-created_at"]
+        verbose_name = "Düello"
+        verbose_name_plural = "Düellolar"
+
+    def __str__(self):
+        return f"{self.code} · {self.category.slug} · L{self.level} · {self.status}"
+
+
+class DuelPlayer(models.Model):
+    class Role(models.TextChoices):
+        HOST = "host", "Kurucu"
+        GUEST = "guest", "Konuk"
+
+    duel = models.ForeignKey(Duel, on_delete=models.CASCADE, related_name="players")
+    role = models.CharField(max_length=5, choices=Role.choices)
+    player_id = models.UUIDField()
+    name = models.CharField(max_length=20)
+    token = models.CharField(max_length=64, default=generate_token, editable=False)
+    language = models.CharField(max_length=5, default="tr")
+    last_seen = models.DateTimeField(null=True, blank=True)
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=["duel", "role"], name="uniq_duel_role"),
+        ]
+        verbose_name = "Düello oyuncusu"
+        verbose_name_plural = "Düello oyuncuları"
+
+    def __str__(self):
+        return f"{self.duel.code} · {self.role} · {self.name}"
+
+
+class DuelAnswer(models.Model):
+    duel = models.ForeignKey(Duel, on_delete=models.CASCADE, related_name="answers")
+    player = models.ForeignKey(DuelPlayer, on_delete=models.CASCADE, related_name="answers")
+    index = models.PositiveSmallIntegerField()
+    question = models.ForeignKey(Question, on_delete=models.CASCADE)
+    choice = models.ForeignKey(Choice, null=True, blank=True, on_delete=models.SET_NULL)
+    is_correct = models.BooleanField(default=False)
+    elapsed_ms = models.PositiveIntegerField(default=0)
+    points = models.PositiveSmallIntegerField(default=0)
+    answered_at = models.DateTimeField()
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=["duel", "player", "index"], name="uniq_duel_player_round")
+        ]
+        verbose_name = "Düello cevabı"
+        verbose_name_plural = "Düello cevapları"
